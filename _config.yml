@@ -1,0 +1,83 @@
+# Configs for pwills.com
+
+title: "Nicholas Landry"
+name: "Nicholas Landry"
+email: nicholas.landry@colorado.edu
+url: "http://www.nlandry.com"
+repository: "NLandry91/nlandry.github.io"
+
+include:
+  - _pages
+  - assets
+  - blog
+  - index.md
+exclude:
+  - TODO.md
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Build settings
+markdown: kramdown
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
+# settings for author profile
+author:
+  name   : "Nicholas Landry"
+  avatar : "/assets/images/headshot1.jpg"
+  bio    : "Mathematician, Engineer, Philosopher, Teacher"
+  location: "Boulder, CO"
+  github : NLandry91
+  linkedin: landrynicholas
+  email  : nicholas.landry@colorado.edu
+
+
+# # comments by disqus (can't get this to work)
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "pwills-com"
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-116208936-1"
+
+# default YAML front matter
+defaults:
+  # all
+  - scope:
+      path: ""
+    values:
+      layout: single
+      mathjax: true
+      author_profile: true
+      class: wide
+      title: " "
+      title_separator: "|"
+  # posts
+  - scope:
+      type: posts
+    values:
+      toc: true
+      toc_label: "Contents"
+      read_time: true
+  # portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      author_profile: false
+      excerpt: ""
+      sidebar:
+        nav: "portfolio"
+
+# collections
+collections:
+  portfolio:
+    output: true
