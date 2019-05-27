@@ -52,8 +52,9 @@ feature_row:
 {% include feature_row %}
 
 <div style="margin-bottom:1cm" align="center"><font size="55">About Me</font></div>
-<img src="{{ "/assets/images/ramen.jpg" | absolute_url }}"
-width="25%" hspace="20" align="left">
+
+
+<img src="{{ site.url }}/assets/images/ramen.jpg" width="25%" hspace="20" align="left">
 
 
 <img src="{{ "/assets/images/sand_dunes.jpg" | absolute_url }}"
