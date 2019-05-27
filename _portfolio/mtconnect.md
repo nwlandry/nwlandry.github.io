@@ -20,9 +20,10 @@ Turbocam International is an international manufacturing company which focuses o
 
 Greater visibility in the manufacturing sector has exploded in the last decade, with the IoT revolution driving big data in factories. Companies want to leverage current and historical data to eke out extra efficiency, whether it be a bottleneck or miscommunication holding up production.
 
-Companies (MEMEX, Forcam, MachineMetrics, etc.) has swarmed in to answer this demand. Because these companies sometimes require a large financial commitment, I was tasked with developing an in-house solution. One thing that is important is standardization, because otherwise, the solution is not scalable. This is where [MTconnect][2] comes in. MTConnect was developed as an industry standard allowing companies to "plug-and-play" with many different makes and models of machine tools. Therefore, once you make machine data available in a standard format, you can easily modify or swap out the frontend without any backend modifications. A schematic of this is the following:
+Companies (MEMEX, Forcam, MachineMetrics, etc.) has swarmed in to answer this demand. Because these companies sometimes require a large financial commitment, I was tasked with developing an in-house solution. One thing that is important is standardization, because otherwise, the solution is not scalable. This is where [MTConnect][2] comes in. MTConnect was developed as an industry standard allowing companies to "plug-and-play" with many different makes and models of machine tools. Therefore, once you make machine data available in a standard format, you can easily modify or swap out the frontend without any backend modifications. A schematic of this is the following:
 <figure>
-<img src="{{ "/assets/images/mtconnect.PNG" | absolute_url }}">
+<img src="{{ site.url }}/assets/images/mtconnect.PNG">
+
 </figure>
 
 
