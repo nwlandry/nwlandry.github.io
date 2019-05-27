@@ -1,14 +1,14 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/white_mtns.jpg
+  overlay_image: /assets/images/white_mtns.JPG
   caption: "Mt. Adams, NH"
 permalink: /about/
 ---
 
 # About Me
 
-<img src="{{ site.url }}/assets/images/hike_pic.jpg" width="50%" hspace="20" align="right">
+<img src="{{ site.url }}/assets/images/hike_pic.JPG" width="50%" hspace="20" align="right">
 
 
 I'm a New Englander at heart, growing up in Seacoast NH and getting my
