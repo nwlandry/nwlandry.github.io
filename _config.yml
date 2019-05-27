@@ -36,18 +36,6 @@ author:
   linkedin: landrynicholas
   email  : nicholas.landry@colorado.edu
 
-
-# # comments by disqus (can't get this to work)
-# comments:
-#   provider: "disqus"
-#   disqus:
-#     shortname: "pwills-com"
-
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-116208936-1"
-
 # default YAML front matter
 defaults:
   # all
