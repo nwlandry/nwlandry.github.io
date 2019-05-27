@@ -9,7 +9,8 @@ permalink: /research/
 
 # Network Science
 
-<img src="{{ "/assets/images/internet-map-FB.jpg" | absolute_url }}" width="25%" align="right">
+<img src="{{ site.url }}/assets/images/internet-map-FB.jpg" width="25%" hspace="20" align="right">
+
 
 Various network science problems including graph comparison, multilayer networks, classification, and graph topology.
 

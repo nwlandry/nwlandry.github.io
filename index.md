@@ -56,8 +56,6 @@ feature_row:
 
 <img src="{{ site.url }}/assets/images/ramen.jpg" width="25%" hspace="20" align="left">
 
-
-<img src="{{ "/assets/images/sand_dunes.jpg" | absolute_url }}"
-width="25%" hspace="20" align="right">
+<img src="{{ site.url }}/assets/images/sand_dunes.jpg" width="25%" hspace="20" align="right">
 
 Originally a New Englander, I live with my wife, Shari, in Boulder, CO. I'm a PhD student in Applied Mathematics and was originally a mechanical engineer. In my free time, you can find me perfecting my homemade ramen recipe, reading, taking long walks, programming, engaging in philosophical discussions, or exploring the outdoors. For more, see [About](/about/)

@@ -8,8 +8,8 @@ permalink: /about/
 
 # About Me
 
-<img src="{{ "/assets/images/hike_pic.jpg" | absolute_url }}"
-width="50%" hspace="20" align="right">
+<img src="{{ site.url }}/assets/images/hike_pic.jpg" width="50%" hspace="20" align="right">
+
 
 I'm a New Englander at heart, growing up in Seacoast NH and getting my
 Bachelors in Mechanical Engineering where I wrote my undergraduate thesis on
