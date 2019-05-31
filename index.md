@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/mike-scheid-639977-unsplash.jpg
   caption: "Credit: Mike Scheid"
 
-excerpt: "Mathematician, Mechanical Engineer, Philosopher, Teacher"
+excerpt: "Mathematician, Engineer, Philosopher, Teacher"
 
 intro:
   - excerpt: "I'm an applied math PhD student with a penchant for thinking
@@ -58,4 +58,4 @@ feature_row:
 
 <img src="{{ site.url }}/assets/images/sand_dunes.jpg" width="25%" hspace="20" align="right">
 
-Originally a New Englander, I live with my wife, Shari, in Boulder, CO. I'm a PhD student in Applied Mathematics and was originally a mechanical engineer. In my free time, you can find me perfecting my homemade ramen recipe, reading, taking long walks, programming, engaging in philosophical discussions, or exploring the outdoors. For more, see [About](/about/)
+Originally a New Englander, I live with my wife, Shari, in Boulder, CO. I'm a PhD student in Applied Mathematics and was originally a mechanical engineer. In my free time, you can find me perfecting my homemade ramen recipe, reading, programming, engaging in philosophical discussions, or exploring the outdoors. For more, see [About](/about/)
