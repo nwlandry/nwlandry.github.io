@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0"
   overlay_image: /assets/images/mike-scheid-639977-unsplash.jpg
-  caption: "Credit: Mike Scheid"
+  caption: "Credit: [**Mike Scheid**](www.unsplash.com)"
 
 excerpt: "Mathematician, Engineer, Philosopher, Teacher"
 

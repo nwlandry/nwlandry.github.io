@@ -3,7 +3,7 @@ layout: splash
 title: "Research Interests"
 header:
   overlay_image: /assets/images/network_art.jpg
-  caption: "Photo credit: [**Alina Grubnyak**](https://unsplash.com)"
+  caption: "Credit: [**Alina Grubnyak**](https://unsplash.com)"
 permalink: /research/
 ---
 

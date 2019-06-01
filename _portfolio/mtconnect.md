@@ -1,7 +1,7 @@
 ---
 header:
   overlay_image: /assets/images/code.jpg
-  caption: "Photo credit: [**Marcus Spiske**](https://unsplash.com)"
+  caption: "Credit: [**Marcus Spiske**](https://unsplash.com)"
 permalink: /portfolio/mtconnect/
 date: 2019-05-26
 toc: true

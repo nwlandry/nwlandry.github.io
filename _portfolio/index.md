@@ -1,7 +1,7 @@
 ---
 header:
   overlay_image: /assets/images/paint.jpg
-  caption: "Photo credit: [Andrian Valeanu](https://unsplash.com)"
+  caption: "Credit: [Andrian Valeanu](https://unsplash.com)"
 permalink: /portfolio/index.html
 date: 2019-05-10
 ---

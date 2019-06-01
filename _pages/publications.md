@@ -2,7 +2,7 @@
 layout: splash
 header:
   overlay_image: /assets/images/typewriter.jpg
-  caption: "Photo credit: [Deleece Cook](https://unsplash.com)"
+  caption: "Credit: [Deleece Cook](https://unsplash.com)"
 permalink: /publications/
 ---
 

@@ -1,7 +1,7 @@
 ---
 header:
   overlay_image: /assets/images/record-player.jpg
-  caption: "Photo credit: [Lee Campbell](https://unsplash.com)"
+  caption: "Credit: [Lee Campbell](https://unsplash.com)"
 permalink: /portfolio/music_structure/
 category: machine_learning
 date: 2019-05-26

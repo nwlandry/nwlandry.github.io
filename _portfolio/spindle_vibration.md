@@ -1,7 +1,7 @@
 ---
 header:
   overlay_image: /assets/images/machine.jpg
-  caption: "Photo credit: [**Aaron Barnaby**](https://unsplash.com)"
+  caption: "Credit: [**Aaron Barnaby**](https://unsplash.com)"
 permalink: /portfolio/spindle_vibration/
 date: 2019-05-31
 toc: true
