@@ -19,6 +19,8 @@ portfolio:
     children:
       - title: "Structure In Music"
         url: /portfolio/music_structure/
+      - title: "World Cup Passing"
+        url: /portfolio/world_cup/
 
   - title: "Professional"
     children:
