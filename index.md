@@ -16,7 +16,7 @@ header:
 
 
 feature_row:
-  - image_path: "assets/images/england_vs_usa.png"
+  - image_path: "assets/images/england_vs_usa.PNG"
     alt: "World Cup Passing Networks"
     title: "World Cup Passing Networks"
     excerpt: "Visualizing passes between players in soccer matches"
