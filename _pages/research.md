@@ -24,4 +24,4 @@ Using machine learning to uncover characteristics that determine behavior and di
 
 # Dynamical Systems
 
-Chaotic behavior and low-dimensional structure of network dynamics
+Chaotic behavior, music, soccer

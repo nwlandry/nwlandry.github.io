@@ -6,6 +6,7 @@ email: nicholas.landry@colorado.edu
 url: "https://nlandry91.github.io"
 repository: "NLandry91/NLandry91.github.io"
 
+
 include:
   - _pages
   - assets
@@ -19,6 +20,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Build settings
 markdown: kramdown
@@ -30,11 +32,16 @@ minimal_mistakes_skin: "air"
 author:
   name   : "Nicholas Landry"
   avatar : "/assets/images/headshot1.jpg"
-  bio    : "Mathematician, Engineer, Philosopher, Teacher"
+  #bio    : "Mathematician, Engineer, Philosopher, Teacher"
   location: "Boulder, CO"
+  email  : nicholas.landry@colorado.edu
   github : NLandry91
   linkedin: landrynicholas
-  email  : nicholas.landry@colorado.edu
+  twitter : nwlandry
+
+# pagination for blog page
+paginate: 5 # number of posts to show
+paginate_path: "/blog/page:num/"
 
 # default YAML front matter
 defaults:

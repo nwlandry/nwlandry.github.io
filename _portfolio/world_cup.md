@@ -11,7 +11,7 @@ toc_label: "Contents"
 
 I got really interested in the structural characteristics of the network of passes in a soccer game. I used [WebWeb][1], an excellent Python package developed by Hunter Wapman and Dan Larremore at CU Boulder, to visualize these networks. I used the StatsBomb [database][2] on Github for the game data.
 
-You can use the up/down arrows to switch between matches. The size of the nodes indicates how many passes that player has completed, and the width of the lines between nodes (edges) indicates how many passes have been completed between two players.
+You can use the up/down arrows to switch between matches. The size of the nodes indicates how many passes that player has completed, and the width of the lines between nodes (edges) indicates how many passes have been completed between two players. In addition, the location of each node indicates the average position of that player on the field over all their completed passes.
 
 # Visualization of the 2018 FIFA Men's World Cup
 <iframe src="/portfolio/mens_world_cup_2018.html" frameborder="0" scrolling="no" width="900" height="700"></iframe>
