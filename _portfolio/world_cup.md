@@ -10,6 +10,7 @@ toc_label: "Contents"
 # World Cup Passing Networks
 
 I got really interested in the structural characteristics of the network of passes in a soccer game. I used [WebWeb][1], an excellent Python package developed by Hunter Wapman and Dan Larremore at CU Boulder, to visualize these networks. I used the StatsBomb [database][2] on Github for the game data.
+You can check out my Github [project][3] to use the GUI to analyze other datasets in this format.
 
 You can use the up/down arrows to switch between matches. The size of the nodes indicates how many passes that player has completed, and the width of the lines between nodes (edges) indicates how many passes have been completed between two players. In addition, the location of each node indicates the average position of that player on the field over all their completed passes.
 
@@ -32,8 +33,6 @@ This covers 54 matches out of the 104 matches played in the 2018/2019 FA Women's
 <iframe src="/portfolio/womens_world_cup_2019.html" frameborder="0" scrolling="no" width="900" height="700"></iframe>
 
 This covers 52 matches: 36 matches in group play and 16 matches in the knockout stage.
-
-You can also check out my Github [project][3] to use the GUI to analyze other datasets in this format.
 
 [1]: https://webwebpage.github.io/
 
