@@ -6,8 +6,6 @@ header:
 permalink: /about/
 ---
 
-My CV is [here][4] and Google Scholar page is [here][5].
-
 # About Me
 
 <img src="{{ site.url }}/assets/images/hike_pic.JPG" width="50%" hspace="20" align="right">

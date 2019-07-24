@@ -19,23 +19,47 @@ You can use the up/down arrows to switch between matches. The size of the nodes 
 
 This covers 64 matches: 48 matches in group play and 16 matches in the knockout stage.
 
-# Visualization of the 2018 National Women's Soccer League
-<iframe src="/portfolio/nwsl_2018.html" frameborder="0" scrolling="no" width="900" height="700"></iframe>
-
-This covers 18 matches out of the 108 matches played in the 2018 NWSL season.
-
-# Visualization of the 2018/2019 FA Women's Super League
-<iframe src="/portfolio/fa_super_league_2018_2019.html" frameborder="0" scrolling="no" width="900" height="700"></iframe>
-
-This covers 54 matches out of the 104 matches played in the 2018/2019 FA Women's Super League season.
-
 # Visualization of the 2019 FIFA Women's World Cup
 <iframe src="/portfolio/womens_world_cup_2019.html" frameborder="0" scrolling="no" width="900" height="700"></iframe>
 
 This covers 52 matches: 36 matches in group play and 16 matches in the knockout stage.
+
+# More Competitions
+* [Visualization of the 2018 National Women's Soccer League][4] (This covers 34 matches out of the 108 matches played in the 2018 NWSL season)
+* [Visualization of the 2018/2019 Football Association Women's Super League][5] (This covers 107 matches played in the 2018/2019 FA Women's Super League season)
+* [Visualization of the 2004/2005 La Liga][6] (This covers 7 matches out of the 380 matches played in the 2004/2005 La Liga season)
+* [Visualization of the 2005/2006 La Liga][7] (This covers 17 matches out of the 380 matches played in the 2005/2006 La Liga season)
+* [Visualization of the 2006/2007 La Liga][8] (This covers 26 matches out of the 380 matches played in the 2006/2007 La Liga season)
+* [Visualization of the 2007/2008 La Liga][9] (This covers 28 matches out of the 380 matches played in the 2007/2008 La Liga season)
+* [Visualization of the 2008/2009 La Liga][10] (This covers 31 matches out of the 380 matches played in the 2008/2009 La Liga season)
+* [Visualization of the 2009/2010 La Liga][10] (This covers 35 matches out of the 380 matches played in the 2009/2010 La Liga season)
+* [Visualization of the 2010/2011 La Liga][10] (This covers 33 matches out of the 380 matches played in the 2010/2011 La Liga season)
+* [Visualization of the 2011/2012 La Liga][10] (This covers 37 matches out of the 380 matches played in the 2011/2012 La Liga season)
+
+
 
 [1]: https://webwebpage.github.io/
 
 [2]: https://github.com/statsbomb/open-data
 
 [3]: https://github.com/NLandry91/World-Cup-Passing-Networks
+
+[4]: /portfolio/nwsl_2018.html
+
+[5]: /portfolio/fa_super_league_2018_2019.html
+
+[6]: /portfolio/la_liga_2004_2005.html
+
+[7]: /portfolio/la_liga_2005_2006.html
+
+[8]: /portfolio/la_liga_2006_2007.html
+
+[9]: /portfolio/la_liga_2007_2008.html
+
+[10]: /portfolio/la_liga_2008_2009.html
+
+[11]: /portfolio/la_liga_2009_2010.html
+
+[12]: /portfolio/la_liga_2010_2011.html
+
+[13]: /portfolio/la_liga_2011_2012.html
