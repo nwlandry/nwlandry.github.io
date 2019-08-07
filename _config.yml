@@ -19,7 +19,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
-  - jekyll-seo-tag
   - jekyll-paginate
 
 # Build settings
