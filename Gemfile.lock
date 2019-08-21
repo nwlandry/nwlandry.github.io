@@ -220,7 +220,7 @@ GEM
       jemoji (~> 0.10)
     minitest (5.11.3)
     multipart-post (2.1.0)
-    nokogiri (1.10.3)
+    nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     nokogiri (1.10.3-x64-mingw32)
       mini_portile2 (~> 2.4.0)
