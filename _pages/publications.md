@@ -20,9 +20,11 @@ Marko Knezevic, Daniel J. Savage, **Nicholas W. Landry**, [*Towards Computationa
 
 ## Presentations
 
-Nicholas Landry, *So You Think You're Bad at Math*, Ignite Talk for the Graduate Teacher Program's Spring Conference, University of Colorado Boulder, January 2019
+**Nicholas Landry**, Juan G. Restrepo, [*The effect of simplex and network degree distribution on simplicial contagion models*](/assets/docs/Dynamics Days 2020.pdf), Poster, Dynamics Days, January 2020, Hartford, CT
 
 **Nicholas W. Landry**, Amy Lantrip, Jonathan Morris, *Improvisatory Elements of Teaching*, Workshop for the Graduate Teacher Program, University of Colorado Boulder, February 2019
+
+Nicholas Landry, *So You Think You're Bad at Math*, Ignite Talk for the Graduate Teacher Program's Spring Conference, University of Colorado Boulder, January 2019
 
 Nicholas W. Landry, [*Music Data Mining: Finding Structure in Song*](/assets/docs/Music Data Mining-StatOptML-06NOV18.pptx), Presentation for Statistics, Optimization, and Machine Learning Seminar, University of Colorado Boulder, Fall 2018
 
