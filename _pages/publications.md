@@ -20,6 +20,10 @@ Marko Knezevic, Daniel J. Savage, **Nicholas W. Landry**, [*Towards Computationa
 
 ## Presentations
 
+Nicholas Landry, Invited Talk, Colorado chapter of Society of Young Network Scientists, February 2020
+
+Nicholas Landry, [*Contagion on Complex Networks*](https://www.colorado.edu/amath/probably-novel), Radio, Season 3 Episode 13, Probably Novel at University of Colorado Boulder, February 2020
+
 **Nicholas Landry**, Juan G. Restrepo, [*The effect of simplex and network degree distribution on simplicial contagion models*](/assets/docs/Dynamics Days 2020.pdf), Poster, Dynamics Days, January 2020, Hartford, CT
 
 **Nicholas W. Landry**, Amy Lantrip, Jonathan Morris, *Improvisatory Elements of Teaching*, Workshop for the Graduate Teacher Program, University of Colorado Boulder, February 2019
