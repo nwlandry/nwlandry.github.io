@@ -20,6 +20,8 @@ Marko Knezevic, Daniel J. Savage, **Nicholas W. Landry**, [*Towards Computationa
 
 ## Presentations
 
+Nicholas Landry, *The effect of simplex and network degree distribution on explosive transitions in epidemic dynamics using simplicial contagion models*, Contributed Talk, Front Range Applied Mathematics Student Conference 2020, February 2020
+
 Nicholas Landry, Invited Talk, Colorado chapter of Society of Young Network Scientists, February 2020
 
 Nicholas Landry, [*Contagion on Complex Networks*](https://www.colorado.edu/amath/probably-novel), Radio, Season 3 Episode 13, Probably Novel at University of Colorado Boulder, February 2020
