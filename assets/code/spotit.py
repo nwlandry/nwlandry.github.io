@@ -58,6 +58,7 @@ web = webweb.Web(A, display=displayNames)
 web.display.charge = 1000
 web.display.linkLength = 200
 web.display.colorBy = 'degree'
+web.display.sizeBy = 'degree'
 web.display.showNodeNames = True
 web.display.attachWebwebToElementWithId = 'spotit'
 web.show()
