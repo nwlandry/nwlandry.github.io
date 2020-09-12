@@ -10,6 +10,8 @@ permalink: /publications/
 
 ## Articles
 
+**Nicholas Landry**, Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](https://arxiv.org/abs/2006.15453), Preprint under review, ArXiv:2006.15453
+
 **Nicholas W. Landry**, Marko Knezevic, [*Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms*](https://www.ncbi.nlm.nih.gov/pubmed/28793566), Materials, Volume 8, No. 9, September 2015, Pages 6326-6345
 
 Marko Knezevic, **Nicholas W. Landry**, [*Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics*](https://www.sciencedirect.com/science/article/pii/S0167663615001040), Mechanics of Materials, Volume 88, September 2015, Pages 73-86, ISSN 0167-6636
@@ -19,6 +21,10 @@ Marko Knezevic, **Nicholas W. Landry**, [*Procedures for reducing large datasets
 Marko Knezevic, Daniel J. Savage, **Nicholas W. Landry**, [*Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures*](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1914274), Proc. ASME. 45813; Volume 2: Processing, June 09, 2014, Paper No. MSEC2014-3984, pp. V002T02A070, doi:10.1115/MSEC2014-3984
 
 ## Presentations
+
+Nicholas Landry, *The effect of heterogeneity on hypergraph contagion models*, Contributed Talk, TopoNets 2020, September 2020
+
+Nicholas Landry, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/DDD 2020 - Nicholas Landry.pdf), Poster, Dynamics Days Digital 2020, August 2020
 
 Nicholas Landry, *The effect of simplex and network degree distribution on explosive transitions in epidemic dynamics using simplicial contagion models*, Contributed Talk, Front Range Applied Mathematics Student Conference 2020, February 2020
 

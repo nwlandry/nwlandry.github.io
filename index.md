@@ -41,7 +41,7 @@ feature_row:
 
 <img src="{{ site.url }}/assets/images/headshot.jpg" width="40%" hspace="20" align="right" style="padding:15px">
 
-I’m an applied mathematics PhD student with a penchant for thinking about the "why" with a good grounding in common sense. I am analytical and like to see the bigger picture. I’ve worked in both academia and industry and am passionate about the next hard problem that comes my way. My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, visit [here](/about/). You can also take a look at my [blog](/blog/).
+I’m an applied mathematics PhD student with a penchant for thinking about the "why" with a good grounding in common sense. I am analytical and like to see the bigger picture. I’ve worked in both academia and industry and am passionate about the next hard problem that comes my way. My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, visit my [bio](/about/). You can also take a look at my [blog](/blog/).
 
 {% include feature_row id="intro" type="center" %}
 

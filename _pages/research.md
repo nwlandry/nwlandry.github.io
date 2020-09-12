@@ -7,20 +7,15 @@ header:
 permalink: /research/
 ---
 
-# Network Science
+# Dynamics on Higher Order Networks
 
 <img src="{{ site.url }}/assets/images/internet-map-FB.jpg" width="25%" hspace="20" align="right">
 
-
-Various network science problems including graph comparison, multilayer networks, classification, and graph topology.
-
-# Neuroscience
-
-Mathematically informed neuroscience and network-based models of the brain. Neurophysiological informed network models.
+Contagion and opinion formation on hypergraphs, epidemic models
 
 # Machine Learning
 
-Using machine learning to uncover characteristics that determine behavior and differences in networks
+Using machine learning to uncover characteristics that determine behavior and differences in networks, machine learning for prediction of dynamical systems
 
 # Dynamical Systems
 
