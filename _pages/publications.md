@@ -10,15 +10,15 @@ permalink: /publications/
 
 ## Articles
 
-**Nicholas Landry**, Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/CHA20-AR-00918.pdf), Chaos, Volume 30, Number 10, October 2020, [https://doi.org/10.1063/5.0020034](https://doi.org/10.1063/5.0020034) and [ArXiV link](https://arxiv.org/abs/2006.15453)
+**Nicholas Landry**, Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/the_effect_of_heterogeneity_on_hypergraph_contagion_models.pdf), Chaos, Volume 30, Number 10, October 2020, [https://doi.org/10.1063/5.0020034](https://doi.org/10.1063/5.0020034) and [ArXiV link](https://arxiv.org/abs/2006.15453)
 
 **Nicholas W. Landry**, Marko Knezevic, [*Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms*](/assets/docs/materials-08-05303.pdf), Materials, Volume 8, No. 9, September 2015, Pages 6326-6345, [https://dx.doi.org/10.3390%2Fma8095303](https://dx.doi.org/10.3390%2Fma8095303)
 
-Marko Knezevic, **Nicholas W. Landry**, [*Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics*](assets/docs/procedures_GSH.pdf), Mechanics of Materials, Volume 88, September 2015, Pages 73-86, ISSN 0167-6636, [https://doi.org/10.1016/j.mechmat.2015.04.014](https://doi.org/10.1016/j.mechmat.2015.04.014)
+Marko Knezevic, **Nicholas W. Landry**, [*Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics*](/assets/docs/procedures_GSH.pdf), Mechanics of Materials, Volume 88, September 2015, Pages 73-86, ISSN 0167-6636, [https://doi.org/10.1016/j.mechmat.2015.04.014](https://doi.org/10.1016/j.mechmat.2015.04.014)
 
 ## Conference Papers
 
-Marko Knezevic, Daniel J. Savage, **Nicholas W. Landry**, [*Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures*](assets/docs/MSEC2014-3984.pdf), Proc. ASME. 45813; Volume 2: Processing, June 09, 2014, Paper No. MSEC2014-3984, pp. V002T02A070, [doi:10.1115/MSEC2014-3984](https://doi.org/10.1115/MSEC2014-3984)
+Marko Knezevic, Daniel J. Savage, **Nicholas W. Landry**, [*Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures*](/assets/docs/MSEC2014-3984.pdf), Proc. ASME. 45813; Volume 2: Processing, June 09, 2014, Paper No. MSEC2014-3984, pp. V002T02A070, [doi:10.1115/MSEC2014-3984](https://doi.org/10.1115/MSEC2014-3984)
 
 ## Presentations
 
