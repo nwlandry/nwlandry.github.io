@@ -20,6 +20,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
@@ -31,7 +32,6 @@ minimal_mistakes_skin: "air"
 author:
   name   : "Nicholas Landry"
   avatar : "/assets/images/headshot.jpg"
-  #bio    : "Mathematician, Engineer, Philosopher, Teacher"
   location: "Boulder, CO"
   email  : nicholas.landry@colorado.edu
   github : nwlandry
