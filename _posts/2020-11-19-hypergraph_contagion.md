@@ -4,7 +4,7 @@ category: posts
 date: 2020-11-19
 ---
 
-I'm excited to share my work with Juan Restrepo titled "The effect of heterogeneity on hypergraph contagion models"! We found that the heterogeneity of pairwise and group interactions strongly affects the appearance of “tipping point” behavior and you can find the paper in [Chaos](https://doi.org/10.1063/5.0020034) or on [ArXiV](https://arxiv.org/abs/2006.15453) Deciphering the jargon: A hypergraph is a mathematical structure that allows us to represent not only individual interactions but group interactions as well (Illustration below).
+I'm excited to share my work with Juan Restrepo titled "The effect of heterogeneity on hypergraph contagion models"! We found that the heterogeneity of pairwise and group interactions strongly affects the appearance of “tipping point” behavior and you can find the paper in [Chaos](https://doi.org/10.1063/5.0020034) or on [ArXiV](https://arxiv.org/abs/2006.15453). Deciphering the jargon: A hypergraph is a mathematical structure that allows us to represent not only individual interactions but group interactions as well (Illustration below).
 
 <img src="{{ "/assets/images/hypergraph_illustration.svg" | absolute_url }}" width="50%" hspace="20" align="left">
 
