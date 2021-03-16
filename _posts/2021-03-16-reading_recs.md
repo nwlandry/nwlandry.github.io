@@ -4,7 +4,6 @@ category: posts
 date: 2021-03-16
 ---
 
-# Crowdsourced Network Science Book Recommendations
 This is a list of network science books curated by some fine folks on [Twitter](https://twitter.com/nwlandry/status/1343676490366390272). Note that some of these aren't quite network science related but interesting nonetheless! This isn't an exhaustive list so feel free to email me any other suggestions to add!
 
 * [*Networks, Crowds, and Markets*](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Kleinberg and Easley
