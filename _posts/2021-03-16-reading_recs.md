@@ -21,4 +21,4 @@ This is a list of network science books curated by some fine folks on [Twitter](
 * [*A First Course in Network Theory*](https://global.oup.com/academic/product/a-first-course-in-network-theory-9780198726463?cc=us&lang=en&) by Estrada and Knight
 * [*The Formula: The Universal Laws of Success*](https://www.amazon.com/Formula-Universal-Laws-Success/dp/0316505498) by Barabasi
 * [*The Origins of Order: Self-Organization and Selection in Evolution*](https://www.amazon.com/Origins-Order-Self-Organization-Selection-Evolution/dp/0195079515) by Kauffman
-* [*Networks: A Very Short Introduction*](https://global.oup.com/academic/product/networks-a-very-short-introduction-9780199588077?cc=us&lang=en&)
+* [*Networks: A Very Short Introduction*](https://global.oup.com/academic/product/networks-a-very-short-introduction-9780199588077?cc=us&lang=en&) by Caldarelli and Catanzaro
