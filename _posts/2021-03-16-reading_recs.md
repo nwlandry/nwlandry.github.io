@@ -30,8 +30,9 @@ This is a list of network science books curated by some fine folks on [Twitter](
 * [*Complex Networks: Structure, Robustness and Function*](https://www.researchgate.net/profile/Shlomo-Havlin/publication/258100764_Complex_Networks_Structure_Robustness_and_Function/links/555b2d8d08ae6fd2d8299a66/Complex-Networks-Structure-Robustness-and-Function.pdf) by Cohen and Havlin
 * [Scale-Free Networks: Complex Webs in Nature and Technology](https://global.oup.com/academic/product/scale-free-networks-9780199665174?cc=us&lang=en&) by Caldarelli
 * [*Probabilistic Foundations of Statistical Network Analysis*](https://www.amazon.com/Probabilistic-Foundations-Statistical-Monographs-Probability-ebook/dp/B07CGNW9M8) by Crane
-* [*Social Network Analysis: Methods and Applications*](https://www.amazon.com/Social-Network-Analysis-Applications-Structural/dp/0521387078) by Wasserman ([*Cool Visualization*](https://galaxy.opensyllabus.org/#!point/8443905871799))
+* [*Social Network Analysis: Methods and Applications*](https://www.amazon.com/Social-Network-Analysis-Applications-Structural/dp/0521387078) by Wasserman and Faust ([*Cool Visualization*](https://galaxy.opensyllabus.org/#!point/8443905871799))
 * [*Distance In Graphs*](https://www.amazon.com/Distance-Graphs-Fred-Buckley/dp/0201095912) by Buckley and Harary
 * [*Complex Graphs and Networks*](http://www.math.ucsd.edu/~fan/complex/) by Chung and Lu
 * [*Six Degrees: The Science of a Connected Age*](https://www.amazon.com/Six-Degrees-Science-Connected-Age/dp/0393325423) by Watts
 * [*Small Worlds: The Dynamics of Networks between Order and Randomness*](https://press.princeton.edu/books/paperback/9780691117041/small-worlds) by Watts
+* [*Gathering Social Network Data*](https://us.sagepub.com/en-us/nam/gathering-social-network-data/book260973) by adams
