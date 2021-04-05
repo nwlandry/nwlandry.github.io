@@ -43,6 +43,8 @@ feature_row:
 
 I’m an applied mathematics PhD student with a penchant for thinking about the "why" with a good grounding in common sense. I am analytical and like to see the bigger picture. I’ve worked in both academia and industry and am passionate about the next hard problem that comes my way. My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, visit my [bio](/about/). You can also take a look at my [blog](/blog/).
 
+<b>On the job market sometime between May 2022 and December 2022!</b>
+
 {% include feature_row id="intro" type="center" %}
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>

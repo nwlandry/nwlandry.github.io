@@ -22,6 +22,10 @@ Marko Knezevic, Daniel J. Savage, **Nicholas W. Landry**, [*Towards Computationa
 
 ## Presentations
 
+**Nicholas Landry**, Ren Stengel, [*The effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/NERCCS.pdf), Poster, Northeastern Regional Conference on Complex Systems 2021, March 2021
+
+**Nicholas Landry**, Ren Stengel, *The effect of time-dependent infectiousness on epidemic dynamics*, Contributed Talk, Front Range Applied Mathematics Student Conference 2021, March 2021
+
 Nicholas Landry, *The effect of heterogeneity on hypergraph contagion models*, Invited Talk, Seminario FenFisDi, Universidad de Antioquia, October 2020
 
 Nicholas Landry, *The effect of heterogeneity on hypergraph contagion models*, Contributed Talk, TopoNets 2020, September 2020
@@ -30,7 +34,7 @@ Nicholas Landry, *The effect of heterogeneity on hypergraph contagion models*, C
 
 Nicholas Landry, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/DDD 2020 - Nicholas Landry.pdf), Poster, Dynamics Days Digital 2020, August 2020
 
-Nicholas Landry, *The effect of simplex and network degree distribution on explosive transitions in epidemic dynamics using simplicial contagion models*, Contributed Talk, Front Range Applied Mathematics Student Conference 2020, February 2020
+Nicholas Landry, *The effect of simplex and network degree distribution on explosive transitions in epidemic dynamics using simplicial contagion models*, Contributed Talk, Front Range Applied Mathematics Student Conference 2020, March 2020
 
 Nicholas Landry, Invited Talk, Colorado chapter of Society of Young Network Scientists, February 2020
 
