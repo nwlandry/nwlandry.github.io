@@ -22,7 +22,7 @@ Marko Knezevic, Daniel J. Savage, **Nicholas W. Landry**, [*Towards Computationa
 
 ## Presentations
 
-**Nicholas Landry**, Ren Stengel, [*The effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/NERCCS.pdf), Poster, Northeastern Regional Conference on Complex Systems 2021, March 2021
+**Nicholas Landry**, Ren Stengel, [*The effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/NERCCS2021.pdf), Poster, Northeastern Regional Conference on Complex Systems 2021, March 2021
 
 **Nicholas Landry**, Ren Stengel, *The effect of time-dependent infectiousness on epidemic dynamics*, Contributed Talk, Front Range Applied Mathematics Student Conference 2021, March 2021
 
