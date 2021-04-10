@@ -48,6 +48,6 @@ Nicholas Landry, *So You Think You're Bad at Math*, Ignite Talk for the Graduate
 
 Nicholas W. Landry, [*Music Data Mining: Finding Structure in Song*](/assets/docs/Music Data Mining-StatOptML-06NOV18.pptx), Presentation for Statistics, Optimization, and Machine Learning Seminar, University of Colorado Boulder, Fall 2018
 
-## Thesis
+## Theses
 
 Nicholas W. Landry, [*Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations*](/assets/docs/senior_final_report.pdf), The University of New Hampshire, 2014.
