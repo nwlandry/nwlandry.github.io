@@ -28,35 +28,45 @@ Marko Knezevic and **Nicholas W. Landry**, [*Procedures for reducing large datas
 Marko Knezevic, Daniel J. Savage, and **Nicholas W. Landry**, [*Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures*](/assets/docs/MSEC2014-3984.pdf), Proc. ASME. 45813; Volume 2: Processing, June 09, 2014, Paper No. MSEC2014-3984, pp. V002T02A070, [doi:10.1115/MSEC2014-3984](https://doi.org/10.1115/MSEC2014-3984)
 
 
-## Presentations
+## Presented Work
 
-**Nicholas Landry** and Juan G. Restrepo, *The effect of contact structure on hypergraph contagion models*, Invited Talk, "Dynamics on Networks with Higher Order Interactions" Minisymposium, SIAM Dynamical Systems Conference, May 2021
+### Invited Talks
 
-**Nicholas Landry** and Ren Stengel, [*The effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/NERCCS2021.pdf), Poster, Northeastern Regional Conference on Complex Systems 2021, March 2021
+*The effect of contact structure on hypergraph contagion models*, Dynamics on Networks with Higher Order Interactions Minisymposium, SIAM Dynamical Systems Conference, May 2021
 
-**Nicholas Landry** and Ren Stengel, *The effect of time-dependent infectiousness on epidemic dynamics*, Contributed Talk, Front Range Applied Mathematics Student Conference 2021, March 2021
+*The effect of heterogeneity on hypergraph contagion models*, Seminario FenFisDi, Universidad de Antioquia, October 2020
 
-**Nicholas Landry** and Juan G. Restrepo, *The effect of heterogeneity on hypergraph contagion models*, Invited Talk, Seminario FenFisDi, Universidad de Antioquia, October 2020
+*The effect of heterogeneity on hypergraph contagion models*, Contributed Talk, Applied Math Dynamics Seminar, University of Colorado Boulder, September 2020
 
-**Nicholas Landry** and Juan G. Restrepo, *The effect of heterogeneity on hypergraph contagion models*, Contributed Talk, TopoNets 2020, September 2020
+*The effect of heterogeneity on hypergraph contagion models*, Applied Math Dynamics Seminar, University of Colorado Boulder, September 2020
 
-**Nicholas Landry** and Juan G. Restrepo, *The effect of heterogeneity on hypergraph contagion models*, Contributed Talk, Applied Math Dynamics Seminar, University of Colorado Boulder, September 2020
+Invited Talk, Colorado chapter of Society of Young Network Scientists, February 2020
 
-**Nicholas Landry** and Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/DDD 2020 - Nicholas Landry.pdf), Poster, Dynamics Days Digital 2020, August 2020
+### Contributed Talks
 
-**Nicholas Landry** and Juan G. Restrepo, *The effect of simplex and network degree distribution on explosive transitions in epidemic dynamics using simplicial contagion models*, Contributed Talk, Front Range Applied Mathematics Student Conference 2020, March 2020
+*The effect of time-dependent infectiousness on epidemic dynamics*, Front Range Applied Mathematics Student Conference 2021, March 2021
 
-Nicholas Landry, Invited Talk, Colorado chapter of Society of Young Network Scientists, February 2020
+*The effect of heterogeneity on hypergraph contagion models*, TopoNets 2020, September 2020
+
+ *The effect of simplex and network degree distribution on explosive transitions in epidemic dynamics using simplicial contagion models*, Front Range Applied Mathematics Student Conference 2020, March 2020
+
+ **Nicholas W. Landry**, Amy Lantrip, and Jonathan Morris, *Improvisatory Elements of Teaching*, Workshop for the Graduate Teacher Program, University of Colorado Boulder, February 2019
+
+ *So You Think You're Bad at Math*, Ignite Talk for the Graduate Teacher Program's Spring Conference, University of Colorado Boulder, January 2019
+
+[*Music Data Mining: Finding Structure in Song*](/assets/docs/Music Data Mining-StatOptML-06NOV18.pptx), Presentation for Statistics, Optimization, and Machine Learning Seminar, University of Colorado Boulder, Fall 2018
+
+### Posters
+
+[*The effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/NERCCS2021.pdf), Northeastern Regional Conference on Complex Systems 2021, March 2021
+
+[*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/DDD 2020 - Nicholas Landry.pdf), Poster, Dynamics Days Digital 2020, August 2020
+
+[*The effect of simplex and network degree distribution on simplicial contagion models*](/assets/docs/Dynamics Days 2020.pdf), Poster, Dynamics Days, January 2020, Hartford, CT
+
+### Media
 
 Nicholas Landry, [*Contagion on Complex Networks*](https://www.colorado.edu/amath/probably-novel), Radio, Season 3 Episode 13, Probably Novel at University of Colorado Boulder, February 2020
-
-**Nicholas Landry** and Juan G. Restrepo, [*The effect of simplex and network degree distribution on simplicial contagion models*](/assets/docs/Dynamics Days 2020.pdf), Poster, Dynamics Days, January 2020, Hartford, CT
-
-**Nicholas W. Landry**, Amy Lantrip, and Jonathan Morris, *Improvisatory Elements of Teaching*, Workshop for the Graduate Teacher Program, University of Colorado Boulder, February 2019
-
-Nicholas Landry, *So You Think You're Bad at Math*, Ignite Talk for the Graduate Teacher Program's Spring Conference, University of Colorado Boulder, January 2019
-
-Nicholas W. Landry, [*Music Data Mining: Finding Structure in Song*](/assets/docs/Music Data Mining-StatOptML-06NOV18.pptx), Presentation for Statistics, Optimization, and Machine Learning Seminar, University of Colorado Boulder, Fall 2018
 
 ## Theses
 
