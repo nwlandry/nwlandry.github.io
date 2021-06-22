@@ -14,7 +14,7 @@ permalink: /publications/
 
 **Nicholas Landry** and Juan G. Restrepo, *Hypergraph community structure and the emergence of polarization*, In Preparation
 
-Nicholas Landry, *The effect of time-dependent infectiousness on epidemic dynamics*, In Preparation
+Nicholas Landry, *The effect of time-dependent infectiousness on epidemic dynamics*, [ArXiV link](https://arxiv.org/abs/2106.10384)
 
 **Nicholas Landry** and Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/the_effect_of_heterogeneity_on_hypergraph_contagion_models.pdf), Chaos, Volume 30, Number 10, October 2020, [https://doi.org/10.1063/5.0020034](https://doi.org/10.1063/5.0020034) and [ArXiV link](https://arxiv.org/abs/2006.15453)
 
