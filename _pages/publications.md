@@ -44,6 +44,10 @@ Invited Talk, Colorado chapter of Society of Young Network Scientists, February 
 
 ### Contributed Talks
 
+*On limitations of uniplex networks for modeling multiplex diffusion*, Networks 2021, July 2021
+
+*Hypergraph community structure and the emergence of polarization*, TopoNets 2021: Networks 2021 Satellite, June 2021
+
 *The effect of time-dependent infectiousness on epidemic dynamics*, Front Range Applied Mathematics Student Conference 2021, March 2021
 
 *The effect of heterogeneity on hypergraph contagion models*, TopoNets 2020, September 2020
