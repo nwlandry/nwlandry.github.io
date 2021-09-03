@@ -10,17 +10,19 @@ permalink: /publications/
 
 ## Articles
 
+**Nicholas Landry** and jimi adams, *On limitations of uniplex networks for modeling multiplex diffusion*, In Preparation
+
 **Nicholas Landry** and Juan G. Restrepo, *Hypergraph community structure and the emergence of polarization*, In Preparation
 
-**Nicholas Landry** and Juan G. Restrepo, *Hypergraph assortativity: the effect on the largest eigenvalue and a strategy for suppressing epidemics*, In Preparation
+**Nicholas Landry** and Juan G. Restrepo, *Hypergraph dynamics: assortativity and the expansion eigenvalue*, Preprint, 2021. [ArXiV:2109.01099](https://arxiv.org/abs/2109.01099), Under Review
 
-Nicholas Landry, *The effect of time-dependent infectiousness on epidemic dynamics*, [ArXiV:2106.10384](https://arxiv.org/abs/2106.10384), Submitted
+Nicholas Landry, *The effect of time-dependent infectiousness on epidemic dynamics*, Preprint, 2021. [ArXiV:2106.10384](https://arxiv.org/abs/2106.10384), Under Review
 
-**Nicholas Landry** and Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/the_effect_of_heterogeneity_on_hypergraph_contagion_models.pdf), Chaos, Volume 30, Number 10, October 2020, [https://doi.org/10.1063/5.0020034](https://doi.org/10.1063/5.0020034) and [ArXiV:2006.15453](https://arxiv.org/abs/2006.15453)
+**Nicholas Landry** and Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/the_effect_of_heterogeneity_on_hypergraph_contagion_models.pdf), Chaos, 2020. DOI: [10.1063/5.0020034](https://doi.org/10.1063/5.0020034) and [ArXiV:2006.15453](https://arxiv.org/abs/2006.15453)
 
-**Nicholas W. Landry** and Marko Knezevic, [*Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms*](/assets/docs/materials-08-05303.pdf), Materials, Volume 8, No. 9, September 2015, Pages 6326-6345, [https://dx.doi.org/10.3390%2Fma8095303](https://dx.doi.org/10.3390%2Fma8095303)
+**Nicholas W. Landry** and Marko Knezevic, [*Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms*](/assets/docs/materials-08-05303.pdf), Materials, 2015. DOI: [10.3390/ma8095303](https://dx.doi.org/10.3390/ma8095303)
 
-Marko Knezevic and **Nicholas W. Landry**, [*Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics*](/assets/docs/procedures_GSH.pdf), Mechanics of Materials, Volume 88, September 2015, Pages 73-86, ISSN 0167-6636, [https://doi.org/10.1016/j.mechmat.2015.04.014](https://doi.org/10.1016/j.mechmat.2015.04.014)
+Marko Knezevic and **Nicholas W. Landry**, [*Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics*](/assets/docs/procedures_GSH.pdf), Mechanics of Materials, 2015. DOI: [10.1016/j.mechmat.2015.04.014](https://doi.org/10.1016/j.mechmat.2015.04.014)
 
 
 ## Conference Papers
