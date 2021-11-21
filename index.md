@@ -16,7 +16,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 **On the job market summer 2022!**
 
-### Research Interests
+## Research Interests
 * Complex systems with higher-order interactions (hypergraphs, etc.)
 * Contagion spread (disease, opinions, etc.)
 * Dynamical models of political processes
