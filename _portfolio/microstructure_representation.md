@@ -19,7 +19,7 @@ Metal forming is used to change the mechanical properties of a metal through pla
 
 ## Methodology
 
-The main idea was to transform the microstructure data (gathered through X-ray diffraction) expressed as [Euler angles][2], and to transform the angles to Fourier coefficients using Generalized Spherical Harmonics (GSH) because we can describe any distribution of orientations, denoted $$f(g)$$ (with $$g$$ being the orientations) as a Fourier series
+The main idea was to transform the microstructure data (gathered through X-ray diffraction) expressed as [Euler angles][2] to Fourier coefficients using Generalized Spherical Harmonics (GSH) because we can describe any distribution of orientations, denoted $$f(g)$$ (with $$g$$ being the orientations) as a Fourier series
 
 $$f(g)=\sum\limits_{\ell=0}^{\infty}\sum\limits_{\mu=0}^{M(\ell)} \sum\limits_{\nu=0}^{N(\ell)} F_{\mu\nu}^{\ell}P_{\mu\nu}^{\ell} $$
 
