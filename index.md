@@ -12,9 +12,9 @@ header:
 
 I’m an 5th year applied mathematics PhD candidate in Applied Mathematics at the University of Colorado at Boulder. My research expertise is broadly the study of dynamics on complex systems, especially spread of contagion on interaction networks involving group (higher-order) interactions. My research always starts with noticing things around me and asking, "why?" I’ve worked in both academia and industry which gives me a unique perspective on applied mathematics.
 
-I love teaching and have a [Certificate in College Teaching](https://www.colorado.edu/center/teaching-learning/programs/graduate-certificates/certificate-college-teaching) through CU Boulder's Center for Teaching and Learning.
+My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/about/), [CV](/assets/docs/CV.pdf), or list of [publications](/_pages/publications.md). You can also take a look at my [blog](/blog/).
 
-My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, visit my [bio](/about/). You can also take a look at my [blog](/blog/).
+**On the job market summer 2022!**
 
 ### Research Interests
 * Complex systems with higher-order interactions (hypergraphs, etc.)
@@ -22,9 +22,6 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * Dynamical models of political processes
 * Dynamical systems
 
-**On the job market summer 2022!**
-
----
 ## Recent News
 * **January 2022**: I will be giving a talk at JMM on hypergraph assortativity!
 * **December 2021**: I will be giving a talk at the Canadian Mathematics Society Winter Meeting on hypergraph assortativity!

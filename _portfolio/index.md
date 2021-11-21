@@ -4,8 +4,7 @@ header:
   overlay_image: /assets/images/paint.jpg
   caption: "Credit: [Andrian Valeanu](https://unsplash.com)"
 permalink: /portfolio/index.html
-date: 2019-05-10
----
+date: 2021-11-20
 
 feature_row:
   - image_path: "assets/images/england_vs_usa.PNG"
@@ -35,7 +34,7 @@ feature_row:
 
 Here is a summary of some of the projects I've tackled in the last few years. I'm always trying to learn new things and explore different areas, so please [contact me][1] if you have a particularly interesting project that you're working on.
 
-<div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
+<div style="margin-bottom:1cm" align="center"><font size="32">Selected Projects</font></div>
 
 {% include feature_row %}
 
