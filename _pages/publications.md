@@ -16,7 +16,7 @@ permalink: /publications/
 
 **Nicholas Landry** and Juan G. Restrepo, *Hypergraph dynamics: assortativity and the expansion eigenvalue*, Preprint, 2021. [ArXiV:2109.01099](https://arxiv.org/abs/2109.01099), Under Review
 
-Nicholas Landry, *The effect of time-dependent infectiousness on epidemic dynamics*, Preprint, 2021. [ArXiV:2106.10384](https://arxiv.org/abs/2106.10384), Under Review
+Nicholas Landry, *The effect of time-dependent infectiousness on epidemic dynamics*, Preprint, 2021. [ArXiV:2106.10384](https://arxiv.org/abs/2106.10384), Accepted at Physical Review E.
 
 **Nicholas Landry** and Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/the_effect_of_heterogeneity_on_hypergraph_contagion_models.pdf), Chaos, 2020. DOI: [10.1063/5.0020034](https://doi.org/10.1063/5.0020034) and [ArXiV:2006.15453](https://arxiv.org/abs/2006.15453)
 
@@ -70,9 +70,14 @@ Invited Talk, Colorado chapter of Society of Young Network Scientists, February 
 
 [*The effect of simplex and network degree distribution on simplicial contagion models*](/assets/docs/Dynamics Days 2020.pdf), Poster, Dynamics Days, January 2020, Hartford, CT
 
-### Media
+## Software
+[Comple**X** **G**roup **I**nteractions (XGI)](https://github.com/ComplexGroupInteractions/xgi): A Python library for representing and analyzing complex systems with higher-order interactions.
 
-[*Contagion on Complex Networks*](https://www.colorado.edu/amath/probably-novel), Radio, Season 3 Episode 13, Probably Novel at University of Colorado Boulder, February 2020
+## Media
+
+[*Contagion on Complex Networks*](https://www.colorado.edu/amath/probably-novel), Radio, Season 3 Episode 13, Probably Novel at University of Colorado Boulder, February 3rd, 2020
+
+[*Interactions Within Larger Social Groups Can Cause Tipping Points in Contagion Flow*](https://publishing.aip.org/publications/latest-content/interactions-within-larger-social-groups-can-cause-tipping-points-in-contagion-flow/), AIP Press Release, October 20th, 2020
 
 ## Theses
 
