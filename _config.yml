@@ -1,11 +1,16 @@
-# Configs for nlandry.com
-
-title: "Nicholas Landry"
-name: "Nicholas Landry"
+title: Nicholas Landry
 email: nicholas.landry@colorado.edu
-url: "https://nwlandry.github.io"
-repository: "nwlandry/nwlandry.github.io"
 
+minimal_mistakes_skin: air
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 
 include:
   - _pages
@@ -15,65 +20,76 @@ exclude:
   - TODO.md
   - README.md
 
+# Plugins (previously gems:)
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-include-cache
   - jekyll-paginate
-  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-# Build settings
-markdown: kramdown
-# theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
-
-# settings for author profile
 author:
   name   : "Nicholas Landry"
   avatar : "/assets/images/headshot.jpg"
+  bio    : "PhD Candidate in Applied Mathematics"
   location: "Boulder, CO"
-  email  : nicholas.landry@colorado.edu
-  github : nwlandry
-  linkedin: landrynicholas
-  twitter : nwlandry
-  googlescholar : "https://scholar.google.com/citations?user=7xLeZqMAAAAJ"
-  orcid : "https://orcid.org/0000-0003-1270-4980"
+  links:
+    - label: "Email"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/nwlandry"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nwlandry"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap" 
+      url: "https://scholar.google.com/citations?user=7xLeZqMAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/landrynicholas"
+    - label: "ORCHID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-1270-4980"
 
-# pagination for blog page
-paginate: 5 # number of posts to show
-paginate_path: "/blog/page:num/"
 
-# default YAML front matter
+
 defaults:
-  # all
+  # _posts
   - scope:
       path: ""
-    values:
-      layout: single
-      mathjax: true
-      author_profile: true
-      class: wide
-      title: " "
-      title_separator: "|"
-  # posts
-  - scope:
       type: posts
     values:
-      toc: true
-      toc_label: "Contents"
+      layout: single
+      author_profile: true
       read_time: true
-  # portfolio
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+   #portfolio
   - scope:
       path: ""
+      toc: true
+      toc_label: "Contents"
       type: portfolio
-    values:
+    values: 
       author_profile: false
       excerpt: ""
-      sidebar:
-        nav: "portfolio"
+      nav: "porfolio"
+    
 
-# collections
-collections:
-  portfolio:
-    output: true
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

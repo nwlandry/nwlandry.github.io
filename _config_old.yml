@@ -1,0 +1,79 @@
+# Configs for nlandry.com
+
+title: "Nicholas Landry"
+name: "Nicholas Landry"
+email: nicholas.landry@colorado.edu
+url: "https://nwlandry.github.io"
+repository: "nwlandry/nwlandry.github.io"
+
+
+include:
+  - _pages
+  - assets
+  - index.md
+exclude:
+  - TODO.md
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+# theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
+# settings for author profile
+author:
+  name   : "Nicholas Landry"
+  avatar : "/assets/images/headshot.jpg"
+  location: "Boulder, CO"
+  email  : nicholas.landry@colorado.edu
+  github : nwlandry
+  linkedin: landrynicholas
+  twitter : nwlandry
+  googlescholar : "https://scholar.google.com/citations?user=7xLeZqMAAAAJ"
+  orcid : "https://orcid.org/0000-0003-1270-4980"
+
+# pagination for blog page
+paginate: 5 # number of posts to show
+paginate_path: "/blog/page:num/"
+
+# default YAML front matter
+defaults:
+  # all
+  - scope:
+      path: ""
+    values:
+      layout: single
+      mathjax: true
+      author_profile: true
+      class: wide
+      title: " "
+      title_separator: "|"
+  # posts
+  - scope:
+      type: posts
+    values:
+      toc: true
+      toc_label: "Contents"
+      read_time: true
+  # portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      author_profile: false
+      excerpt: ""
+      sidebar:
+        nav: "portfolio"
+
+# collections
+collections:
+  portfolio:
+    output: true
