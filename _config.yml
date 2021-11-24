@@ -40,7 +40,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-o"
-      url: "nicholas.landry@colorado.edu"
+      url: "mailto:nicholas.landry@colorado.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
