@@ -1,8 +1,11 @@
-title: Nicholas Landry
+title: "Nicholas Landry"
+name: "Nicholas Landry"
 email: nicholas.landry@colorado.edu
+url: "https://nwlandry.github.io"
+repository: "nwlandry/nwlandry.github.io"
 
 minimal_mistakes_skin: air
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
