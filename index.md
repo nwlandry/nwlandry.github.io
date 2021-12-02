@@ -20,9 +20,10 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * Dynamical systems
 
 ## Recent News
-* **January 2022**: I will be giving a talk at JMM on hypergraph assortativity!
-* **December 2021**: I will be giving a talk at the Canadian Mathematics Society Winter Meeting on hypergraph assortativity!
-* **November 2021**: I will be giving a talk at theConference on Complex Networks and their Applications on November 30th on hypergraph assortativity!
+* **January 2022**: I will be giving a talk at the *Joint Mathematics Meetings* on hypergraph assortativity!
+* **December 2021**: I will be giving a talk at the *Canadian Mathematics Society Winter Meeting* on hypergraph assortativity!
+* **December 2021**: My article was published in [Physical Review E](https://doi.org/10.1103/PhysRevE.104.064302)!
+* **November 2021**: I gave a talk at the *Conference on Complex Networks* and their Applications on hypergraph assortativity!
 * **November 2021**: [Leo Torres](https://leotrs.com/) and I deployed version 0.0 of [XGI](https://github.com/ComplexGroupInteractions/xgi), a Python package for representing and analyzing complex systems with higher-order interactions.
 * **September 2021**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo) was posted on [ArXiv](https://arxiv.org/abs/2109.01099).
 * **August 2021**: I became a PhD candidate in Applied Mathematics after passing my comprehensive exam.
