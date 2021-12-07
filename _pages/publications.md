@@ -75,9 +75,9 @@ Invited Talk, Colorado chapter of Society of Young Network Scientists, February 
 
 ## Media
 
-[*Contagion on Complex Networks*](https://www.colorado.edu/amath/probably-novel), Radio, Season 3 Episode 13, Probably Novel at University of Colorado Boulder, February 3rd, 2020
-
 [*Interactions Within Larger Social Groups Can Cause Tipping Points in Contagion Flow*](https://publishing.aip.org/publications/latest-content/interactions-within-larger-social-groups-can-cause-tipping-points-in-contagion-flow/), AIP Press Release, October 20th, 2020
+
+[*Contagion on Complex Networks*](https://www.colorado.edu/amath/probably-novel), Radio, Season 3 Episode 13, Probably Novel at University of Colorado Boulder, February 3rd, 2020
 
 ## Theses
 
