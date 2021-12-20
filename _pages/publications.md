@@ -27,12 +27,16 @@ Marko Knezevic and **Nicholas W. Landry**, [*Procedures for reducing large datas
 
 ## Conference Papers
 
-Marko Knezevic, Daniel J. Savage, and **Nicholas W. Landry**, [*Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures*](/assets/docs/publications/2014_MSEC_towards.pdf), Proc. ASME., 2014. DOI: [doi:10.1115/MSEC2014-3984](https://doi.org/10.1115/MSEC2014-3984)
+Marko Knezevic, Daniel J. Savage, and **Nicholas W. Landry**, [*Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures*](/assets/docs/publications/2014_MSEC_towards.pdf), Proc. ASME., 2014. DOI: [10.1115/MSEC2014-3984](https://doi.org/10.1115/MSEC2014-3984)
 
 
 ## Presented Work
 
 ### Invited Talks
+
+*Hypergraph dynamics: assortativity and the expansion eigenvalue*, Joint Mathematics Meetings: Special Session on Combinatorial Approaches to Topological Structures and Applications, January 2022, Seattle, WA
+
+*Hypergraph dynamics: a dynamical systems perspective*, Graph Theory and its Applications session at the 2021 Winter Canadian Mathematical Society (CMS) Meeting, December 2021
 
 *The effect of contact structure on hypergraph contagion models*, Dynamics on Networks with Higher Order Interactions Minisymposium, SIAM Dynamical Systems Conference, May 2021
 
@@ -45,6 +49,8 @@ Marko Knezevic, Daniel J. Savage, and **Nicholas W. Landry**, [*Towards Computat
 Invited Talk, Colorado chapter of Society of Young Network Scientists, February 2020
 
 ### Contributed Talks
+
+*Hypergraph dynamics: assortativity and the expansion eigenvalue*, International Conference on Complex Networks and their Applications, November 2021
 
 *On limitations of uniplex networks for modeling multiplex diffusion*, Networks 2021, July 2021
 
@@ -71,6 +77,7 @@ Invited Talk, Colorado chapter of Society of Young Network Scientists, February 
 [*The effect of simplex and network degree distribution on simplicial contagion models*](/assets/docs/Dynamics Days 2020.pdf), Poster, Dynamics Days, January 2020, Hartford, CT
 
 ## Software
+
 [Comple**X** **G**roup **I**nteractions (XGI)](https://github.com/ComplexGroupInteractions/xgi): A Python library for representing and analyzing complex systems with higher-order interactions.
 
 ## Media
