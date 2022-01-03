@@ -70,6 +70,8 @@ Invited Talk, Colorado chapter of Society of Young Network Scientists, February 
 
 ### Posters
 
+[*Hypergraph community structure and the emergence of polarization*](/assets/docs/Landry_DD2022.pdf), Dynamics Days 2022, January 2022
+
 [*The effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/NERCCS2021.pdf), Northeastern Regional Conference on Complex Systems 2021, March 2021
 
 [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/DDD 2020 - Nicholas Landry.pdf), Poster, Dynamics Days Digital 2020, August 2020
