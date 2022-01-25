@@ -7,7 +7,7 @@ header:
   caption: "Credit: [**Mike Scheid**](www.unsplash.com)"
 ---
 
-I’m an 5th year PhD candidate in Applied Mathematics at the University of Colorado at Boulder. My research expertise is broadly the study of dynamics on complex systems, especially spread of contagion on interaction networks involving group (higher-order) interactions. My research always starts with noticing things around me and asking, "why?" I’ve worked in both academia and industry which gives me a unique perspective on applied mathematics.
+I’m a 5th year PhD candidate in Applied Mathematics at the University of Colorado at Boulder. My research expertise is broadly the study of dynamics on complex systems, especially the spread of contagion on interaction networks involving group (higher-order) interactions. My research always starts with noticing things around me and asking, "why?" I’ve worked in both academia and industry which gives me a unique perspective on applied mathematics.
 
 My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/about/), [CV](/assets/docs/CV.pdf), or list of [publications](/_pages/publications.md). You can also take a look at my [blog](/blog/).
 
@@ -20,7 +20,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * Dynamical systems
 
 ## Recent News
-* **January 2022**: I will be giving a talk at the *Joint Mathematics Meetings* on hypergraph assortativity!
+* **January 2022**: I gave a talk at *Dynamics Days* on how community structure in hypergraphs can lead to polarization!
 * **December 2021**: I gave a talk at the *Canadian Mathematics Society Winter Meeting* on hypergraph assortativity!
 * **December 2021**: My article was published in [Physical Review E](https://doi.org/10.1103/PhysRevE.104.064302)!
 * **November 2021**: I gave a talk at the *Conference on Complex Networks* and their Applications on hypergraph assortativity!
