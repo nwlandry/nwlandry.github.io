@@ -14,7 +14,7 @@ permalink: /publications/
 
 **Nicholas Landry** and Juan G. Restrepo, *Hypergraph community structure and the emergence of polarization*, In Preparation
 
-**Nicholas Landry** and Juan G. Restrepo, *Hypergraph dynamics: assortativity and the expansion eigenvalue*, Preprint, 2021. [ArXiV:2109.01099](https://arxiv.org/abs/2109.01099)
+**Nicholas Landry** and Juan G. Restrepo, *Hypergraph assortativity: a dynamical systems perspective*, Preprint, 2021. [ArXiV:2109.01099](https://arxiv.org/abs/2109.01099)
 
 Nicholas Landry, [*Effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/publications/2021_PhysRevE_effect.pdf), Physical Review E, 2021. DOI: [10.1103/PhysRevE.104.064302](https://doi.org/10.1103/PhysRevE.104.064302) and [ArXiV:2106.10384](https://arxiv.org/abs/2106.10384)
 

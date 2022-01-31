@@ -20,6 +20,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * Dynamical systems
 
 ## Recent News
+* **February 2022**: I am performing in a concert as amember of a 5-piano ensemble!
 * **January 2022**: I presented a poster at *Dynamics Days* on how community structure in hypergraphs can lead to polarization!
 * **December 2021**: I gave a talk at the *Canadian Mathematics Society Winter Meeting* on hypergraph assortativity!
 * **December 2021**: My article was published in [Physical Review E](https://doi.org/10.1103/PhysRevE.104.064302)!
