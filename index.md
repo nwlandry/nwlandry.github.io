@@ -18,7 +18,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * Dynamical systems
 
 ## Recent News
-* **March 2022**: I defended my dissertation and am now a PhD in Applied Mathematics!
+* **March 2022**: I defended my dissertation and am now a Doctor of Applied Mathematics!
 * **February 2022**: I performed in a concert as a member of a 5-piano ensemble!
 * **February 2022**: I accepted a postdoctoral position at the University of Vermont, working with the [Complex Systems Center](https://vermontcomplexsystems.org/) and the [TGIR Center](https://www.med.uvm.edu/tgircobre/home) under Jean-Gabriel Young and Laurent Hébert-Dufresne!
 * **January 2022**: I presented a poster at *Dynamics Days* on how community structure in hypergraphs can lead to polarization!
