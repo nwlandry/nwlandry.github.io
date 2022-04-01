@@ -14,11 +14,11 @@ permalink: /publications/
 
 **Nicholas Landry** and Juan G. Restrepo, *Hypergraph community structure and the emergence of polarization*, In Preparation
 
-**Nicholas Landry** and Juan G. Restrepo, *Hypergraph assortativity: a dynamical systems perspective*, Preprint, 2021. [ArXiV:2109.01099](https://arxiv.org/abs/2109.01099)
+**Nicholas Landry** and Juan G. Restrepo, *Hypergraph assortativity: a dynamical systems perspective*, Preprint, 2021. [ArXiV:2109.01099](https://doi.org/10.48550/arXiv.2109.01099)
 
-Nicholas Landry, [*Effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/publications/2021_PhysRevE_effect.pdf), Physical Review E, 2021. DOI: [10.1103/PhysRevE.104.064302](https://doi.org/10.1103/PhysRevE.104.064302) and [ArXiV:2106.10384](https://arxiv.org/abs/2106.10384)
+Nicholas Landry, [*Effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/publications/2021_PhysRevE_effect.pdf), Physical Review E, 2021. DOI: [10.1103/PhysRevE.104.064302](https://doi.org/10.1103/PhysRevE.104.064302) and [ArXiV:2106.10384](https://doi.org/10.48550/arXiv.2106.10384)
 
-**Nicholas Landry** and Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/publications/2020_chaos_effect.pdf), Chaos, 2020. DOI: [10.1063/5.0020034](https://doi.org/10.1063/5.0020034) and [ArXiV:2006.15453](https://arxiv.org/abs/2006.15453)
+**Nicholas Landry** and Juan G. Restrepo, [*The effect of heterogeneity on hypergraph contagion models*](/assets/docs/publications/2020_chaos_effect.pdf), Chaos, 2020. DOI: [10.1063/5.0020034](https://doi.org/10.1063/5.0020034) and [ArXiV:2006.15453](https://doi.org/10.48550/arXiv.2006.15453)
 
 **Nicholas W. Landry** and Marko Knezevic, [*Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms*](/assets/docs/publications/2015_materials_delineation.pdf), Materials, 2015. DOI: [10.3390/ma8095303](https://dx.doi.org/10.3390/ma8095303)
 
