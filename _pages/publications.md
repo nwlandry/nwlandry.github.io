@@ -90,4 +90,6 @@ Invited Talk, Colorado chapter of Society of Young Network Scientists, February 
 
 ## Theses
 
+Nicholas W. Landry, [*Contagion on Complex Systems: Structure and Dynamics*](/assets/docs/Dissertation_Nicholas_W_Landry.pdf), The University of Colorado at Boulder, 2022.
+
 Nicholas W. Landry, [*Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations*](/assets/docs/senior_final_report.pdf), The University of New Hampshire, 2014.
