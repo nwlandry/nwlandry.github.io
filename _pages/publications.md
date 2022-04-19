@@ -14,7 +14,7 @@ permalink: /publications/
 
 **Nicholas Landry** and Juan G. Restrepo, *Hypergraph community structure and the emergence of polarization*, In Preparation
 
-**Nicholas Landry** and Juan G. Restrepo, *Hypergraph assortativity: a dynamical systems perspective*, Preprint, 2021. [ArXiV:2109.01099](https://doi.org/10.48550/arXiv.2109.01099)
+**Nicholas Landry** and Juan G. Restrepo, *Hypergraph assortativity: a dynamical systems perspective*, [ArXiV:2109.01099](https://doi.org/10.48550/arXiv.2109.01099), Accepted at Chaos.
 
 Nicholas Landry, [*Effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/publications/2021_PhysRevE_effect.pdf), Physical Review E, 2021. DOI: [10.1103/PhysRevE.104.064302](https://doi.org/10.1103/PhysRevE.104.064302) and [ArXiV:2106.10384](https://doi.org/10.48550/arXiv.2106.10384)
 
@@ -36,6 +36,16 @@ Marko Knezevic, Daniel J. Savage, and **Nicholas W. Landry**, [*Towards Computat
 
 *Hypergraph dynamics: assortativity and the expansion eigenvalue*, Joint Mathematics Meetings: Special Session on Combinatorial Approaches to Topological Structures and Applications, January 2022, Seattle, WA
 
+*Hypergraph assortativity: A dynamical systems perspective*, Higher-Order Interactions: The Next Frontier of Complex Systems at the APS March Meeting 2022, March 2022
+
+*Contagion on Complex Systems: Structure and Dynamics*, Harvard Center for Communicable Disease Dynamics, January 2022
+
+*Contagion on Complex Systems: Structure and Dynamics*, University of Vermont, January 2022
+
+*Contagion on Complex Systems: Structure and Dynamics*, Dartmouth College, January 2022
+
+*Contagion on Complex Systems: Structure and Dynamics*, CU Boulder Applied Mathematics Dynamics Seminar, January 2022
+
 *Hypergraph dynamics: a dynamical systems perspective*, Graph Theory and its Applications session at the 2021 Winter Canadian Mathematical Society (CMS) Meeting, December 2021
 
 *The effect of contact structure on hypergraph contagion models*, Dynamics on Networks with Higher Order Interactions Minisymposium, SIAM Dynamical Systems Conference, May 2021
@@ -49,6 +59,8 @@ Marko Knezevic, Daniel J. Savage, and **Nicholas W. Landry**, [*Towards Computat
 Invited Talk, Colorado chapter of Society of Young Network Scientists, February 2020
 
 ### Contributed Talks
+
+*Hypergraph community structure and the emergence of polarization*, Northeast Regional Conference on Complex Systems (Best Oral Presentation), March 2022
 
 *Hypergraph dynamics: assortativity and the expansion eigenvalue*, International Conference on Complex Networks and their Applications, November 2021
 
