@@ -10,9 +10,9 @@ permalink: /publications/
 
 ## Articles
 
-**Nicholas Landry** and jimi adams, *On limitations of uniplex networks for modeling multiplex diffusion*, In Preparation
-
 **Nicholas Landry** and Juan G. Restrepo, *Hypergraph community structure and the emergence of polarization*, In Preparation
+
+**Nicholas Landry** and jimi adams, *On limitations of uniplex networks for modeling multiplex diffusion*, [ArXiv:2204.12348](https://arxiv.org/abs/2204.12348)
 
 **Nicholas Landry** and Juan G. Restrepo, *Hypergraph assortativity: a dynamical systems perspective*, [ArXiV:2109.01099](https://doi.org/10.48550/arXiv.2109.01099), Accepted at Chaos.
 
