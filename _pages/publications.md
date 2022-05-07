@@ -14,7 +14,7 @@ permalink: /publications/
 
 **Nicholas Landry** and jimi adams, *On limitations of uniplex networks for modeling multiplex diffusion*, [ArXiv:2204.12348](https://arxiv.org/abs/2204.12348)
 
-**Nicholas Landry** and Juan G. Restrepo, [*Hypergraph assortativity: a dynamical systems perspective*](/assets/docs/publications/2022_Chaos_hypergraph.pdf), Chaos, 2022. DOI: [10.1063/5.0086905](https://doi.org/10.1063/5.0086905) and [ArXiV:2109.01099](https://doi.org/10.48550/arXiv.2109.01099), Accepted at Chaos.
+**Nicholas Landry** and Juan G. Restrepo, [*Hypergraph assortativity: a dynamical systems perspective*](/assets/docs/publications/2022_Chaos_hypergraph.pdf), Chaos, 2022. DOI: [10.1063/5.0086905](https://doi.org/10.1063/5.0086905) and [ArXiV:2109.01099](https://doi.org/10.48550/arXiv.2109.01099)
 
 Nicholas Landry, [*Effect of time-dependent infectiousness on epidemic dynamics*](/assets/docs/publications/2021_PhysRevE_effect.pdf), Physical Review E, 2021. DOI: [10.1103/PhysRevE.104.064302](https://doi.org/10.1103/PhysRevE.104.064302) and [ArXiV:2106.10384](https://doi.org/10.48550/arXiv.2106.10384)
 
