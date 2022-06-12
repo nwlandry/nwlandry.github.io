@@ -12,7 +12,7 @@ permalink: /publications/
 
 **Nicholas Landry** and Juan G. Restrepo, *Hypergraph community structure and the emergence of polarization*, In Preparation
 
-**Nicholas Landry** and jimi adams, *On limitations of uniplex networks for modeling multiplex diffusion*, [ArXiv:2204.12348](https://arxiv.org/abs/2204.12348)
+**Nicholas Landry** and jimi adams, *On limitations of uniplex networks for modeling multiplex diffusion*, Preprint, 2022. [ArXiv:2204.12348](https://doi.org/10.48550/arXiv.2204.12348)
 
 **Nicholas Landry** and Juan G. Restrepo, [*Hypergraph assortativity: a dynamical systems perspective*](/assets/docs/publications/2022_Chaos_hypergraph.pdf), Chaos, 2022. DOI: [10.1063/5.0086905](https://doi.org/10.1063/5.0086905) and [ArXiV:2109.01099](https://doi.org/10.48550/arXiv.2109.01099)
 
@@ -102,6 +102,6 @@ Invited Talk, Colorado chapter of Society of Young Network Scientists, February 
 
 ## Theses
 
-Nicholas W. Landry, [*Contagion on Complex Systems: Structure and Dynamics*](/assets/docs/Dissertation_Nicholas_W_Landry.pdf), The University of Colorado at Boulder, 2022.
+Nicholas W. Landry, [*Contagion on Complex Systems: Structure and Dynamics*](/assets/docs/Dissertation_Nicholas_W_Landry.pdf), The University of Colorado at Boulder, 2022. ProQuest, ISBN: [9798802733509](https://www.proquest.com/docview/2672014395)
 
-Nicholas W. Landry, [*Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations*](/assets/docs/senior_final_report.pdf), The University of New Hampshire, 2014.
+Nicholas W. Landry, [*Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations*](/assets/docs/senior_final_report.pdf), [The University of New Hampshire](https://scholars.unh.edu/honors/370/), 2014.

@@ -7,7 +7,7 @@ header:
   caption: "Credit: [**Mike Scheid**](www.unsplash.com)"
 ---
 
-I’m a Doctor of Applied Mathematics at the University of Colorado at Boulder (recently defended!). My research expertise is broadly the study of dynamics on complex systems, especially the spread of contagion on interaction networks involving group (higher-order) interactions. My research always starts with noticing things around me and asking, "why?" I’ve worked in both academia and industry which gives me a unique perspective on applied mathematics.
+I’m a postdoctoral research associate at the University of Vermont. My research expertise is broadly the study of dynamics on complex systems, especially the spread of contagion on interaction networks involving group (higher-order) interactions. My research always starts with noticing things around me and asking, "why?" I’ve worked in both academia and industry which gives me a unique perspective on applied mathematics.
 
 My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/about/), [CV](/assets/docs/CV.pdf), or list of [publications](/_pages/publications.md). You can also take a look at my [blog](/blog/).
 
@@ -18,6 +18,9 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * Dynamical systems
 
 ## Recent News
+* **June 2022**: I started as a postdoctoral research associate at the University of Vermont!
+* **May 2022**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is now available on the [ArXiv](https://doi.org/10.48550/arXiv.2204.12348).
+* **March 2022**: I gave a talk at NERCCS 2022 on how community structure in hypergraphs can lead to polarization and won Best Oral Presentation.
 * **March 2022**: I defended my dissertation and am now a Doctor of Applied Mathematics!
 * **February 2022**: I performed in a concert as a member of a 5-piano ensemble!
 * **February 2022**: I accepted a postdoctoral position at the University of Vermont, working with the [Complex Systems Center](https://vermontcomplexsystems.org/) and the [TGIR Center](https://www.med.uvm.edu/tgircobre/home) under Jean-Gabriel Young and Laurent Hébert-Dufresne!
@@ -29,7 +32,3 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **September 2021**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo) was posted on [ArXiv](https://arxiv.org/abs/2109.01099).
 * **August 2021**: I became a PhD candidate in Applied Mathematics after passing my comprehensive exam.
 * **July 2021**: I gave a talk at Networks 2021 on joint work with [jimi adams](https://jimiadams.github.io/).
-* **June 2021**: I gave a talk at TopoNets 2021 (a satellite conference of Networks 2021) on how community structure in hypergraphs can allow polarization to occur.
-* **June 2021**: Sole-authored work was posted on [ArXiv](https://arxiv.org/abs/2106.10384).
-* **May 2021**: I gave a talk at the SIAM Dynamical Systems Conference on joint work with Juan Restrepo.
-* **May 2021**: I am working as a PhD intern at Pacific Northwest National Laboratory.
