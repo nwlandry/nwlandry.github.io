@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Nicholas Landry"
+  sidebar:
+    logo: assets/images/headshot_nwlandry.jpg
+    tools:
+      - icon: envelope
+        href: mailto:nicholas.landry@uvm.edu
+      - icon: github
+        href: https://github.com/nwlandry
+      - icon: twitter
+        href: https://twitter.com/nwlandry
+      - icon: linkedin
+        href: www.linkedin.com/in/landrynicholas
+      
+  navbar:
+    title: | 
+      <span class="display-name"><b>Nicholas Landry</b>
+    style: "floating"
+    left:
+      - href: index.qmd
+      - href: pages/publications.qmd
+      - href: assets/docs/CV.pdf
+        text: CV
+      - href: pages/about.qmd
+        text: About
+      - href: pages/contact.qmd
+      - href: blog/index.qmd
+    search: true
+    pinned: true
+  favicon: assets/images/favicon.ico
+format:
+  html:
+    theme: morph
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    html-math-method: katex
