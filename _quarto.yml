@@ -37,7 +37,7 @@ website:
   favicon: assets/images/favicon.ico
 format:
   html:
-    theme: morph
+    theme: spacelab
     css: styles.css
     toc: true
     smooth-scroll: true

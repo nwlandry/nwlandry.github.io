@@ -4,7 +4,8 @@ date: 2020-03-23
 ---
 
 I was over a friend's house and they had a game called "Spot It!" - a set of cards where each card had 6 different characters on it. We were talking about the constraint that every card has to have exactly one match with the other. I realized that it couldn't be random because there were 20 cards and 31 distinct characters, so simply selecting randomly would not ensure this. So I became curious about what the structure WAS behind the character selection on each card. I wrote a python script to visualize co-occurrence of symbols on the cards:
-
+```{python}
+#| eval: false
     import numpy as np
     import webweb
     import matplotlib.pyplot as plt
@@ -68,6 +69,7 @@ I was over a friend's house and they had a game called "Spot It!" - a set of car
     web.display.showNodeNames = True
     web.display.attachWebwebToElementWithId = 'spotit'
     web.show()
+```
 
 from this, I visualized the following table of co-occurrences:
 
@@ -75,6 +77,6 @@ from this, I visualized the following table of co-occurrences:
 
 From this, we see that two characters can co-occur on a card at most once, and some characters never co-occur. Visualizing this as a network,
 
-<iframe src="/portfolio/webweb/spotit.html" frameborder="0" scrolling="no" width="900" height="700"></iframe>
+<iframe src="/portfolio/webweb/spotit.html" frameborder="0" scrolling="no" width="900" height="750"></iframe>
 
 And as it turns out, [other people](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/) have thought about this too! Very interesting problem and a nice little diversion.
