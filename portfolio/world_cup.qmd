@@ -1,5 +1,6 @@
 ---
 title: "World Cup Passing Networks"
+toc: false
 ---
 
 I got really interested in the structural characteristics of the network of passes in a soccer game. I used [WebWeb][1], an excellent Python package developed by Hunter Wapman and Dan Larremore at CU Boulder, to visualize these networks. I used the StatsBomb [database][2] on Github for the game data.
@@ -13,7 +14,7 @@ You can use the up/down arrows to switch between matches. The size of the nodes 
 This covers 64 matches: 48 matches in group play and 16 matches in the knockout stage.
 
 # Visualization of the 2019 FIFA Women's World Cup
-<iframe src="webweb/womens_world_cup_2019.html" frameborder="0" scrolling="no" width="100%" height="700"></iframe>
+<iframe src="webweb/womens_world_cup_2019.html" frameborder="0" scrolling="no" width="900" height="700"></iframe>
 
 This covers 52 matches: 36 matches in group play and 16 matches in the knockout stage.
 
