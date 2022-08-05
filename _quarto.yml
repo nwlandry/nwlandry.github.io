@@ -7,7 +7,9 @@ project:
 website:
   title: "Nicholas Landry"
   sidebar:
+    align: center
     logo: assets/images/headshot_nwlandry.jpg
+    # contents: [{{< fa twitter >}}, "hi"]
     tools:
       - icon: envelope
         href: mailto:nicholas.landry@uvm.edu
@@ -17,6 +19,8 @@ website:
         href: https://twitter.com/nwlandry
       - icon: linkedin
         href: www.linkedin.com/in/landrynicholas
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=7xLeZqMAAAAJ
       
   navbar:
     title: | 
