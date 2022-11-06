@@ -1,7 +1,0 @@
-<img src="/assets/images/headshot_nwlandry.jpg" class=icon>
-<!-- <i class="ai ai-google-scholar-square ai-3x"></i> -->
-<!-- {{{< ai google-scholar >}}} -->
-<!-- {{< twitter nwlandry >}}
-{{< github nwlandry >}}
-{{< scholar MFlgHdcAAAAJ >}}
-{{< orcid 0000-0003-2952-4812 >}} -->
