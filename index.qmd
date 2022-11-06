@@ -38,7 +38,12 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * Dynamical systems
 
 ## Recent News
-* **August 2022**: I organized and chaired the [Contagion on Complex Social Systems workshop](https://www.colorado.edu/amath/caccss2022) with Juan G. Restrepo in Boulder, CO! [Photo](https://twitter.com/Juanga_Restrepo/status/1558535965517393920)
+* **November 2022**: I am now on Mastodon! My username/instance is [nwlandry@mathstodon.xyz](https://mathstodon.xyz/@nwlandry).
+* **October 2022**: I gave a demo of XGI and presented in-progress work on the polarizability of hypergraphs with community structure at CCS 2022 in Palma, Spain.
+* **October 2022**: I gave an invited talk on the polarizability of hypergraphs with community structure at the AMS Eastern Sectional Meeting in Amherst, MA.
+* **August 2022**: Juan G. Restrepo and I organized and chaired the [Contagion on Complex Social Systems workshop](https://www.colorado.edu/amath/caccss2022) in Boulder, CO! [Photo](https://twitter.com/Juanga_Restrepo/status/1558535965517393920)
+* **July 2022**: I gave a demo of XGI and presented in-progress work on polarization of hypergraphs with community structure at NetSci 2022.
+* **July 2022**: I participated in a hackathon in Portland, ME hosted by NetSci at Northeastern.
 * **June 2022**: I started as a postdoctoral research associate at the University of Vermont!
 * **May 2022**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), *Hypergraph assortativity: a dynamical systems perspective* is published in [Chaos](https://doi.org/10.1063/5.0086905) as part of the Dynamics on Networks with Higher-Order Interactions special issue.
 * **May 2022**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is now available on the [ArXiv](https://doi.org/10.48550/arXiv.2204.12348).

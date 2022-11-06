@@ -34,6 +34,7 @@ website:
       - href: blog/index.qmd
     search: true
     pinned: true
+
 format:
   html:
     theme: spacelab
