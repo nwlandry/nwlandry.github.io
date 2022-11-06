@@ -1,0 +1,10 @@
+/* css styles */
+.sidebar-logo { 
+    border-radius: 50%;
+    border: 20px;
+}
+
+.task-list li:after {
+    content: "\A";
+    white-space: pre;
+  }
