@@ -1,0 +1,7 @@
+---
+title:  "WHY IS THE CAPS LOCK KEY STILL A THING?"
+date: 2021-03-20
+---
+
+Something I've come to feel strongly about is the unnecessary nature of the caps-lock key. On smaller laptops, space on the keyboard is a premium and yet, smack-dab in the center of prime "finger real estate" is a key that I haven't used since the last strongly worded email I've sent (i.e. never). I've tried to put myself in the shoes (or office chairs in this case) of the laptop bigwigs scheming with high-powered teams to construct the optimal keyboard layout. How is the caps-lock key still around?
+I can see that keyboards can be very helpful for people with physical disabilities -- I imagine the strain for those with coordination or muscular limitations where two key presses are close to impossible. Having a "helper" key could be useful to make technology more accessible to people with a wider variety of abilities. I wonder then if instead of making a laptop a tad more accessible if we should go all in and make a completely accessible laptop for someone who needs it. But reality is that everyone is different and each person's limitation will be different as well so it would potentially be extremely expensive to create a custom laptop tailored to an individual. In addition, often people with disabilities simply want a "normal" life, and keeping something seemingly silly like a caps-lock key can noticeably make someone's life better though you may not know it.

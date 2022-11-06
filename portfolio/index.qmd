@@ -1,0 +1,14 @@
+---
+title: "Portfolio"
+---
+
+## Industry
+* [MTConnect dashboard](mtconnect.qmd)
+* [Spindle vibration analysis](spindle_vibration.qmd)
+
+## Research
+* [Simulating the evolution of metal microstructure](metal_microstructure.qmd)
+
+## Fun
+* [The structure of music](music_structure.qmd)
+* [World Cup passing networks](world_cup.qmd)

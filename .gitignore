@@ -1,3 +1,4 @@
-_site
-.sass-cache
-.jekyll-metadata
+/.quarto/
+*.icloud
+_freeze
+.DS_Store
