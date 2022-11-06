@@ -62,6 +62,22 @@ ul.task-list li input[type="checkbox"] {
 <style>html{ scroll-behavior: smooth; }</style>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css">
 
 <link rel="stylesheet" href="../../../styles.css">
 <meta property="og:title" content="Nicholas Landry - Effect of time-dependent infectiousness on epidemic dynamics">
@@ -96,10 +112,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../../pages/publications.html">Publications</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../assets/docs/CV.pdf">CV</a>
+    <a class="nav-link" href="../../../portfolio/index.html">Portfolio</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../portfolio/index.html">Portfolio</a>
+    <a class="nav-link" href="../../../assets/docs/CV.pdf">CV</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../../pages/about.html">About</a>
@@ -146,15 +162,35 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p>I’m very excited to share that a sole-authored work, “Effect of time-dependent infectiousness on epidemic dynamics”, is now out in <a href="https://doi.org/10.1103/PhysRevE.104.064302">Physical Review E</a>! This started as a class project with Ren Stengel in Dan Larremore’s class, “Network Analysis and Modeling.” Over time, this morphed into the work that is currently published.</p>
-<p>The central question that I answered was “How does adding a variable infection rate affect epidemics?” It turns out that many people have thought about this as well, and I read literature published 20 (!) years ago exploring this fact. I modified the SIR to include n infectious stages (traditionally called the SI^kR model), each stage corresponding to the infection rate at a point in time. It is called the viral load (VL) model for its ability to capture time-dependent transmissibility due to viral load.</p>
-<p>&lt;img src=“{{”/assets/images/time-dependent-infectiousness/model.png” | absolute_url }}” width=“50%” hspace=“20” align=“left”&gt;</p>
+<p>The central question that I answered was “How does adding a variable infection rate affect epidemics?” It turns out that many people have thought about this as well, and I read literature published 20 (!) years ago exploring this fact. I modified the SIR to include n infectious stages (traditionally called the <span class="math inline">SI^kR</span> model), each stage corresponding to the infection rate at a point in time. It is called the viral load (VL) model for its ability to capture time-dependent transmissibility due to viral load.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../../assets/images/time-dependent-infectiousness/model.png" class="img-fluid figure-img" style="width:50.0%"></p>
+<p></p><figcaption class="figure-caption"><span class="math inline">SI^kR</span> model</figcaption><p></p>
+</figure>
+</div>
 <p>I was able to use a combination of mean-field techniques and the “next-generation matrix” by Diekmann et al.&nbsp;to derive analytical expressions for the reproductive number. I derived this for both static and temporal networks with an arbitrary distribution of infectious rate functions.</p>
 <p>The reproductive number is exactly as you would expect from the SIR model when you let the infection rate equal the average of the infectious rate function. Here’s a plot of the epidemic extent with respect to the derived reproductive number.</p>
-<p>&lt;img src=“{{”/assets/images/time-dependent-infectiousness/extent_vs_R0.png” | absolute_url }}” width=“50%” hspace=“20” align=“left”&gt;</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../../assets/images/time-dependent-infectiousness/extent_vs_R0.png" class="img-fluid figure-img" style="width:50.0%"></p>
+<p></p><figcaption class="figure-caption">Epidemic extent with respect to <span class="math inline">R_0</span></figcaption><p></p>
+</figure>
+</div>
 <p>The VL model, however, strongly affects the time dynamics of how an epidemic unfolds; the time scale of the VL model is much shorter than the SIR model.</p>
-<p>&lt;img src=“{{”/assets/images/time-dependent-infectiousness/infection_curves.png” | absolute_url }}” width=“50%” hspace=“20” align=“left”&gt;</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../../assets/images/time-dependent-infectiousness/infection_curves.png" class="img-fluid figure-img" style="width:50.0%"></p>
+<p></p><figcaption class="figure-caption">The epidemic trajectories of different contagion models</figcaption><p></p>
+</figure>
+</div>
 <p>In addition, the infection propagates as a traveling wave of infection, which we demonstrate with numerical simulations and writing the VL model as a transport equation PDE with infectious boundary conditions.</p>
-<p>&lt;img src=“{{”/assets/images/time-dependent-infectiousness/heatmap.png” | absolute_url }}” width=“50%” hspace=“20” align=“left”&gt;</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../../assets/images/time-dependent-infectiousness/heatmap.png" class="img-fluid figure-img" style="width:50.0%"></p>
+<p></p><figcaption class="figure-caption">The number of individuals infected for duration τ at time t for the configuration model (top) and the activity model (middle). The line plots (bottom) denote the probability distribution of τ at times 40, 60, and 80, which correspond to normalized vertical cross sections of <span class="math inline">I(t, \tau)</span>.</figcaption><p></p>
+</figure>
+</div>
 <p>This project was especially significant for me as a researcher, because this paper helped me develop my voice. I am grateful to the reviewers for helping me strengthen the idea. A big shoutout to Ren Stengel, Dan Larremore, Juan G. Restrepo, and Subekshya Bidari for their help and input!</p>
 
 
