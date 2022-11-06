@@ -8,7 +8,7 @@ project:
 website:
   open-graph: true
   title: "Nicholas Landry"
-  site-url: https://nwlandry.github.io
+  site-url: http://nwlandry.github.io
   repo-url: https://github.com/nwlandry/nwlandry.github.io
   favicon: assets/images/favicon.ico
   twitter-card: 
