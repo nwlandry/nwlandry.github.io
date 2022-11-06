@@ -1,1 +1,1 @@
-Sitemap: https://nwlandry.com/sitemap.xml
+Sitemap: https://nwlandry.github.io/sitemap.xml
