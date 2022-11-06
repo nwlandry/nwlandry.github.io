@@ -1,48 +1,49 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
   render:
     - "*.qmd"
+  
 
 website:
+  open-graph: true
   title: "Nicholas Landry"
-  sidebar:
-    align: center
-    logo: assets/images/headshot_nwlandry.jpg
-    # contents: [{{< fa twitter >}}, "hi"]
-    tools:
-      - icon: envelope
-        href: mailto:nicholas.landry@uvm.edu
-      - icon: github
-        href: https://github.com/nwlandry
-      - icon: twitter
-        href: https://twitter.com/nwlandry
-      - icon: linkedin
-        href: www.linkedin.com/in/landrynicholas
-      - icon: mortarboard-fill
-        href: https://scholar.google.com/citations?user=7xLeZqMAAAAJ
-      
+  site-url: https://nwlandry.com
+  repo-url: https://github.com/nwlandry/nwlandry.github.io
+  favicon: assets/images/favicon.ico
+  twitter-card: 
+    creator: "@nwlandry"
+    site: "@nwlandry"
+    card-style: "summary_large_image"
+
   navbar:
-    title: | 
-      <span class="display-name"><b>Nicholas Landry</b>
     style: "floating"
+    background: dark
+    foreground: light
     left:
       - href: index.qmd
+        text: Home
       - href: pages/publications.qmd
+        text: Publications
       - href: assets/docs/CV.pdf
         text: CV
       - href: portfolio/index.qmd
+        text: Portfolio
       - href: pages/about.qmd
         text: About
-      - href: pages/contact.qmd
       - href: blog/index.qmd
     search: true
     pinned: true
-  favicon: assets/images/favicon.ico
 format:
   html:
     theme: spacelab
     css: styles.css
     toc: true
+    # toc-depth: 4
+    # toc-title: "Contents"
     smooth-scroll: true
     html-math-method: katex
+    include-in-header:
+      - includes.html
+execute:
+  freeze: auto

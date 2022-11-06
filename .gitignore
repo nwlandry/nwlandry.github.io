@@ -1,3 +1,4 @@
 /.quarto/
 *.icloud
 _freeze
+.DS_Store

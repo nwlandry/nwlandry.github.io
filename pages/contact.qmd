@@ -1,10 +1,25 @@
 ---
-title: "Links"
+title: "Nicholas Landry"
+about:
+  template: trestles
+  image: "/assets/images/headshot_nwlandry.jpg"
+  links:
+    - icon: envelope
+      text: email
+      href: nicholas.landry@uvm.edu
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/nwlandry
+    - icon: github
+      text: Github
+      href: https://github.com/nwlandry
+    - icon: google-scholar
+      text: GS
+      href: https://github.com/nwlandry
+    - icon: google-scholar
+      text: GS
+      href: https://github.com/nwlandry
+    - icon: '''{=html}<i class="ai ai-archive"></i>'''
+      text: GS
+      href: https://github.com/nwlandry
 ---
-
-* [{{< fa envelope >}} Email](mailto:nicholas.landry@uvm.edu)
-* [{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=7xLeZqMAAAAJ)
-* [{{< twitter >}} Twitter](https://twitter.com/nwlandry)
-* [{{< ai orcid >}} Orcid](https://orcid.org/0000-0003-1270-4980)
-* [{{< github >}} Github](https://github.com/nwlandry)
-* [{{< linkedin >}} LinkedIn](www.linkedin.com/in/landrynicholas)
