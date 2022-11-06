@@ -25,10 +25,10 @@ website:
         text: Home
       - href: pages/publications.qmd
         text: Publications
-      - href: assets/docs/CV.pdf
-        text: CV
       - href: portfolio/index.qmd
         text: Portfolio
+      - href: assets/docs/CV.pdf
+        text: CV
       - href: pages/about.qmd
         text: About
       - href: blog/index.qmd

@@ -3,10 +3,7 @@ title:  "Making Homemade Ramen"
 date: 2020-03-01
 ---
 
-<figure>
-<img src="/assets/images/ramen.jpg" width="100%" align="center">
-<figcaption>The finished product</figcaption>
-</figure>
+![The finished product](/assets/images/ramen.jpg){width="50%"}
 
 Some directions missing; will update and add more pictures as I have time.
 

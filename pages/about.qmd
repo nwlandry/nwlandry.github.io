@@ -2,7 +2,8 @@
 title: "About Me"
 ---
 
-<img src="/assets/images/hike_pic.jpg" width="25%" hspace="20" align="right">
+
+<img src="/assets/images/hiking.jpg" width="25%" hspace="20" align="right">
 
 I'm a New Englander at heart; I grew up in Seacoast NH and got my Bachelors in Mechanical Engineering at the University of New Hampshire. Post graduation, I took a break[^fnote1], then worked as a [Manufacturing Engineer][2] for several years. Mathematics has always been my passion, however, so I returned to school to get a doctorate in [applied mathematics][3] at the University of Colorado, Boulder.
 
