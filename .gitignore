@@ -2,3 +2,4 @@
 *.icloud
 _freeze
 .DS_Store
+/_site/
