@@ -60,6 +60,9 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -95,6 +98,9 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="../pages/publications.html" aria-current="page">Publications</a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../pages/software.html">Software</a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../portfolio/index.html">Portfolio</a>
   </li>  
   <li class="nav-item">
@@ -121,10 +127,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#articles" id="toc-articles" class="nav-link active" data-scroll-target="#articles">Articles</a></li>
-  <li><a href="#conference-papers" id="toc-conference-papers" class="nav-link" data-scroll-target="#conference-papers">Conference Papers</a></li>
-  <li><a href="#software" id="toc-software" class="nav-link" data-scroll-target="#software">Software</a></li>
-  <li><a href="#media" id="toc-media" class="nav-link" data-scroll-target="#media">Media</a></li>
+  <li><a href="#published" id="toc-published" class="nav-link active" data-scroll-target="#published">Published</a></li>
+  <li><a href="#unpublished" id="toc-unpublished" class="nav-link" data-scroll-target="#unpublished">Unpublished</a></li>
   <li><a href="#theses" id="toc-theses" class="nav-link" data-scroll-target="#theses">Theses</a></li>
   </ul>
 </nav>
@@ -149,37 +153,94 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p><em>My list of publications is also on <a href="https://scholar.google.com/citations?user=7xLeZqMAAAAJ">Google Scholar</a>.</em></p>
-<section id="articles" class="level2">
-<h2 class="anchored" data-anchor-id="articles">Articles</h2>
-<p><strong>Nicholas Landry</strong> and Juan G. Restrepo, <em>Hypergraph community structure and the emergence of polarization</em>, In Preparation</p>
-<p><strong>Nicholas Landry</strong> and jimi adams, <em>On limitations of uniplex networks for modeling multiplex diffusion</em>, Preprint, 2022. <a href="https://doi.org/10.48550/arXiv.2204.12348">ArXiv:2204.12348</a></p>
-<p><strong>Nicholas Landry</strong> and Juan G. Restrepo, <a href="../assets/docs/publications/2022_Chaos_hypergraph.pdf"><em>Hypergraph assortativity: a dynamical systems perspective</em></a>, Chaos, 2022. DOI: <a href="https://doi.org/10.1063/5.0086905">10.1063/5.0086905</a> and <a href="https://doi.org/10.48550/arXiv.2109.01099">ArXiV:2109.01099</a></p>
-<p>Nicholas Landry, <a href="../assets/docs/publications/2021_PhysRevE_effect.pdf"><em>Effect of time-dependent infectiousness on epidemic dynamics</em></a>, Physical Review E, 2021. DOI: <a href="https://doi.org/10.1103/PhysRevE.104.064302">10.1103/PhysRevE.104.064302</a> and <a href="https://doi.org/10.48550/arXiv.2106.10384">ArXiV:2106.10384</a></p>
-<p><strong>Nicholas Landry</strong> and Juan G. Restrepo, <a href="../assets/docs/publications/2020_chaos_effect.pdf"><em>The effect of heterogeneity on hypergraph contagion models</em></a>, Chaos, 2020. DOI: <a href="https://doi.org/10.1063/5.0020034">10.1063/5.0020034</a> and <a href="https://doi.org/10.48550/arXiv.2006.15453">ArXiV:2006.15453</a></p>
-<p><strong>Nicholas W. Landry</strong> and Marko Knezevic, <a href="../assets/docs/publications/2015_materials_delineation.pdf"><em>Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms</em></a>, Materials, 2015. DOI: <a href="https://dx.doi.org/10.3390/ma8095303">10.3390/ma8095303</a></p>
-<p>Marko Knezevic and <strong>Nicholas W. Landry</strong>, <a href="../assets/docs/publications/2015_MechOfMat_procedures.pdf"><em>Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics</em></a>, Mechanics of Materials, 2015. DOI: <a href="https://doi.org/10.1016/j.mechmat.2015.04.014">10.1016/j.mechmat.2015.04.014</a></p>
-</section>
-<section id="conference-papers" class="level2">
-<h2 class="anchored" data-anchor-id="conference-papers">Conference Papers</h2>
-<p>Marko Knezevic, Daniel J. Savage, and <strong>Nicholas W. Landry</strong>, <a href="../assets/docs/publications/2014_MSEC_towards.pdf"><em>Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures</em></a>, Proc. ASME., 2014. DOI: <a href="https://doi.org/10.1115/MSEC2014-3984">10.1115/MSEC2014-3984</a></p>
-</section>
-<section id="software" class="level2">
-<h2 class="anchored" data-anchor-id="software">Software</h2>
-<p><a href="https://xgi.readthedocs.io">Comple<strong>X</strong> <strong>G</strong>roup <strong>I</strong>nteractions (XGI)</a>: Founder and co-Lead Developer</p>
-<p><a href="https://hypercontagion.readthedocs.io">HyperContagion</a>: Founder and Lead Developer</p>
-</section>
-<section id="media" class="level2">
-<h2 class="anchored" data-anchor-id="media">Media</h2>
-<p><a href="https://publishing.aip.org/publications/latest-content/interactions-within-larger-social-groups-can-cause-tipping-points-in-contagion-flow/"><em>Interactions Within Larger Social Groups Can Cause Tipping Points in Contagion Flow</em></a>, AIP Press Release, October 20th, 2020</p>
-<p><a href="https://www.colorado.edu/amath/probably-novel"><em>Contagion on Complex Networks</em></a>, Radio, Season 3 Episode 13, Probably Novel at University of Colorado Boulder, February 3rd, 2020</p>
-</section>
-<section id="theses" class="level2">
-<h2 class="anchored" data-anchor-id="theses">Theses</h2>
-<p>Nicholas W. Landry, <a href="../assets/docs/Dissertation_Nicholas_W_Landry.pdf"><em>Contagion on Complex Systems: Structure and Dynamics</em></a>, The University of Colorado at Boulder, 2022. ProQuest, ISBN: <a href="https://www.proquest.com/docview/2672014395">9798802733509</a></p>
-<p>Nicholas W. Landry, <a href="../assets/docs/senior_final_report.pdf"><em>Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations</em></a>, <a href="https://scholars.unh.edu/honors/370/">The University of New Hampshire</a>, 2014.</p>
+<h2 id="published" class="anchored">Published</h2>
+<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Nicholas W. Landry</strong> and Juan G. Restrepo. (2022) "Hypergraph assortativity: a dynamical systems perspective." <em>Chaos</em><br><a class="btn btn-outline-dark btn-sm" ,="" href="../assets/docs/publications/2022_Chaos_hypergraph.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role="img" aria-label="PDF"></i>
+        PDF
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.48550/arXiv.2109.01099" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-arxiv" role="img" aria-label="Preprint"></i>
+        Preprint
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://github.com/nwlandry/hypergraph-assortativity" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-github" role="img" aria-label="Code"></i>
+        Code
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.1063/5.0086905" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role="img" aria-label="Published"></i>
+        Published
+    </a></li></ul>
+<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Nicholas W. Landry</strong>. (2021) "Effect of time-dependent infectiousness on epidemic dynamics." <em>Physical Review E</em><br><a class="btn btn-outline-dark btn-sm" ,="" href="../assets/docs/publications/2021_PhysRevE_effect.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role="img" aria-label="PDF"></i>
+        PDF
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.48550/arXiv.2106.10384" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-arxiv" role="img" aria-label="Preprint"></i>
+        Preprint
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://github.com/nwlandry/time-dependent-infectiousness" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-github" role="img" aria-label="Code"></i>
+        Code
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.1103/PhysRevE.104.064302" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role="img" aria-label="Published"></i>
+        Published
+    </a></li></ul>
+<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Nicholas W. Landry</strong> and Juan G. Restrepo. (2020) "The effect of heterogeneity on hypergraph contagion models." <em>Chaos</em><br><a class="btn btn-outline-dark btn-sm" ,="" href="../assets/docs/publications/2020_chaos_effect.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role="img" aria-label="PDF"></i>
+        PDF
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.48550/arXiv.2006.15453" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-arxiv" role="img" aria-label="Preprint"></i>
+        Preprint
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://github.com/nwlandry/SimplexSIS" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-github" role="img" aria-label="Code"></i>
+        Code
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.1063/5.0020034" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role="img" aria-label="Published"></i>
+        Published
+    </a></li></ul>
+<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Nicholas W. Landry</strong> and Marko Knezevic. (2015) "Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms." <em>Materials</em><br><a class="btn btn-outline-dark btn-sm" ,="" href="../assets/docs/publications/2015_materials_delineation.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role="img" aria-label="PDF"></i>
+        PDF
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://dx.doi.org/10.3390/ma8095303" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role="img" aria-label="Published"></i>
+        Published
+    </a></li>
+<li class="list-group-item">Marko Knezevic and <strong>Nicholas W. Landry</strong>. (2015) "Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics." <em>Mechanics of Materials</em><br><a class="btn btn-outline-dark btn-sm" ,="" href="../assets/docs/publications/2015_MechOfMat_procedures.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role="img" aria-label="PDF"></i>
+        PDF
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.1016/j.mechmat.2015.04.014" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role="img" aria-label="Published"></i>
+        Published
+    </a></li></ul>
+
+<ul class="list-group list-group-flush"><li class="list-group-item">Marko Knezevic, Daniel J. Savage, and <strong>Nicholas W. Landry</strong>. (2014) "Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures." <em>Proceedings of the ASME</em><br><a class="btn btn-outline-dark btn-sm" ,="" href="../assets/docs/publications/2014_MSEC_towards.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role="img" aria-label="PDF"></i>
+        PDF
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.1115/MSEC2014-3984" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role="img" aria-label="Published"></i>
+        Published
+    </a></li></ul>
+<h2 id="unpublished" class="anchored">Unpublished</h2>
+<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Nicholas W. Landry</strong> and jimi adams. (2022) "On limitations of uniplex networks for modeling multiplex diffusion."<br><a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.48550/arXiv.2204.12348" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-arxiv" role="img" aria-label="Preprint"></i>
+        Preprint
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://github.com/nwlandry/multiplex-contagion" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-github" role="img" aria-label="Code"></i>
+        Code
+    </a></li></ul>
+<h2 id="theses" class="anchored">Theses</h2>
+<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Nicholas W. Landry</strong>. (2022) "Contagion on Complex Systems: Structure and Dynamics." <em>The University of Colorado at Boulder</em>, <em>PhD Thesis</em><br><a class="btn btn-outline-dark btn-sm" ,="" href="../assets/docs/Dissertation_NWL.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role="img" aria-label="PDF"></i>
+        PDF
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://www.proquest.com/docview/2672014395" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role="img" aria-label="Published"></i>
+        Published
+    </a></li></ul>
+
+<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Nicholas W. Landry</strong>. (2014) "Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations." <em>The University of New Hampshire</em>, <em>Honors Thesis</em><br><a class="btn btn-outline-dark btn-sm" ,="" href="../assets/docs/Honors_Thesis_NWL.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role="img" aria-label="PDF"></i>
+        PDF
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://scholars.unh.edu/honors/370/" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role="img" aria-label="Published"></i>
+        Published
+    </a></li></ul>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

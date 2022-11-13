@@ -214,42 +214,14 @@
     "href": "pages/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "My list of publications is also on Google Scholar."
+    "text": "Published\nNicholas W. Landry and Juan G. Restrepo. (2022) \"Hypergraph assortativity: a dynamical systems perspective.\" Chaos\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \nNicholas W. Landry. (2021) \"Effect of time-dependent infectiousness on epidemic dynamics.\" Physical Review E\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \nNicholas W. Landry and Juan G. Restrepo. (2020) \"The effect of heterogeneity on hypergraph contagion models.\" Chaos\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \nNicholas W. Landry and Marko Knezevic. (2015) \"Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms.\" Materials\n        \n        PDF\n     \n        \n        Published\n    \nMarko Knezevic and Nicholas W. Landry. (2015) \"Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics.\" Mechanics of Materials\n        \n        PDF\n     \n        \n        Published\n    \n\nMarko Knezevic, Daniel J. Savage, and Nicholas W. Landry. (2014) \"Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures.\" Proceedings of the ASME\n        \n        PDF\n     \n        \n        Published\n    \nUnpublished\nNicholas W. Landry and jimi adams. (2022) \"On limitations of uniplex networks for modeling multiplex diffusion.\"\n        \n        Preprint\n     \n        \n        Code\n    \nTheses\nNicholas W. Landry. (2022) \"Contagion on Complex Systems: Structure and Dynamics.\" The University of Colorado at Boulder, PhD Thesis\n        \n        PDF\n     \n        \n        Published\n    \n\nNicholas W. Landry. (2014) \"Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations.\" The University of New Hampshire, Honors Thesis\n        \n        PDF\n     \n        \n        Published"
   },
   {
-    "objectID": "pages/publications.html#articles",
-    "href": "pages/publications.html#articles",
-    "title": "Publications",
-    "section": "Articles",
-    "text": "Articles\nNicholas Landry and Juan G. Restrepo, Hypergraph community structure and the emergence of polarization, In Preparation\nNicholas Landry and jimi adams, On limitations of uniplex networks for modeling multiplex diffusion, Preprint, 2022. ArXiv:2204.12348\nNicholas Landry and Juan G. Restrepo, Hypergraph assortativity: a dynamical systems perspective, Chaos, 2022. DOI: 10.1063/5.0086905 and ArXiV:2109.01099\nNicholas Landry, Effect of time-dependent infectiousness on epidemic dynamics, Physical Review E, 2021. DOI: 10.1103/PhysRevE.104.064302 and ArXiV:2106.10384\nNicholas Landry and Juan G. Restrepo, The effect of heterogeneity on hypergraph contagion models, Chaos, 2020. DOI: 10.1063/5.0020034 and ArXiV:2006.15453\nNicholas W. Landry and Marko Knezevic, Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms, Materials, 2015. DOI: 10.3390/ma8095303\nMarko Knezevic and Nicholas W. Landry, Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics, Mechanics of Materials, 2015. DOI: 10.1016/j.mechmat.2015.04.014"
-  },
-  {
-    "objectID": "pages/publications.html#conference-papers",
-    "href": "pages/publications.html#conference-papers",
-    "title": "Publications",
-    "section": "Conference Papers",
-    "text": "Conference Papers\nMarko Knezevic, Daniel J. Savage, and Nicholas W. Landry, Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures, Proc. ASME., 2014. DOI: 10.1115/MSEC2014-3984"
-  },
-  {
-    "objectID": "pages/publications.html#software",
-    "href": "pages/publications.html#software",
-    "title": "Publications",
-    "section": "Software",
-    "text": "Software\nCompleX Group Interactions (XGI): Founder and co-Lead Developer\nHyperContagion: Founder and Lead Developer"
-  },
-  {
-    "objectID": "pages/publications.html#media",
-    "href": "pages/publications.html#media",
-    "title": "Publications",
-    "section": "Media",
-    "text": "Media\nInteractions Within Larger Social Groups Can Cause Tipping Points in Contagion Flow, AIP Press Release, October 20th, 2020\nContagion on Complex Networks, Radio, Season 3 Episode 13, Probably Novel at University of Colorado Boulder, February 3rd, 2020"
-  },
-  {
-    "objectID": "pages/publications.html#theses",
-    "href": "pages/publications.html#theses",
-    "title": "Publications",
-    "section": "Theses",
-    "text": "Theses\nNicholas W. Landry, Contagion on Complex Systems: Structure and Dynamics, The University of Colorado at Boulder, 2022. ProQuest, ISBN: 9798802733509\nNicholas W. Landry, Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations, The University of New Hampshire, 2014."
+    "objectID": "pages/software.html",
+    "href": "pages/software.html",
+    "title": "Software",
+    "section": "",
+    "text": "The CompleX Group Interactions (XGI) library provides data structures and algorithms for modeling and analyzing complex systems with group (higher-order) interactions.\nMany datasets can be represented as graphs, where pairs of entities (or nodes) are related via links (or edges). Examples are road networks, energy grids, social networks, neural networks, etc. However, in many other datasets, more than two entities can be related at a time. For example, many scientists (entities) can collaborate on a scientific article together (links), and multiple email accounts (entities) can all participate on the same email thread (links). In this latter case, graphs no longer present a viable alternative to represent such datasets. It is for this kind of datasets, where the interactions are given among groups of more than two entities (also called higher-order interactions), that XGI was designed for.\nXGI is implemented in pure Python and is designed to seamlessly interoperate with the rest of the Python scientific stack (numpy, scipy, pandas, matplotlib, etc). XGI is designed and developed by network scientists with the needs of network scientists in mind.\n(Founder and co-lead developer)\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package\n    \nhypercontagion\nHyperContagion is a Python package for the simulation and visualization of contagion processes on complex systems with group (higher-order) interactions.\n(Founder and lead developer)\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package\n    \nhypernetx\nThe HyperNetX library provides classes and methods for modeling the entities and relationships found in complex networks as hypergraphs, the natural models for multi-dimensional network data.\n(Contributor)\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package"
   },
   {
     "objectID": "portfolio/index.html",
