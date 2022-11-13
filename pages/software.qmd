@@ -1,0 +1,15 @@
+---
+title: "Software"
+echo: false
+jupyter: python3
+section-divs: false
+---
+
+```{python}
+#| label: "software"
+#| id: "software"
+#| output: asis
+from utilities import *
+
+load_software_data("../software.yaml")
+```
