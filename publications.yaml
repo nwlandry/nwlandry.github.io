@@ -1,0 +1,94 @@
+landry_limitations_2022:
+  title: "On limitations of uniplex networks for modeling multiplex diffusion"
+  authors:
+    - me
+    - jimi adams
+  year: 2022
+  preprint: https://doi.org/10.48550/arXiv.2204.12348
+  code: https://github.com/nwlandry/multiplex-contagion
+
+landry_hypergraph_2022:
+  title: "Hypergraph assortativity: a dynamical systems perspective"
+  authors:
+    - me
+    - Juan G. Restrepo
+  year: 2022
+  pdf: /assets/docs/publications/2022_Chaos_hypergraph.pdf
+  preprint: https://doi.org/10.48550/arXiv.2109.01099
+  code: https://github.com/nwlandry/hypergraph-assortativity
+  published_url: https://doi.org/10.1063/5.0086905
+  venue: Chaos
+
+landry_effect_2021:
+  title: "Effect of time-dependent infectiousness on epidemic dynamics"
+  authors:
+    - me
+  year: 2021
+  pdf: /assets/docs/publications/2021_PhysRevE_effect.pdf
+  preprint: https://doi.org/10.48550/arXiv.2106.10384
+  code: https://github.com/nwlandry/time-dependent-infectiousness
+  published_url: https://doi.org/10.1103/PhysRevE.104.064302
+  venue: Physical Review E
+
+landry_effect_2020:
+  title: "The effect of heterogeneity on hypergraph contagion models"
+  authors:
+    - me
+    - Juan G. Restrepo
+  year: 2020
+  pdf: /assets/docs/publications/2020_chaos_effect.pdf
+  preprint: https://doi.org/10.48550/arXiv.2006.15453
+  code: https://github.com/nwlandry/SimplexSIS
+  published_url: https://doi.org/10.1063/5.0020034
+  venue: Chaos
+
+landry_delineation_2015:
+  title: "Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms"
+  authors:
+    - me
+    - Marko Knezevic
+  year: 2015
+  pdf: /assets/docs/publications/2015_materials_delineation.pdf
+  published_url: https://dx.doi.org/10.3390/ma8095303
+  venue: Materials
+
+knezevic_procedures_2015:
+  title: "Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics"
+  authors:
+    - Marko Knezevic
+    - me
+  year: 2015
+  pdf: /assets/docs/publications/2015_MechOfMat_procedures.pdf
+  published_url: https://doi.org/10.1016/j.mechmat.2015.04.014
+  venue: Mechanics of Materials
+
+knezevic_towards_2014:
+  title: "Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures"
+  authors:
+    - Marko Knezevic
+    - Daniel J. Savage
+    - me
+  year: 2014
+  pdf: /assets/docs/publications/2014_MSEC_towards.pdf
+  published_url: https://doi.org/10.1115/MSEC2014-3984
+  venue: Proceedings of the ASME
+
+landry_contagion_2022:
+  title: "Contagion on Complex Systems: Structure and Dynamics"
+  thesis: PhD
+  authors:
+    - me
+  year: 2022
+  pdf: /assets/docs/Dissertation_NWL.pdf
+  published_url: https://www.proquest.com/docview/2672014395
+  venue: The University of Colorado at Boulder
+
+landry_computationally_2014:
+  title: "Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations"
+  thesis: Honors
+  authors:
+    - me
+  year: 2014
+  pdf: /assets/docs/Honors_Thesis_NWL.pdf
+  published_url: https://scholars.unh.edu/honors/370/
+  venue: The University of New Hampshire

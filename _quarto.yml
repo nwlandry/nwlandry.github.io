@@ -25,6 +25,8 @@ website:
         text: Home
       - href: pages/publications.qmd
         text: Publications
+      - href: pages/software.qmd
+        text: Software
       - href: portfolio/index.qmd
         text: Portfolio
       - href: assets/docs/CV.pdf
@@ -46,5 +48,3 @@ format:
     html-math-method: katex
     include-in-header:
       - includes.html
-execute:
-  freeze: auto

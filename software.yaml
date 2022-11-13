@@ -1,0 +1,32 @@
+xgi:
+  title: "xgi"
+  description: |
+    The CompleX Group Interactions (XGI) library provides data structures and algorithms for modeling and analyzing complex systems with group (higher-order) interactions.
+
+    Many datasets can be represented as graphs, where pairs of entities (or nodes) are related via links (or edges). Examples are road networks, energy grids, social networks, neural networks, etc. However, in many other datasets, more than two entities can be related at a time. For example, many scientists (entities) can collaborate on a scientific article together (links), and multiple email accounts (entities) can all participate on the same email thread (links). In this latter case, graphs no longer present a viable alternative to represent such datasets. It is for this kind of datasets, where the interactions are given among groups of more than two entities (also called higher-order interactions), that XGI was designed for.
+
+    XGI is implemented in pure Python and is designed to seamlessly interoperate with the rest of the Python scientific stack (numpy, scipy, pandas, matplotlib, etc). XGI is designed and developed by network scientists with the needs of network scientists in mind.
+
+
+  role: Founder and co-lead developer
+  github: https://github.com/ComplexGroupInteractions/xgi
+  package: https://pypi.org/project/xgi/
+  website: https://xgi.readthedocs.io
+
+hypercontagion:
+  title: "hypercontagion"
+  description: |
+    HyperContagion is a Python package for the simulation and visualization of contagion processes on complex systems with group (higher-order) interactions.
+  role: Founder and lead developer
+  github: https://github.com/nwlandry/hypercontagion
+  package: https://pypi.org/project/hypercontagion/
+  website: https://hypercontagion.readthedocs.io
+
+hypernetx:
+  title: "hypernetx"
+  description: |
+    The HyperNetX library provides classes and methods for modeling the entities and relationships found in complex networks as hypergraphs, the natural models for multi-dimensional network data. As strict generalizations of graphs, hyperedges can represent arbitrary multi-way relations among entities, and in particular can distinguish cliques and simplices, and admit singleton edges. As both vertex adjacency and edge incidence are generalized to be quantities, hypergraph paths and walks thereby have both length and width because of these multiway connections. Most graph metrics have natural generalizations to hypergraphs, but since hypergraphs are basically set systems, they also admit to the powerful tools of algebraic topology, including simplicial complexes and simplicial homology, to study their structure.
+  role: Contributor
+  github: https://github.com/pnnl/HyperNetX
+  package: https://pypi.org/project/hypernetx/
+  website: pnnl.github.io/HyperNetX/
