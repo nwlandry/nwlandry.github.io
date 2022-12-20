@@ -39,6 +39,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
+* **December 2022**: XGI is now a [NumFOCUS](https://numfocus.org/) Affiliated Project!
 * **November 2022**: I am now on Mastodon! My username/instance is [nwlandry@mathstodon.xyz](https://mathstodon.xyz/@nwlandry).
 * **October 2022**: I gave a demo of XGI and presented in-progress work on the polarizability of hypergraphs with community structure at CCS 2022 in Palma, Spain.
 * **October 2022**: I gave an invited talk on the polarizability of hypergraphs with community structure at the AMS Eastern Sectional Meeting in Amherst, MA.
