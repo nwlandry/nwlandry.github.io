@@ -45,3 +45,6 @@ format:
     html-math-method: katex
     include-in-header:
       - includes.html
+    link-external-newwindow: true
+    footnotes-hover: false
+    code-fold: true
