@@ -219,8 +219,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 </header>
 
-<p>I was over a friend’s house and they had a game called “Spot It!” - a set of cards where each card had 6 different characters on it. We were talking about the constraint that every card has to have exactly one match with the other. I realized that it couldn’t be random because there were 20 cards and 31 distinct characters, so simply selecting randomly would not ensure this. So I became curious about what the structure WAS behind the character selection on each card. I wrote a python script to visualize co-occurrence of symbols on the cards:</p>
+<p>I was over a friend’s house and they had a game called “Spot It!” - a set of cards where each card had 6 different characters on it. We were talking about the constraint that every card has to have exactly one match with the other. I realized that it couldn’t be random because there were 20 cards and 31 distinct characters, so simply selecting randomly would not ensure this. So I became curious about what the structure WAS behind the character selection on each card. I wrote a python script to visualize co-occurrence of symbols on the cards.</p>
 <div class="cell" data-execution_count="1">
+<details>
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> numpy <span class="im">as</span> np</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> webweb</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
@@ -284,8 +286,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a>    web.display.showNodeNames <span class="op">=</span> <span class="va">True</span></span>
 <span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a>    web.display.attachWebwebToElementWithId <span class="op">=</span> <span class="st">'spotit'</span></span>
 <span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a>    web.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 </div>
-<p>from this, I visualized the following table of co-occurrences:</p>
+<p>From this, I visualized the following table of co-occurrences:</p>
 <p><img src="../../../assets/images/spotit.png" width="100%" hspace="20" align="left"></p>
 <p>From this, we see that two characters can co-occur on a card at most once, and some characters never co-occur. Visualizing this as a network,</p>
 <iframe src="../../../portfolio/webweb/spotit.html" frameborder="0" scrolling="no" width="900" height="750">
@@ -377,18 +380,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     };
     window.tippy(el, config); 
   }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      return note.innerHTML;
-    });
-  }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -426,6 +417,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/https:\/\/nwlandry\.github\.io/);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
