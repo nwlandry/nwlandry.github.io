@@ -19,19 +19,23 @@ pub_strs = load_publication_data("../publications.yaml")
 #| label: "published-year"
 #| id: "published-year"
 #| output: asis
-for year in sorted(pub_strs["pubs"].keys(), reverse=True):
+for year in sorted(pub_strs["pubs"], reverse=True):
     display(HTML(
         "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) + "</ul>"
     ))
 ```
 
-## Unpublished
 
 ```{python}
+
+if len(pub_strs["wps"]) > 0:
+    display(HTML(
+        "<h2>Unpublished</h2>"
+    ))
 #| label: "not-published-year"
 #| id: "not-published-year"
 #| output: asis
-for year in sorted(pub_strs["wps"].keys(), reverse=True):
+for year in sorted(pub_strs["wps"], reverse=True):
     display(HTML(
         "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["wps"][year]) + "</ul>"
     ))
@@ -43,7 +47,7 @@ for year in sorted(pub_strs["wps"].keys(), reverse=True):
 #| label: "theses-published-year"
 #| id: "theses-published-year"
 #| output: asis
-for year in sorted(pub_strs["theses"].keys(), reverse=True):
+for year in sorted(pub_strs["theses"], reverse=True):
     display(HTML(
         "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["theses"][year]) + "</ul>"
     ))
