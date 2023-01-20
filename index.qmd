@@ -39,6 +39,8 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
+* **January 2023**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is published in [PLoS ONE](https://doi.org/10.1371/journal.pone.0279345)!
+* **January 2023**: I gave a talk at the Network Science Institute at Northeastern.
 * **December 2022**: XGI is now a [NumFOCUS](https://numfocus.org/) Affiliated Project!
 * **November 2022**: I am now on Mastodon! My username/instance is [nwlandry@mathstodon.xyz](https://mathstodon.xyz/@nwlandry).
 * **October 2022**: I gave a demo of XGI and presented in-progress work on the polarizability of hypergraphs with community structure at CCS 2022 in Palma, Spain.
@@ -53,4 +55,3 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **March 2022**: I defended my dissertation and am now a Doctor of Applied Mathematics!
 * **February 2022**: I performed in a concert as a member of a 5-piano ensemble!
 * **February 2022**: I accepted a position as the TGIR postdoctoral fellow at the University of Vermont, working with the [Complex Systems Center](https://vermontcomplexsystems.org/) and the [TGIR Center](https://www.med.uvm.edu/tgircobre/home) under Jean-Gabriel Young and Laurent Hébert-Dufresne!
-* **January 2022**: I presented a poster at *Dynamics Days* on how community structure in hypergraphs can lead to polarization!
