@@ -46,5 +46,7 @@ format:
     include-in-header:
       - includes.html
     link-external-newwindow: true
+    link-external-filter: ^(?:http:|https:)\/\/\.nwlandry\.com\/custom
     footnotes-hover: false
     code-fold: true
+    https://nwlandry.com/
