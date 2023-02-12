@@ -1,0 +1,30 @@
+---
+title:  "Hypergraph assortativity: a dynamical systems perspective"
+date: 2022-05-09
+---
+
+I'm excited to share that ["Hypergraph assortativity: a dynamical systems perspective"](/assets/docs/publications/2022_Chaos_hypergraph.pdf) with [@Juanga_Restrepo](https://twitter.com/Juanga_Restrepo) is now out in [Chaos](https://doi.org/10.1063/5.0086905) as part of the Dynamics on Networks with Higher-Order Interactions special issue!.
+
+Assortativity is the tendency of similar individuals to connect with one another more often than you'd expect if they connected at random. "Similarity" can be in terms of degree, age, sex, and many other attributes.
+
+![An illustration of disassortative and assortative three-uniform hypergraphs. The color of the nodes indicates their degree, with low-degree nodes on the left and high-degree nodes on the right. For a given degree sequence, the term $\langle k k_1\rangle_E$ (the average pairwise product) determines $\rho$ and on average, (a) hyperedges containing nodes with dissimilar degrees decrease this term leading to disassortative hypergraphs and (b) hyperedges containing nodes of similar degree increase this term leading to assortative hypergraphs.](/assets/images/hypergraph-assortativity/assortativity_illustration.png){width="50%"}
+
+Assortativity in pairwise networks has been well-studied, but what about hypergraphs? There is great work out there quantifying assortativity in hypergraphs, but these definitions often aren't explicitly related to dynamical processes.
+
+We defined the "expansion eigenvalue" and showed that it's meaningful in the prediction of extinction of epidemics for the hypergraph SIS model. We then used degree-based mean-field theory to approximate this eigenvalue for assortative hypergraphs.
+
+We found that for uniform hypergraphs (hyperedges all the same size), we could derive an expression for degree assortativity that was related to the expansion eigenvalue and therefore to a dynamical process, which can be written as
+
+$$\rho=\frac{\langle k\rangle^2 \langle k k_1\rangle_E}{\langle k^2\rangle^2} - 1.$$
+
+Because this expression is meaningful in the context of dynamical systems, we call this quantity the "dynamical assortativity".
+
+We then used preferential double-edge swaps to increase/decrease the assortativity of empirical datasets. For small assortativity values, our prediction of the expansion eigenvalue matches the actual value closely for small enough assortativity values.
+
+![A comparison of the actual expansion eigenvalue $\lambda$ (connected triangles) to the first-order approximation of the eigenvalue $\lambda_0 + \epsilon \lambda_1$ (connected circles) for (a) the configuration model, (b) the tags-ask-ubuntu dataset, (c) the congress-bills dataset, and (d) the Eu-Emails dataset. The square marker denotes the original $(\rho,\lambda)$ value of the dataset.](/assets/images/hypergraph-assortativity/eigenvalue_vs_rho.png){width="100%"}
+
+We found sharp transitions in the eigenvalue when rewiring empirical hypergraphs, which may indicate that there’s more structure at play than the degree sequence and the degree-degree mixing structure.
+
+We can drastically decrease the eigenvalue by rewiring groups and "kill" epidemics by driving the system below the extinction threshold.
+
+![(a) The solid line with markers denotes the fixed value of $\beta_3$ as a fraction of the extinction threshold, $\beta_3/\beta_3^c$. The dashed line indicates $\beta_3/\beta_3^c=1$, below which epidemics are not possible. (b) The epidemic equilibrium (percentage of the population infected) for each hypergraph given the fixed value of $\beta_3$. The gray bars indicate the standard deviation at each data point.](/assets/images/hypergraph-assortativity/epidemic_rewiring_congress-bills.png){width="75%"}
