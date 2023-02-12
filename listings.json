@@ -2,6 +2,8 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/2023-01-20_multiplex_contagion/index.html",
+      "/blog/posts/2022-05-09_hypergraph_assortativity/index.html",
       "/blog/posts/2021-12-22_time_dependent_infectiousness/index.html",
       "/blog/posts/2021-06-11_eunoia/index.html",
       "/blog/posts/2021-03-20_capslock/index.html",
