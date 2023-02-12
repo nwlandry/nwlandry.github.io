@@ -148,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p><img src="./assets/images/headshot_nwlandry.jpg" width="25%" hspace="20" align="right"> I’m the TGIR Postdoctoral Research Fellow at the University of Vermont. My research expertise is broadly the study of dynamics on complex systems, especially the spread of contagion on interaction networks involving group (higher-order) interactions. My research always starts with noticing things around me and asking, “why?” I’ve worked in both academia and industry which gives me a unique perspective on applied mathematics.</p>
-<p>My <a href="./portfolio/">portfolio</a> is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my <a href="./about/">bio</a>, <a href="./assets/docs/CV.pdf">CV</a>, or list of <a href="./pages/publications.html">publications</a>. You can also take a look at my <a href="./blog/">blog</a>.</p>
+<p>My <a href="./portfolio/">portfolio</a> is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my <a href="./pages/about.html">bio</a>, <a href="./assets/docs/CV.pdf">CV</a>, or list of <a href="./pages/publications.html">publications</a>. You can also take a look at my <a href="./blog/">blog</a>.</p>
 <div class="column-page-inset text-center">
 <a class="btn btn-outline-dark" ,="" href="mailto:nicholas.landry@uvm.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role="img" aria-label="Email"></i> Email
@@ -322,20 +322,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp(/^(?:http:|https:)\/\/nwlandry\.com\/custom/);
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
-    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
