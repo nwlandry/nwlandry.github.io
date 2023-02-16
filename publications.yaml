@@ -1,3 +1,17 @@
+landry_xgi_2023:
+  title: " XGI: A Python package for higher-order interaction networks"
+  authors:
+    - me
+    - Maxime Lucas
+    - Iacopo Iacopini
+    - Giovanni Petri
+    - Alice C. Schwarze
+    - Alice Patania
+    - Leo Torres
+  year: 2023
+  pdf: /assets/docs/publications/2023_JOSS_XGI.pdf
+  code: https://github.com/ComplexGroupInteractions/xgi
+
 landry_limitations_2023:
   title: "On limitations of uniplex networks for modeling multiplex contagion"
   authors:
