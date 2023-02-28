@@ -26,11 +26,12 @@ for year in sorted(pub_strs["pubs"], reverse=True):
 ```
 
 
+## Unpublished
 ```{python}
 
-if len(pub_strs["wps"]) > 0:
+if len(pub_strs["wps"]) == 0:
     display(HTML(
-        "<h2>Unpublished</h2>"
+        "Currently no unpublished work."
     ))
 #| label: "not-published-year"
 #| id: "not-published-year"

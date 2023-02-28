@@ -1,5 +1,14 @@
+landry_polarization_2023:
+  title: "XGI: A Python package for higher-order interaction networks"
+  authors:
+    - me
+    - Juan G. Restrepo
+  year: 2023
+  preprint: https://doi.org/10.48550/arXiv.2302.13967
+  code: https://github.com/nwlandry/polarization-in-hypergraphs
+
 landry_xgi_2023:
-  title: " XGI: A Python package for higher-order interaction networks"
+  title: "XGI: A Python package for higher-order interaction networks"
   authors:
     - me
     - Maxime Lucas
