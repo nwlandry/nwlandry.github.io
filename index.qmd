@@ -39,6 +39,10 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
+* **July 2023**: Two of my submissions, "XGI: A Python package for higher-order interaction networks" and "The simpliciality of empirical datasets" were accepted as contributed talks at NetSci 2023!
+* **June 2023**: I will be attending the Mathematics Research Communities Workshop on [Complex Social Systems](https://www.ams.org/programs/research-communities/2023MRC-SocialSystems).
+* **May 2023**: I am an invited speaker at the [Workshop on Modelling and Mining Complex Networks as Hypergraphs](https://math.ryerson.ca/waw2023/).
+* **March 2023**: I participated in the [Postdocs in Complexity Conference X](https://www.santafe.edu/events/2023-jsmf-sfi-postdocs-complexity-conference-x).
 * **February 2023**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), *Polarization in hypergraphs with community structure* is on [ArXiv](https://doi.org/10.48550/arXiv.2302.13967)!
 * **January 2023**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is published in [PLoS ONE](https://doi.org/10.1371/journal.pone.0279345)!
 * **January 2023**: I gave a talk at the Network Science Institute at Northeastern.
@@ -52,5 +56,3 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **June 2022**: I started as my position as the TGIR postdoctoral fellow at the University of Vermont!
 * **May 2022**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), *Hypergraph assortativity: a dynamical systems perspective* is published in [Chaos](https://doi.org/10.1063/5.0086905) as part of the Dynamics on Networks with Higher-Order Interactions special issue.
 * **May 2022**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is now available on the [ArXiv](https://doi.org/10.48550/arXiv.2204.12348).
-* **March 2022**: I gave a talk at NERCCS 2022 on how community structure in hypergraphs can lead to polarization and won Best Oral Presentation.
-* **March 2022**: I defended my dissertation and am now a Doctor of Applied Mathematics!

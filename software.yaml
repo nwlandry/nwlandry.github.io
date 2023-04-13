@@ -8,7 +8,7 @@ xgi:
     XGI is implemented in pure Python and is designed to seamlessly interoperate with the rest of the Python scientific stack (numpy, scipy, pandas, matplotlib, etc). XGI is designed and developed by network scientists with the needs of network scientists in mind.
     
   role: Founder and co-lead developer
-  github: https://github.com/ComplexGroupInteractions/xgi
+  github: https://github.com/xgi-org/xgi
   package: https://pypi.org/project/xgi/
   website: https://xgi.readthedocs.io
 

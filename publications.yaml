@@ -19,7 +19,7 @@ landry_xgi_2023:
     - Leo Torres
   year: 2023
   pdf: /assets/docs/publications/2023_JOSS_XGI.pdf
-  code: https://github.com/ComplexGroupInteractions/xgi
+  code: https://github.com/xgi-org/xgi
 
 landry_limitations_2023:
   title: "On limitations of uniplex networks for modeling multiplex contagion"
