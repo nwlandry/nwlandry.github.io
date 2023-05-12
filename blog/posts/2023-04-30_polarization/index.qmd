@@ -3,13 +3,6 @@ title:  "Polarization in hypergraphs with community structure"
 date: 2023-04-30
 ---
 
-::: {#fig1 layout-ncol=2 layout-valign="center" layout-align="center" colwidth}
-![](/assets/images/polarization-in-hypergraphs/community_structure_visualization.png){width="25%"}
-
-
-An illustration of a 3-uniform hypergraph sampled from the HPPM model with varying strengths of community structure using XGI.{width="75%"}
-:::
-
 ![An illustration of a 3-uniform hypergraph sampled from the HPPM model with varying strengths of community structure using XGI.](/assets/images/polarization-in-hypergraphs/community_structure_visualization.png){width="25%"}
 
 I'm excited to belatedly announce that "Polarization in hypergraphs with community structure", a collaboration with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), is on [arXiv](https://doi.org/10.48550/arXiv.2302.13967)! This project started almost by accident. We wanted to see whether community structure was affecting the epidemic threshold or the onset of tipping point behavior for the hypergraph SIS model. In our investigation, we found a very interesting phase diagram.
