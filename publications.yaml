@@ -1,3 +1,14 @@
+landry_filtering_2023:
+  title: "Polarization in hypergraphs with community structure"
+  authors:
+    - me
+    - Ilya Amburg
+    - Mirah Shi
+    - Sinan G. Aksoy
+  year: 2023
+  preprint: https://doi.org/10.48550/arXiv.2305.06910
+  code: https://github.com/nwlandry/filtering-higher-order-datasets
+
 landry_polarization_2023:
   title: "Polarization in hypergraphs with community structure"
   authors:
