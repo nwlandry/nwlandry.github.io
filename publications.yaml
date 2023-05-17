@@ -31,6 +31,8 @@ landry_xgi_2023:
   year: 2023
   pdf: /assets/docs/publications/2023_JOSS_XGI.pdf
   code: https://github.com/xgi-org/xgi
+  published_url: https://doi.org/10.21105/joss.05162
+  venue: Journal of Open Source Software
 
 landry_limitations_2023:
   title: "On limitations of uniplex networks for modeling multiplex contagion"
