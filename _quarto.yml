@@ -3,6 +3,8 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
+  resources:
+    - CNAME
   
 
 website:
