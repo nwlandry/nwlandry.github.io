@@ -3,7 +3,7 @@ title: "Nicholas Landry"
 toc: false
 ---
 
-<img src="/assets/images/headshot_nwlandry.jpg" width="25%" hspace="20" align="right">
+<img src="/assets/images/headshot_nwlandry.jpg" width="20%" hspace="20" align="right">
 I’m the TGIR Postdoctoral Research Fellow at the University of Vermont. My research expertise is broadly the study of dynamics on complex systems, especially the spread of contagion on interaction networks involving group (higher-order) interactions. My research always starts with noticing things around me and asking, "why?" I’ve worked in both academia and industry which gives me a unique perspective on applied mathematics.
 
 My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/pages/about.qmd), [CV](/assets/docs/CV.pdf), or list of [publications](/pages/publications.qmd). You can also take a look at my [blog](/blog/).
