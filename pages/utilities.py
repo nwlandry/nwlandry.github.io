@@ -46,13 +46,15 @@ def load_publication_data(path):
         venue = data.get("venue")
         thesis_type = data.get("thesis")
 
-        pub_str = f'{author_str}. ({year_str}) "{title_str}."'
+        pub_str = f'{author_str}, "{title_str}",'
 
         if venue is not None:
             pub_str += f" <em>{venue}</em>"
 
         if thesis_type is not None:
             pub_str += f", <em>{thesis_type} Thesis</em>"
+        
+        pub_str += f" ({year_str})."
 
         if pub_url is None:
             if year_str not in pub_strs["wps"]:
