@@ -8,6 +8,8 @@ I’m the TGIR Postdoctoral Research Fellow at the University of Vermont. My res
 
 My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/pages/about.qmd), [CV](/assets/docs/CV.pdf), or list of [publications](/pages/publications.qmd). You can also take a look at my [blog](/blog/).
 
+**I am currently on the job market looking for positions that start in summer or fall of 2024!**
+
 ::: {.column-page-inset .text-center}
 ```{=html}
 <a class="btn btn-outline-dark", href="mailto:nicholas.landry@uvm.edu" target="_blank" rel="noopener noreferrer">
@@ -36,13 +38,15 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * Contagion spread (disease, opinions, etc.)
 * Structure of complex systems
 * Dynamical systems
+* Open software
 
 ## Recent News
 
-* **August 2023**: I am organizing the [Contagion on Complex Social Systems (CCSS)](https://ccss-conference.github.io/) workshop in Burlington, VT.
-* **July 2023**: Two of my submissions, "XGI: A Python package for higher-order interaction networks" and "The simpliciality of empirical datasets" were accepted as contributed talks at NetSci 2023!
+* **August 2023**: New preprint titled ["The simpliciality of higher-order networks"](https://doi.org/10.48550/arXiv.2308.13918) with [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) and [Jean-Gabriel Young](https://www.jgyoung.ca/) is now posted!
+* **August 2023**: I organized the [Contagion on Complex Social Systems (CCSS)](https://ccss-conference.github.io/) workshop in Burlington, VT.
+* **July 2023**: I presented ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) and Nicole Eikmeier presented "The simpliciality of empirical datasets" at NetSci 2023 in Vienna!
 * **June 2023**: XGI now supports directed hypergraphs!
-* **June 2023**: I will be attending the Mathematics Research Communities Workshop on [Complex Social Systems](https://www.ams.org/programs/research-communities/2023MRC-SocialSystems).
+* **June 2023**: I attended the Mathematics Research Communities Workshop on [Complex Social Systems](https://www.ams.org/programs/research-communities/2023MRC-SocialSystems).
 * **May 2023**: ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) is now published in the Journal of Open Source Software!
 * **May 2023**: I am an invited speaker at the [Workshop on Modelling and Mining Complex Networks as Hypergraphs](https://math.ryerson.ca/waw2023/).
 * **May 2023**: A new preprint with Ilya Amburg, Mirah Shi, and Sinan G. Aksoy entitled "Filtering higher-order datasets" is now on [arXiv](https://doi.org/10.48550/arXiv.2305.06910)!
@@ -55,6 +59,3 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **October 2022**: I gave a demo of XGI and presented in-progress work on the polarizability of hypergraphs with community structure at CCS 2022 in Palma, Spain.
 * **October 2022**: I gave an invited talk on the polarizability of hypergraphs with community structure at the AMS Eastern Sectional Meeting in Amherst, MA.
 * **August 2022**: Juan G. Restrepo and I organized and chaired the [Contagion on Complex Social Systems workshop](https://www.colorado.edu/amath/caccss2022) in Boulder, CO! ([Photo](https://twitter.com/Juanga_Restrepo/status/1558535965517393920))
-* **July 2022**: I gave a demo of XGI and presented in-progress work on polarization of hypergraphs with community structure at NetSci 2022.
-* **July 2022**: I participated in a hackathon in Portland, ME hosted by NetSci at Northeastern.
-* **June 2022**: I started as my position as the TGIR postdoctoral fellow at the University of Vermont!

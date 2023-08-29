@@ -1,4 +1,14 @@
 landry_filtering_2023:
+  title: "The simpliciality of higher-order networks"
+  authors:
+    - me
+    - Jean-Gabriel Young
+    - Nicole Eikmeier
+  year: 2023
+  preprint: https://doi.org/10.48550/arXiv.2308.13918
+  code: https://github.com/nwlandry/the-simpliciality-of-higher-order-networks
+
+landry_filtering_2023:
   title: "Filtering higher-order datasets"
   authors:
     - me
@@ -9,14 +19,14 @@ landry_filtering_2023:
   preprint: https://doi.org/10.48550/arXiv.2305.06910
   code: https://github.com/nwlandry/filtering-higher-order-datasets
 
-landry_polarization_2023:
-  title: "Polarization in hypergraphs with community structure"
+landry_opinion_2023:
+  title: "Opinion disparity in hypergraphs with community structure"
   authors:
     - me
     - Juan G. Restrepo
   year: 2023
   preprint: https://doi.org/10.48550/arXiv.2302.13967
-  code: https://github.com/nwlandry/polarization-in-hypergraphs
+  code: https://github.com/nwlandry/opinion-disparity-in-hypergraphs
 
 landry_xgi_2023:
   title: "XGI: A Python package for higher-order interaction networks"
