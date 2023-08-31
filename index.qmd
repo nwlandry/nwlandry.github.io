@@ -34,10 +34,8 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 :::
 
 ## Research Interests
-* Complex systems (particularly those involving higher-order interactions)
+* The structure and dynamics of complex systems (particularly those involving higher-order interactions)
 * Contagion spread (disease, opinions, etc.)
-* Dynamical systems
-* Structure of complex systems
 * Inference of network structure
 * Open software
 
