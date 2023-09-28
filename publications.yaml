@@ -25,8 +25,11 @@ landry_opinion_2023:
     - me
     - Juan G. Restrepo
   year: 2023
+  pdf: /assets/docs/publications/2023_PhysRevE_opinion.pdf
   preprint: https://doi.org/10.48550/arXiv.2302.13967
   code: https://github.com/nwlandry/opinion-disparity-in-hypergraphs
+  published_url: https://doi.org/10.1103/PhysRevE.108.034311
+  venue: Physical Review E
 
 landry_xgi_2023:
   title: "XGI: A Python package for higher-order interaction networks"
