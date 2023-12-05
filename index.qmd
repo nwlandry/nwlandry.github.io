@@ -41,6 +41,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
+* **March 2023**: I am delighted be teaching a GNSP topic course on networks with higher-order interactions at the APS March Meeting, along with Ginestra Bianconi and Baruch Barzel.
 * **December 2023**: I will be attending the [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/cnww/) (CNWW, pronounced "canoe") in Quebec City, QC!
 * **November 2023**: XGI-DATA is relaunched on [Zenodo](https://zenodo.org/communities/xgi) with twice as many datasets and now has a corresponding [table of network statistics](https://xgi.readthedocs.io/en/stable/xgi-data.html)!
 * **October 2023**: I co-hosted [Yu Tian](https://ytian.netlify.app/) at UVM and had the opportunity to chat science!
