@@ -15,7 +15,8 @@ landry_filtering_2023:
     - Ilya Amburg
     - Mirah Shi
     - Sinan G. Aksoy
-  year: 2023
+  year: 2024
+  pdf: /assets/docs/publications/2024_JPhysComp_filtering.pdf
   preprint: https://doi.org/10.48550/arXiv.2305.06910
   code: https://github.com/nwlandry/filtering-higher-order-datasets
   published_url: https://doi.org/10.1088/2632-072X/ad253a
