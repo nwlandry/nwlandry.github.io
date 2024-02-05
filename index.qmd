@@ -41,7 +41,9 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
-* **March 2023**: I am delighted be teaching a GNSP topic course on networks with higher-order interactions at the APS March Meeting, along with Ginestra Bianconi and Baruch Barzel.
+* **April 2024**: I am an invited speaker at the [WINQ Program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/) workshop in Stockholm, Sweden!
+* **March 2024**: I am delighted be teaching a GNSP topic course on networks with higher-order interactions at the APS March Meeting, along with Ginestra Bianconi and Baruch Barzel.
+* **February 2024**: Joint work with [Ilya Amburg](https://sites.google.com/site/ilyaamburg1/home), [Mirah Shi](https://www.seas.upenn.edu/~mirahshi/), and [Sinan Aksoy](https://sinanaksoy.com/) titled ["Filtering higher-order datasets"](/assets/docs/publications/2024_JPhysComp_filtering.pdf) was accepted in the [Journal of Physics: Complexity](https://doi.org/10.1088/2632-072X/ad253a)!
 * **December 2023**: I will be attending the [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/cnww/) (CNWW, pronounced "canoe") in Quebec City, QC!
 * **November 2023**: XGI-DATA is relaunched on [Zenodo](https://zenodo.org/communities/xgi) with twice as many datasets and now has a corresponding [table of network statistics](https://xgi.readthedocs.io/en/stable/xgi-data.html)!
 * **October 2023**: I co-hosted [Yu Tian](https://ytian.netlify.app/) at UVM and had the opportunity to chat science!
@@ -56,10 +58,3 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **May 2023**: I was an invited speaker at the [Workshop on Modelling and Mining Complex Networks as Hypergraphs](https://math.ryerson.ca/waw2023/).
 * **May 2023**: A new preprint with Ilya Amburg, Mirah Shi, and Sinan G. Aksoy entitled "Filtering higher-order datasets" is now on [arXiv](https://doi.org/10.48550/arXiv.2305.06910)!
 * **March 2023**: I participated in the [Postdocs in Complexity Conference X](https://www.santafe.edu/events/2023-jsmf-sfi-postdocs-complexity-conference-x).
-* **February 2023**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), *Polarization in hypergraphs with community structure* is on [ArXiv](https://doi.org/10.48550/arXiv.2302.13967)! A quick summary is [here](/blog/posts/2023-04-30_polarization/index.qmd).
-* **January 2023**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is published in [PLoS ONE](https://doi.org/10.1371/journal.pone.0279345)!
-* **January 2023**: I gave a talk at the Network Science Institute at Northeastern.
-* **December 2022**: XGI is now a [NumFOCUS](https://numfocus.org/) Affiliated Project!
-* **November 2022**: I am now on Mastodon! My username/instance is [nwlandry@mathstodon.xyz](https://mathstodon.xyz/@nwlandry).
-* **October 2022**: I gave a demo of XGI and presented in-progress work on the polarizability of hypergraphs with community structure at CCS 2022 in Palma, Spain.
-* **October 2022**: I gave an invited talk on the polarizability of hypergraphs with community structure at the AMS Eastern Sectional Meeting in Amherst, MA.

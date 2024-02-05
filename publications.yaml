@@ -18,6 +18,9 @@ landry_filtering_2023:
   year: 2023
   preprint: https://doi.org/10.48550/arXiv.2305.06910
   code: https://github.com/nwlandry/filtering-higher-order-datasets
+  published_url: https://doi.org/10.1088/2632-072X/ad253a
+  venue: >
+   Journal of Physics: Complexity
 
 landry_opinion_2023:
   title: "Opinion disparity in hypergraphs with community structure"
