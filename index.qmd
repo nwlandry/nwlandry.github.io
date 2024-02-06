@@ -30,6 +30,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 <a class="btn btn-outline-dark", href="https://www.linkedin.com/in/landrynicholas/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
 </a>
+<br>
 ```
 :::
 
