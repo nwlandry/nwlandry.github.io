@@ -31,6 +31,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
     <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
 </a>
 <br>
+<br>
 ```
 :::
 
