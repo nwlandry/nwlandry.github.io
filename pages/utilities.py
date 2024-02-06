@@ -60,7 +60,7 @@ def load_publication_data(path):
             if year_str not in pub_strs["wps"]:
                 pub_strs["wps"][year_str] = []
             pub_strs["wps"][year_str].append(
-                "<li class='list-group-item'>"
+                "<li class='list-group-item border-0'>"
                 + pub_str
                 + "<br>"
                 + " ".join(buttons)
@@ -71,7 +71,7 @@ def load_publication_data(path):
                 pub_strs["theses"][year_str] = []
             buttons.append(button(pub_url, "Published", "ai-archive"))
             pub_strs["theses"][year_str].append(
-                "<li class='list-group-item'>"
+                "<li class='list-group-item border-0'>"
                 + pub_str
                 + "<br>"
                 + " ".join(buttons)
@@ -82,7 +82,7 @@ def load_publication_data(path):
                 pub_strs["pubs"][year_str] = []
             buttons.append(button(pub_url, "Published", "ai-archive"))
             pub_strs["pubs"][year_str].append(
-                "<li class='list-group-item'>"
+                "<li class='list-group-item border-0'>"
                 + pub_str
                 + "<br>"
                 + " ".join(buttons)
