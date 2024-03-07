@@ -1,14 +1,18 @@
-landry_simpliciality_2023:
+landry_simpliciality_2024:
   title: "The simpliciality of higher-order networks"
   authors:
     - me
     - Jean-Gabriel Young
     - Nicole Eikmeier
-  year: 2023
+  year: 2024
+  pdf: /assets/docs/publications/2024_EPJDataSci_simpliciality.pdf
   preprint: https://doi.org/10.48550/arXiv.2308.13918
   code: https://github.com/nwlandry/the-simpliciality-of-higher-order-networks
+  published_url: https://doi.org/10.1140/epjds/s13688-024-00458-1
+  venue: EPJ Data Science
 
-landry_filtering_2023:
+
+landry_filtering_2024:
   title: "Filtering higher-order datasets"
   authors:
     - me
