@@ -96,7 +96,7 @@ landry_effect_2020:
     - me
     - Juan G. Restrepo
   year: 2020
-  pdf: /assets/docs/publications/2020_chaos_effect.pdf
+  pdf: /assets/docs/publications/2020_Chaos_effect.pdf
   preprint: https://doi.org/10.48550/arXiv.2006.15453
   code: https://github.com/nwlandry/SimplexSIS
   published_url: https://doi.org/10.1063/5.0020034
@@ -108,7 +108,7 @@ landry_delineation_2015:
     - me
     - Marko Knezevic
   year: 2015
-  pdf: /assets/docs/publications/2015_materials_delineation.pdf
+  pdf: /assets/docs/publications/2015_Materials_delineation.pdf
   published_url: https://dx.doi.org/10.3390/ma8095303
   venue: Materials
 
