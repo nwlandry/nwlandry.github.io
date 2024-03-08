@@ -44,8 +44,8 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 ## Recent News
 
 * **April 2024**: I am an invited speaker at the [WINQ Program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/) workshop in Stockholm, Sweden!
-* **March 2024**: I am delighted be teaching a GNSP topic course on networks with higher-order interactions at the APS March Meeting, along with Ginestra Bianconi and Baruch Barzel.
-* **February 2024**: Joint work with [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) and [Jean-Gabriel Young](https://www.jgyoung.ca/) titled "The simpliciality of higher-order networks" was accepted to EPJ Data Science!
+* **March 2024**: Joint work with [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) and [Jean-Gabriel Young](https://www.jgyoung.ca/) titled ["The simpliciality of higher-order networks"](/assets/docs/publications/2024_EPJDataSci_simpliciality.pdf) was published in [EPJ Data Science](https://doi.org/10.1140/epjds/s13688-024-00458-1)!
+* **March 2024**: I taught a [GNSP topic course](https://march.aps.org/events/higher-order-network-science) on networks with higher-order interactions at the APS March Meeting, along with Ginestra Bianconi and Baruch Barzel. The materials are located on [Github](https://github.com/nwlandry/software-demos/tree/main/marchmeeting2024).
 * **February 2024**: Joint work with [Ilya Amburg](https://sites.google.com/site/ilyaamburg1/home), [Mirah Shi](https://www.seas.upenn.edu/~mirahshi/), and [Sinan Aksoy](https://sinanaksoy.com/) titled ["Filtering higher-order datasets"](/assets/docs/publications/2024_JPhysComp_filtering.pdf) was published in the [Journal of Physics: Complexity](https://doi.org/10.1088/2632-072X/ad253a)!
 * **December 2023**: I will be attending the [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/cnww/) (CNWW, pronounced "canoe") in Quebec City, QC!
 * **November 2023**: XGI-DATA is relaunched on [Zenodo](https://zenodo.org/communities/xgi) with twice as many datasets and now has a corresponding [table of network statistics](https://xgi.readthedocs.io/en/stable/xgi-data.html)!
@@ -60,4 +60,3 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **May 2023**: ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) is now published in the Journal of Open Source Software!
 * **May 2023**: I was an invited speaker at the [Workshop on Modelling and Mining Complex Networks as Hypergraphs](https://math.ryerson.ca/waw2023/).
 * **May 2023**: A new preprint with Ilya Amburg, Mirah Shi, and Sinan G. Aksoy entitled "Filtering higher-order datasets" is now on [arXiv](https://doi.org/10.48550/arXiv.2305.06910)!
-* **March 2023**: I participated in the [Postdocs in Complexity Conference X](https://www.santafe.edu/events/2023-jsmf-sfi-postdocs-complexity-conference-x).
