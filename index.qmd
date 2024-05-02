@@ -42,6 +42,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 ## Recent News
 
 * **April 2024**: I accepted an offer as an Assistant Professor in the [Department of Biology](https://bio.as.virginia.edu/) at the [University of Virginia](https://www.virginia.edu/), as an interdisciplinary hire through the [Contagion Science program](https://contagion-science.virginia.edu/)! I will start in August 2024 and will be looking for a postdoc and several PhD students, so stay tuned!
+* **April 2024**: Joint work with Will Thompson, Laurent Hébert-Dufresne, and Jean-Gabriel Young titled "Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics" is now on [ArXiv](https://arxiv.org/abs/2405.00129)!
 * **April 2024**: I am an invited speaker at the [WINQ Program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/) workshop in Stockholm, Sweden!
 * * **April 2024**: I gave a talk at the Interaction Data Lab at LPI Paris on the limitations of models and measures for capturing higher-order structure.
 * **March 2024**: Joint work with [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) and [Jean-Gabriel Young](https://www.jgyoung.ca/) titled ["The simpliciality of higher-order networks"](/assets/docs/publications/2024_EPJDataSci_simpliciality.pdf) was published in [EPJ Data Science](https://doi.org/10.1140/epjds/s13688-024-00458-1)!
@@ -57,6 +58,3 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **July 2023**: I presented ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) and Nicole Eikmeier presented "The simpliciality of empirical datasets" at NetSci 2023 in Vienna!
 * **June 2023**: XGI now supports directed hypergraphs!
 * **June 2023**: I attended the Mathematics Research Communities Workshop on [Complex Social Systems](https://www.ams.org/programs/research-communities/2023MRC-SocialSystems). A [photo](assets/images/mrc2023.jpg) of me presenting our project to the rest of the workshop.
-* **May 2023**: ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) is now published in the Journal of Open Source Software!
-* **May 2023**: I was an invited speaker at the [Workshop on Modelling and Mining Complex Networks as Hypergraphs](https://math.ryerson.ca/waw2023/).
-* **May 2023**: A new preprint with Ilya Amburg, Mirah Shi, and Sinan G. Aksoy entitled "Filtering higher-order datasets" is now on [arXiv](https://doi.org/10.48550/arXiv.2305.06910)!
