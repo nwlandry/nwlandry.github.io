@@ -1,3 +1,15 @@
+landry_complex_2024:
+  title: "The simpliciality of higher-order networks"
+  authors:
+    - me
+    - Will Thompson
+    - Laurent Hébert-Dufresne
+    - Jean-Gabriel Young
+  year: 2024
+  preprint: https://arxiv.org/abs/2405.00129
+  code: https://github.com/nwlandry/complex-network-reconstruction
+
+
 landry_simpliciality_2024:
   title: "The simpliciality of higher-order networks"
   authors:
