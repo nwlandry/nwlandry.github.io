@@ -58,5 +58,3 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **August 2023**: New preprint titled ["The simpliciality of higher-order networks"](https://doi.org/10.48550/arXiv.2308.13918) with [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) and [Jean-Gabriel Young](https://www.jgyoung.ca/) is now posted!
 * **August 2023**: I organized the [Contagion on Complex Social Systems (CCSS)](https://ccss-conference.github.io/) workshop in Burlington, VT. See the [group photo](assets/images/ccss2023.jpg).
 * **July 2023**: I presented ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) and Nicole Eikmeier presented "The simpliciality of empirical datasets" at NetSci 2023 in Vienna!
-* **June 2023**: XGI now supports directed hypergraphs!
-* **June 2023**: I attended the Mathematics Research Communities Workshop on [Complex Social Systems](https://www.ams.org/programs/research-communities/2023MRC-SocialSystems). A [photo](assets/images/mrc2023.jpg) of me presenting our project to the rest of the workshop.
