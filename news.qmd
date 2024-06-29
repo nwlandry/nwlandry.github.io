@@ -2,7 +2,6 @@
 title: "Older news"
 ---
 
-* **July 2023**: I presented ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) and Nicole Eikmeier presented "The simpliciality of empirical datasets" at NetSci 2023 in Vienna!
 * **June 2023**: XGI now supports directed hypergraphs!
 * **June 2023**: I attended the Mathematics Research Communities Workshop on [Complex Social Systems](https://www.ams.org/programs/research-communities/2023MRC-SocialSystems). A [photo](assets/images/mrc2023.jpg) of me presenting our project to the rest of the workshop.
 * **May 2023**: ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) is now published in the Journal of Open Source Software!

@@ -1,3 +1,6 @@
 ipython
-pyyaml
 jupyter
+matplotlib
+numpy
+pyyaml
+webweb
