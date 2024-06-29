@@ -108,11 +108,11 @@ As we see, there is distinct structure for each type of music. The STFT gives a 
 
 
 
-[1]: http://turbulence.org/Works/song/index.html
+[1]: https://web.archive.org/web/20240311195021/https://turbulence.org/Works/song/index.html
 
 [2]: http://www.matthiasdittrich.com/projekte/narratives/visualisation/index.html
 
-[3]: http://www.visualcomplexity.com/vc/blog/?p=811
+[3]: https://web.archive.org/web/20231004033521/http://www.visualcomplexity.com/vc/blog/?p=811
 
 [4]: http://everynoise.com/
 
