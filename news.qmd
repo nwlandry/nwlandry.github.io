@@ -18,7 +18,7 @@ title: "Older news"
 * **August 2022**: Juan G. Restrepo and I organized and chaired the [Contagion on Complex Social Systems workshop](https://www.colorado.edu/amath/caccss2022) in Boulder, CO! [Photo](https://twitter.com/Juanga_Restrepo/status/1558535965517393920)
 * **July 2022**: I gave a demo of XGI and presented in-progress work on polarization of hypergraphs with community structure at NetSci 2022.
 * **July 2022**: I participated in a hackathon in Portland, ME hosted by NetSci at Northeastern.
-* **June 2022**: I started as a postdoctoral research associate at the University of Vermont!
+* **June 2022**: I started as a postdoctoral research associate at the University of Vermont! Picture of my [first day](assets/images/tgir_first_day.jpg)
 * **May 2022**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), *Hypergraph assortativity: a dynamical systems perspective* is published in [Chaos](https://doi.org/10.1063/5.0086905) as part of the Dynamics on Networks with Higher-Order Interactions special issue.
 * **May 2022**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is now available on the [ArXiv](https://doi.org/10.48550/arXiv.2204.12348).
 * **March 2022**: I gave a talk at NERCCS 2022 on how community structure in hypergraphs can lead to polarization and won Best Oral Presentation.
