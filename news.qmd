@@ -1,0 +1,40 @@
+---
+title: "Older news"
+---
+
+* **July 2023**: I presented ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) and Nicole Eikmeier presented "The simpliciality of empirical datasets" at NetSci 2023 in Vienna!
+* **June 2023**: XGI now supports directed hypergraphs!
+* **June 2023**: I attended the Mathematics Research Communities Workshop on [Complex Social Systems](https://www.ams.org/programs/research-communities/2023MRC-SocialSystems). A [photo](assets/images/mrc2023.jpg) of me presenting our project to the rest of the workshop.
+* **May 2023**: ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) is now published in the Journal of Open Source Software!
+* **May 2023**: I was an invited speaker at the [Workshop on Modelling and Mining Complex Networks as Hypergraphs](https://math.ryerson.ca/waw2023/).
+* **May 2023**: A new preprint with Ilya Amburg, Mirah Shi, and Sinan G. Aksoy entitled "Filtering higher-order datasets" is now on [arXiv](https://doi.org/10.48550/arXiv.2305.06910)!
+* **March 2023**: I participated in the [Postdocs in Complexity Conference X](https://www.santafe.edu/events/2023-jsmf-sfi-postdocs-complexity-conference-x).
+* **February 2023**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), *Polarization in hypergraphs with community structure* is on [ArXiv](https://doi.org/10.48550/arXiv.2302.13967)! A quick summary is [here](/blog/posts/2023-04-30_polarization/index.qmd).
+* **January 2023**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is published in [PLoS ONE](https://doi.org/10.1371/journal.pone.0279345)!
+* **January 2023**: I gave a talk at the Network Science Institute at Northeastern.
+* **December 2022**: XGI is now a [NumFOCUS](https://numfocus.org/) Affiliated Project!
+* **November 2022**: I am now on Mastodon! My username/instance is [nwlandry@mathstodon.xyz](https://mathstodon.xyz/@nwlandry).
+* **October 2022**: I gave a demo of XGI and presented in-progress work on the polarizability of hypergraphs with community structure at CCS 2022 in Palma, Spain.
+* **October 2022**: I gave an invited talk on the polarizability of hypergraphs with community structure at the AMS Eastern Sectional Meeting in Amherst, MA.
+* **August 2022**: Juan G. Restrepo and I organized and chaired the [Contagion on Complex Social Systems workshop](https://www.colorado.edu/amath/caccss2022) in Boulder, CO! [Photo](https://twitter.com/Juanga_Restrepo/status/1558535965517393920)
+* **July 2022**: I gave a demo of XGI and presented in-progress work on polarization of hypergraphs with community structure at NetSci 2022.
+* **July 2022**: I participated in a hackathon in Portland, ME hosted by NetSci at Northeastern.
+* **June 2022**: I started as a postdoctoral research associate at the University of Vermont!
+* **May 2022**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), *Hypergraph assortativity: a dynamical systems perspective* is published in [Chaos](https://doi.org/10.1063/5.0086905) as part of the Dynamics on Networks with Higher-Order Interactions special issue.
+* **May 2022**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is now available on the [ArXiv](https://doi.org/10.48550/arXiv.2204.12348).
+* **March 2022**: I gave a talk at NERCCS 2022 on how community structure in hypergraphs can lead to polarization and won Best Oral Presentation.
+* **March 2022**: I defended my dissertation and am now a Doctor of Applied Mathematics!
+* **February 2022**: I performed in a concert as a member of a 5-piano ensemble!
+* **February 2022**: I accepted a postdoctoral position at the University of Vermont, working with the [Complex Systems Center](https://vermontcomplexsystems.org/) and the [TGIR Center](https://www.med.uvm.edu/tgircobre/home) under Jean-Gabriel Young and Laurent Hébert-Dufresne!
+* **January 2022**: I presented a poster at *Dynamics Days* on how community structure in hypergraphs can lead to polarization!
+* **December 2021**: I gave a talk at the *Canadian Mathematics Society Winter Meeting* on hypergraph assortativity!
+* **December 2021**: My article was published in [Physical Review E](https://doi.org/10.1103/PhysRevE.104.064302)!
+* **November 2021**: I gave a talk at the *Conference on Complex Networks and their Applications* on hypergraph assortativity!
+* **November 2021**: [Leo Torres](https://leotrs.com/) and I released version 0.1 of [XGI](https://github.com/ComplexGroupInteractions/xgi), a Python package for representing and analyzing complex systems with higher-order interactions.
+* **September 2021**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo) was posted on [ArXiv](https://arxiv.org/abs/2109.01099).
+* **August 2021**: I became a PhD candidate in Applied Mathematics after passing my comprehensive exam.
+* **July 2021**: I gave a talk at Networks 2021 on joint work with [jimi adams](https://jimiadams.github.io/).
+* **June 2021**: I gave a talk at TopoNets 2021 (a satellite conference of Networks 2021) on how community structure in hypergraphs can allow polarization to occur.
+*  **June 2021**: Sole-authored work was posted on [ArXiv](https://arxiv.org/abs/2106.10384).
+* **May 2021**: I gave a talk at the SIAM Dynamical Systems Conference on joint work with Juan Restrepo.
+* **May 2021**: I am working as a PhD intern at Pacific Northwest National Laboratory.

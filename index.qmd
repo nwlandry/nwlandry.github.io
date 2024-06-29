@@ -41,7 +41,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
-* **June 2024**: I will be at [NetSci](https://netsci2024.com) in Quebec City! I'll be talking about our [recent work](https://arxiv.org/abs/2405.00129) on network reconstruction and about [XGI](https://xgi.readthedocs.io) at the Software Tools for Network Science [satellite](https://netsci.nascol.net/).
+* **June 2024**: I was at [NetSci](https://netsci2024.com) in Quebec City and talked about my [recent work](https://arxiv.org/abs/2405.00129) on network reconstruction and about [XGI](https://xgi.readthedocs.io) at the Software Tools for Network Science [satellite](https://netsci.nascol.net/). My talk on network reconstruction won the [Zachary's Karate Club Trophy](https://networkkarate.tumblr.com/). Here are photos of [my talk](assets/images/zkc_presentation.jpeg) referencing the ZKC network and of the [trophy presentation](assets/images/zkc_award.jpg).
 * **May 2024**: Yifei (Bell) Luo, an undergraduate at Middlebury College, co-mentored by [Phil Chodrow](https://www.philchodrow.prof/) and me, presented his undergraduate thesis titled "Efficient sampling of configuration model random hypergraphs"! Very proud of him!
 * **April 2024**: I accepted an offer as an Assistant Professor in the [Department of Biology](https://bio.as.virginia.edu/) at the [University of Virginia](https://www.virginia.edu/), as an interdisciplinary hire through the [Contagion Science program](https://contagion-science.virginia.edu/)! I will start in August 2024 and will be looking for a postdoc and several PhD students, so stay tuned!
 * **April 2024**: Joint work with Will Thompson, Laurent Hébert-Dufresne, and Jean-Gabriel Young titled "Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics" is now on [ArXiv](https://arxiv.org/abs/2405.00129)!
@@ -58,3 +58,5 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **August 2023**: New preprint titled ["The simpliciality of higher-order networks"](https://doi.org/10.48550/arXiv.2308.13918) with [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) and [Jean-Gabriel Young](https://www.jgyoung.ca/) is now posted!
 * **August 2023**: I organized the [Contagion on Complex Social Systems (CCSS)](https://ccss-conference.github.io/) workshop in Burlington, VT. See the [group photo](assets/images/ccss2023.jpg).
 * **July 2023**: I presented ["XGI: A Python package for higher-order interaction networks"](https://doi.org/10.21105/joss.05162) and Nicole Eikmeier presented "The simpliciality of empirical datasets" at NetSci 2023 in Vienna!
+
+[Older news](news.qmd)
