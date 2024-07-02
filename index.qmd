@@ -12,7 +12,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="mailto:nicholas.landry@uvm.edu" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:nicholas.landry@virginia.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
 <a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=7xLeZqMAAAAJ" target="_blank" rel="noopener noreferrer">
