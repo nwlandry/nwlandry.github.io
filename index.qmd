@@ -1,5 +1,4 @@
 ---
-title: "Nicholas Landry"
 toc: false
 ---
 
