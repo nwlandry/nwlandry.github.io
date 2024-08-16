@@ -1,3 +1,18 @@
+hebert-dufresne_stochastic_2024:
+  title: "Stochastic diffusion with approximate master equations with mean-field limits"
+  authors:
+    - Laurent Hébert-Dufresne
+    - Matthew M. Kling
+    - Samuel F. Rosenblatt
+    - Stephanie N. Miller
+    - P. Alexander Burnham
+    - me
+    - Nicholas J. Gotelli
+    - Brian J. McGill
+  year: 2024
+  preprint: http://arxiv.org/abs/2408.07755
+  code: https://github.com/nwlandry/mean-FLAME
+
 landry_complex_2024:
   title: "Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics"
   authors:
