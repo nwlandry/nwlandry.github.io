@@ -1,11 +1,12 @@
 landry_theoretical_2024:
+  title: "A theoretical framework for reservoir computing on networks of organic electrochemical transistors"
   authors:
     - me
     - Beckett R. Hyde
     - Jake C. Perez
     - Sean E. Shaheen
     - Juan G. Restrepo
-  title: "A theoretical framework for reservoir computing on networks of organic electrochemical transistors"
+  year: 2024
   preprint: http://arxiv.org/abs/2408.09223
   code: https://github.com/Signed-B/reservoir-computing-on-OECTs
 
