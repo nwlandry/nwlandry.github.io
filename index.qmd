@@ -6,7 +6,7 @@ toc: false
 <img src="/assets/images/headshot.jpg" width="30%" hspace="20" align="right">
 I’m a new [Assistant Professor of Biology](https://bio.as.virginia.edu/people/nicholas-landry) at the University of Virginia. I'm starting an [interdisciplinary lab](https://landry-lab.github.io/) focused on understanding how networks and groups (higher-order interactions) affect the spread of diseases, information, and opinions. I'll be answering these types of questions using tools from network science, mathematical modeling, Bayesian inference, and open-source software. I'm hoping to build bridges between the Biology department, the Biocomplexity Institute, the Quantitative Collaborative, and the School of Data Science, among others. 
 
-**I'll be hiring a postdoc, so stay tuned for an official job posting!**
+**I'm hiring a postdoc! Apply at [UVA Jobs](https://jobs.virginia.edu/us/en/job/R0064538/Research-Associate-in-Biology), so stay tuned for an official job posting!**
 
 My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/pages/about.qmd), [CV](/assets/docs/CV.pdf), or list of [publications](/pages/publications.qmd). You can also take a look at my [blog](/blog/).
 
@@ -44,12 +44,12 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 ## Recent News
 
 * **August 2024**: Two new preprints were posted: [one](http://arxiv.org/abs/2408.09223) presenting a theoretical model of a physical reservoir computer and the [other](http://arxiv.org/abs/2408.07755) presenting a new method for efficiently and accurately simulating diffusion processes with a high degree of stochasticity.
-* **August 2024**: I [started](https://as.virginia.edu/new-faculty-2024) as an Assistant Professor of Biology at the University of Virginia!
+* **August 2024**: I [started](https://as.virginia.edu/new-faculty-2024) as an [Assistant Professor of Biology](https://bio.as.virginia.edu/people/nicholas-landry) at the University of Virginia!
 * **July 2024**: I moved from Burlington, VT to Charlottesville, VA!
 * **June 2024**: I was at [NetSci](https://netsci2024.com) in Quebec City and talked about my [recent work](https://arxiv.org/abs/2405.00129) on network reconstruction and about [XGI](https://xgi.readthedocs.io) at the Software Tools for Network Science [satellite](https://netsci.nascol.net/). My talk on network reconstruction won the [Zachary's Karate Club Trophy](https://networkkarate.tumblr.com/). Here are photos of [my talk](assets/images/zkc_presentation.jpeg) referencing the ZKC network and of the [trophy presentation](assets/images/zkc_award.jpg).
 * **May 2024**: Yifei (Bell) Luo, an undergraduate at Middlebury College, co-mentored by [Phil Chodrow](https://www.philchodrow.prof/) and me, presented his undergraduate thesis titled "Efficient sampling of configuration model random hypergraphs"! Very proud of him!
 * **April 2024**: I accepted an offer as an Assistant Professor in the [Department of Biology](https://bio.as.virginia.edu/) at the [University of Virginia](https://www.virginia.edu/), as an interdisciplinary hire through the [Contagion Science program](https://contagion-science.virginia.edu/)! I will start in August 2024 and will be looking for a postdoc and several PhD students, so stay tuned!
-* **April 2024**: Joint work with [Will Thompson](), Laurent Hébert-Dufresne, and Jean-Gabriel Young titled "Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics" is now on [ArXiv](https://arxiv.org/abs/2405.00129)!
+* **April 2024**: Joint work with [Will Thompson](https://www.willhwthompson.com/), [Laurent Hébert-Dufresne](https://laurenthebertdufresne.github.io/), and [Jean-Gabriel Young](https://www.jgyoung.ca/) titled "CReconstructing networks from simple and complex contagions" is now on [ArXiv](https://arxiv.org/abs/2405.00129)!
 * **April 2024**: I am an invited speaker at the [WINQ Program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/) workshop in Stockholm, Sweden!
 * **April 2024**: I gave a [talk](https://www.youtube.com/watch?v=aK0mFG6WOb4&list=PLBwjIeu8oJrbEhY0zbJq3PKFdcNlj7JKj) at the Interaction Data Lab at LPI Paris on the limitations of models and measures for capturing higher-order structure.
 * **March 2024**: Joint work with [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) and [Jean-Gabriel Young](https://www.jgyoung.ca/) titled ["The simpliciality of higher-order networks"](/assets/docs/publications/2024_EPJDataSci_simpliciality.pdf) was published in [EPJ Data Science](https://doi.org/10.1140/epjds/s13688-024-00458-1)!
@@ -58,7 +58,5 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **December 2023**: I will be attending the [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/cnww/) (CNWW, pronounced "canoe") in Quebec City, QC!
 * **November 2023**: XGI-DATA is relaunched on [Zenodo](https://zenodo.org/communities/xgi) with twice as many datasets and now has a corresponding [table of network statistics](https://xgi.readthedocs.io/en/stable/xgi-data.html)!
 * **October 2023**: I co-hosted [Yu Tian](https://ytian.netlify.app/) at UVM and had the opportunity to chat science!
-* **September 2023**: My work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo) titled ["Opinion disparity in hypergraphs with community structure"](/assets/docs/publications/2023_PhysRevE_opinion.pdf) is now out in [Physical Review E](https://doi.org/10.1103/PhysRevE.108.034311)!
-* **September 2023**: I gave a talk on "Limitations and opportunities from simple higher-order structural and contagion models" at the [Vermont-KIAS Workshop](https://vermontcomplexsystems.org/events/vermont-kias/) in Burlington, VT.
 
 [Older news](news.qmd)
