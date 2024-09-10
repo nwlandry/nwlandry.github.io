@@ -43,6 +43,8 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
+* **May 2025**: I will be teaching a minitutorial at the [SIAM Conference on Applications of Dynamical Systems (DS25)](https://www.siam.org/conferences-events/siam-conferences/ds25/) in Denver, CO! I will be teaching ["A Practical Guide to Modeling with Higher-order Networks"](https://www.siam.org/conferences-events/siam-conferences/ds25/program/minitutorials/) with [Laurent Hébert-Dufresne](https://laurenthebertdufresne.github.io/).
+* **October 2025**: I will be giving a talk at the "Spreading on social networks – theory and applications" workshop at Rutgers University.
 * **August 2024**: Two new preprints were posted: [one](http://arxiv.org/abs/2408.09223) presenting a theoretical model of a physical reservoir computer and the [other](http://arxiv.org/abs/2408.07755) presenting a new method for efficiently and accurately simulating diffusion processes with a high degree of stochasticity.
 * **August 2024**: I [started](https://as.virginia.edu/new-faculty-2024) as an [Assistant Professor of Biology](https://bio.as.virginia.edu/people/nicholas-landry) at the University of Virginia!
 * **July 2024**: I moved from Burlington, VT to Charlottesville, VA!
