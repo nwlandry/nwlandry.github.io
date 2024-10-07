@@ -33,6 +33,9 @@ landry_reconstructing_2024:
     - Laurent Hébert-Dufresne
     - Jean-Gabriel Young
   year: 2024
+  venue: Physical Review E
+  published_url: https://doi.org/10.1103/PhysRevE.110.L042301
+  pdf: /assets/docs/publications/2024_PhysRevE_reconstructing.pdf
   preprint: https://doi.org/10.48550/arXiv.2405.00129
   code: https://github.com/nwlandry/complex-network-reconstruction
 
@@ -44,11 +47,11 @@ landry_simpliciality_2024:
     - Jean-Gabriel Young
     - Nicole Eikmeier
   year: 2024
+  venue: EPJ Data Science
+  published_url: https://doi.org/10.1140/epjds/s13688-024-00458-1
   pdf: /assets/docs/publications/2024_EPJDataSci_simpliciality.pdf
   preprint: https://doi.org/10.48550/arXiv.2308.13918
   code: https://github.com/nwlandry/the-simpliciality-of-higher-order-networks
-  published_url: https://doi.org/10.1140/epjds/s13688-024-00458-1
-  venue: EPJ Data Science
 
 
 landry_filtering_2024:
@@ -59,12 +62,12 @@ landry_filtering_2024:
     - Mirah Shi
     - Sinan G. Aksoy
   year: 2024
+  venue: >
+   Journal of Physics: Complexity
+  published_url: https://doi.org/10.1088/2632-072X/ad253a
   pdf: /assets/docs/publications/2024_JPhysComp_filtering.pdf
   preprint: https://doi.org/10.48550/arXiv.2305.06910
   code: https://github.com/nwlandry/filtering-higher-order-datasets
-  published_url: https://doi.org/10.1088/2632-072X/ad253a
-  venue: >
-   Journal of Physics: Complexity
 
 landry_opinion_2023:
   title: "Opinion disparity in hypergraphs with community structure"
@@ -72,11 +75,11 @@ landry_opinion_2023:
     - me
     - Juan G. Restrepo
   year: 2023
+  venue: Physical Review E
+  published_url: https://doi.org/10.1103/PhysRevE.108.034311
   pdf: /assets/docs/publications/2023_PhysRevE_opinion.pdf
   preprint: https://doi.org/10.48550/arXiv.2302.13967
   code: https://github.com/nwlandry/opinion-disparity-in-hypergraphs
-  published_url: https://doi.org/10.1103/PhysRevE.108.034311
-  venue: Physical Review E
 
 landry_xgi_2023:
   title: "XGI: A Python package for higher-order interaction networks"
@@ -89,10 +92,10 @@ landry_xgi_2023:
     - Alice Patania
     - Leo Torres
   year: 2023
+  venue: Journal of Open Source Software
+  published_url: https://doi.org/10.21105/joss.05162
   pdf: /assets/docs/publications/2023_JOSS_XGI.pdf
   code: https://github.com/xgi-org/xgi
-  published_url: https://doi.org/10.21105/joss.05162
-  venue: Journal of Open Source Software
 
 landry_limitations_2023:
   title: "On limitations of uniplex networks for modeling multiplex contagion"
@@ -100,11 +103,11 @@ landry_limitations_2023:
     - me
     - jimi adams
   year: 2023
+  venue: PLoS ONE
+  published_url: https://doi.org/10.1371/journal.pone.0279345
   pdf: /assets/docs/publications/2023_PLoSONE_limitations.pdf
   preprint: https://doi.org/10.48550/arXiv.2204.12348
   code: https://github.com/nwlandry/multiplex-contagion
-  published_url: https://doi.org/10.1371/journal.pone.0279345
-  venue: PLoS ONE
 
 landry_hypergraph_2022:
   title: "Hypergraph assortativity: a dynamical systems perspective"
@@ -112,22 +115,22 @@ landry_hypergraph_2022:
     - me
     - Juan G. Restrepo
   year: 2022
+  venue: Chaos
+  published_url: https://doi.org/10.1063/5.0086905
   pdf: /assets/docs/publications/2022_Chaos_hypergraph.pdf
   preprint: https://doi.org/10.48550/arXiv.2109.01099
   code: https://github.com/nwlandry/hypergraph-assortativity
-  published_url: https://doi.org/10.1063/5.0086905
-  venue: Chaos
 
 landry_effect_2021:
   title: "Effect of time-dependent infectiousness on epidemic dynamics"
   authors:
     - me
   year: 2021
+  venue: Physical Review E
+  published_url: https://doi.org/10.1103/PhysRevE.104.064302
   pdf: /assets/docs/publications/2021_PhysRevE_effect.pdf
   preprint: https://doi.org/10.48550/arXiv.2106.10384
   code: https://github.com/nwlandry/time-dependent-infectiousness
-  published_url: https://doi.org/10.1103/PhysRevE.104.064302
-  venue: Physical Review E
 
 landry_effect_2020:
   title: "The effect of heterogeneity on hypergraph contagion models"
@@ -135,11 +138,11 @@ landry_effect_2020:
     - me
     - Juan G. Restrepo
   year: 2020
+  venue: Chaos
+  published_url: https://doi.org/10.1063/5.0020034
   pdf: /assets/docs/publications/2020_Chaos_effect.pdf
   preprint: https://doi.org/10.48550/arXiv.2006.15453
   code: https://github.com/nwlandry/SimplexSIS
-  published_url: https://doi.org/10.1063/5.0020034
-  venue: Chaos
 
 landry_delineation_2015:
   title: "Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms"
@@ -147,9 +150,9 @@ landry_delineation_2015:
     - me
     - Marko Knezevic
   year: 2015
-  pdf: /assets/docs/publications/2015_Materials_delineation.pdf
-  published_url: https://dx.doi.org/10.3390/ma8095303
   venue: Materials
+  published_url: https://dx.doi.org/10.3390/ma8095303
+  pdf: /assets/docs/publications/2015_Materials_delineation.pdf
 
 knezevic_procedures_2015:
   title: "Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics"
@@ -157,9 +160,9 @@ knezevic_procedures_2015:
     - Marko Knezevic
     - me
   year: 2015
-  pdf: /assets/docs/publications/2015_MechOfMat_procedures.pdf
-  published_url: https://doi.org/10.1016/j.mechmat.2015.04.014
   venue: Mechanics of Materials
+  published_url: https://doi.org/10.1016/j.mechmat.2015.04.014
+  pdf: /assets/docs/publications/2015_MechOfMat_procedures.pdf
 
 knezevic_towards_2014:
   title: "Towards Computationally Tractable Simulations of Metal Forming Processes With Evolving Microstructures"
@@ -168,9 +171,9 @@ knezevic_towards_2014:
     - Daniel J. Savage
     - me
   year: 2014
-  pdf: /assets/docs/publications/2014_MSEC_towards.pdf
-  published_url: https://doi.org/10.1115/MSEC2014-3984
   venue: Proceedings of the ASME
+  published_url: https://doi.org/10.1115/MSEC2014-3984
+  pdf: /assets/docs/publications/2014_MSEC_towards.pdf
 
 landry_contagion_2022:
   title: "Contagion on Complex Systems: Structure and Dynamics"
@@ -178,9 +181,9 @@ landry_contagion_2022:
   authors:
     - me
   year: 2022
-  pdf: /assets/docs/Dissertation_NWL.pdf
-  published_url: https://www.proquest.com/docview/2672014395
   venue: The University of Colorado at Boulder
+  published_url: https://www.proquest.com/docview/2672014395
+  pdf: /assets/docs/Dissertation_NWL.pdf
 
 landry_computationally_2014:
   title: "Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations"
@@ -188,6 +191,6 @@ landry_computationally_2014:
   authors:
     - me
   year: 2014
-  pdf: /assets/docs/Honors_Thesis_NWL.pdf
-  published_url: https://scholars.unh.edu/honors/370/
   venue: The University of New Hampshire
+  published_url: https://scholars.unh.edu/honors/370/
+  pdf: /assets/docs/Honors_Thesis_NWL.pdf
