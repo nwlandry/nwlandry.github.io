@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5e9d8bbac9ff0006a3ea365584c86083.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,9 +72,11 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Nicholas Landry">
 <meta property="og:description" content="">
+<meta property="og:image" content="https://nwlandry.com/assets/images/headshot.jpg">
 <meta property="og:site_name" content="Nicholas Landry">
 <meta name="twitter:title" content="Nicholas Landry">
 <meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://nwlandry.com/assets/images/headshot.jpg">
 <meta name="twitter:creator" content="@nwlandry">
 <meta name="twitter:site" content="@nwlandry">
 <meta name="twitter:card" content="summary_large_image">
@@ -160,7 +162,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="./assets/images/headshot.jpg" width="30%" hspace="20" align="right"> I’m a new <a href="https://bio.as.virginia.edu/people/nicholas-landry">Assistant Professor of Biology</a> at the University of Virginia. I’m starting an <a href="https://landry-lab.github.io/">interdisciplinary lab</a> focused on understanding how networks and groups (higher-order interactions) affect the spread of diseases, information, and opinions. I’ll be answering these types of questions using tools from network science, mathematical modeling, Bayesian inference, and open-source software. I’m hoping to build bridges between the Biology department, the Biocomplexity Institute, the Quantitative Collaborative, and the School of Data Science, among others.</p>
-<p><strong>I’m hiring a postdoc! Apply at <a href="https://jobs.virginia.edu/us/en/job/R0064538/Research-Associate-in-Biology">UVA Jobs</a>!</strong></p>
 <p>My <a href="./portfolio/">portfolio</a> is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my <a href="./pages/about.html">bio</a>, <a href="./assets/docs/CV.pdf">CV</a>, or list of <a href="./pages/publications.html">publications</a>. You can also take a look at my <a href="./blog/">blog</a>.</p>
 <div class="column-page-inset text-center">
 <a class="btn btn-outline-dark" ,="" href="mailto:nicholas.landry@virginia.edu" target="_blank" rel="noopener noreferrer">
@@ -304,8 +305,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -400,7 +399,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
