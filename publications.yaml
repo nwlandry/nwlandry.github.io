@@ -1,3 +1,19 @@
+hebert-dufresne_governance_2024:
+  title: "Governance as a complex, networked, democratic, satisfiability problem"
+  authors:
+    - Laurent Hébert-Dufresne
+    - me
+    - Juniper Lovato
+    - Jonathan St-Onge
+    - Jean-Gabriel Young
+    - Marie-Ève Couture-Ménard
+    - Stéphane Bernatchez
+    - Catherine Choquette
+    - Alan A. Cohen
+  year: 2024
+  preprint: https://arxiv.org/abs/2412.03421
+  code: https://github.com/nwlandry/governance
+
 landry_theoretical_2024:
   title: "A theoretical framework for reservoir computing on networks of organic electrochemical transistors"
   authors:

@@ -42,7 +42,8 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 ## Recent News
 
 * **May 2025**: I will be teaching ["A Practical Guide to Modeling with Higher-order Networks"](https://www.siam.org/conferences-events/siam-conferences/ds25/program/minitutorials/) with [Laurent Hébert-Dufresne](https://laurenthebertdufresne.github.io/) as a minitutorial at the [SIAM Conference on Applications of Dynamical Systems (DS25)](https://www.siam.org/conferences-events/siam-conferences/ds25/) in Denver, CO!
-* **November 2024**: I will be giving a talk in the Statistics Department at Grinnell College.
+* **December 2024**: New [preprint](https://arxiv.org/abs/2412.03421) on the structure of effective governance is now posted!
+* **November 2024**: I gave a talk in the Statistics Department at Grinnell College.
 * **October 2024**: I chatted with the [Quantum Photonics Club](https://www.facebook.com/qpclub1) on Clubhouse about my work on "Reconstructing networks from simple and complex contagions". Listen to it [here](https://www.youtube.com/watch?v=2NLksRqe2Kw).
 * **October 2024**: I gave a talk at the "Spreading on social networks – theory and applications" workshop at Rutgers University. Here are photos of [my talk](assets/images/dimacs_talk.jpeg) and the [group photo](assets/images/dimacs_group_photo.jpeg).
 * **October 2024**: "Reconstructing networks from simple and complex contagions" has been published as a letter in [Physical Review E](https://doi.org/10.1103/PhysRevE.110.L042301)!
