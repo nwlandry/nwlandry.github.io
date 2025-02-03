@@ -1,7 +1,8 @@
 ---
 title: "Older news"
 ---
-
+* **December 2023**: I attended the [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/cnww/) (CNWW, pronounced "canoe") in Quebec City, QC!
+* **November 2023**: XGI-DATA is relaunched on [Zenodo](https://zenodo.org/communities/xgi) with twice as many datasets and now has a corresponding [table of network statistics](https://xgi.readthedocs.io/en/stable/xgi-data.html)!
 * **October 2023**: I co-hosted [Yu Tian](https://ytian.netlify.app/) at UVM and had the opportunity to chat science!
 * **September 2023**: My work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo) titled ["Opinion disparity in hypergraphs with community structure"](/assets/docs/publications/2023_PhysRevE_opinion.pdf) is now out in [Physical Review E](https://doi.org/10.1103/PhysRevE.108.034311)!
 * **September 2023**: I gave a talk on "Limitations and opportunities from simple higher-order structural and contagion models" at the [Vermont-KIAS Workshop](https://vermontcomplexsystems.org/events/vermont-kias/) in Burlington, VT.
