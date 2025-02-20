@@ -37,5 +37,6 @@ This is a list of network science books curated by some fine folks on Twitter. N
 * [*Gathering Social Network Data*](https://us.sagepub.com/en-us/nam/gathering-social-network-data/book260973) by adams
 
 Here are some additional resources that should be mentioned:
+
 * Heather Zinn Brooks and Phil Chodrow's [network science notes](https://network-science-notes.github.io/).
 * Katherine Ognyanova [network science tutorials](https://kateto.net/tutorials/)
