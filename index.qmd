@@ -16,8 +16,8 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 <a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=7xLeZqMAAAAJ" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i> Scholar
 </a>
-<a class="btn btn-outline-dark", href="https://twitter.com/nwlandry" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i> Twitter
+<a class="btn btn-outline-dark", href="https://bsky.app/profile/nwlandry.bsky.social" target="_blank" rel="noopener noreferrer">
+    <i class="fa-brands fa-bluesky" role='img' aria-label='Bluesky'></i> Bluesky
 </a>
 <a class="btn btn-outline-dark", href="https://github.com/nwlandry" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-github" role='img' aria-label='Github'></i> Github
@@ -62,6 +62,5 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **April 2024**: I gave a [talk](https://www.youtube.com/watch?v=aK0mFG6WOb4&list=PLBwjIeu8oJrbEhY0zbJq3PKFdcNlj7JKj) at the Interaction Data Lab at LPI Paris on the limitations of models and measures for capturing higher-order structure.
 * **March 2024**: Joint work with [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) and [Jean-Gabriel Young](https://www.jgyoung.ca/) titled ["The simpliciality of higher-order networks"](/assets/docs/publications/2024_EPJDataSci_simpliciality.pdf) was published in [EPJ Data Science](https://doi.org/10.1140/epjds/s13688-024-00458-1)!
 * **March 2024**: I taught a [GNSP topic course](https://march.aps.org/events/higher-order-network-science) on networks with higher-order interactions at the APS March Meeting, along with Ginestra Bianconi and Baruch Barzel. The materials are located on [Github](https://github.com/nwlandry/software-demos/tree/main/marchmeeting2024).
-* **February 2024**: Joint work with [Ilya Amburg](https://sites.google.com/site/ilyaamburg1/home), [Mirah Shi](https://www.seas.upenn.edu/~mirahshi/), and [Sinan Aksoy](https://sinanaksoy.com/) titled ["Filtering higher-order datasets"](/assets/docs/publications/2024_JPhysComp_filtering.pdf) was published in the [Journal of Physics: Complexity](https://doi.org/10.1088/2632-072X/ad253a)!
 
 [Older news](news.qmd)

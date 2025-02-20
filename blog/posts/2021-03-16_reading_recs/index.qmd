@@ -3,7 +3,7 @@ title:  "Network Science Reading Recs"
 date: 2021-03-16
 ---
 
-This is a list of network science books curated by some fine folks on [Twitter](https://twitter.com/nwlandry/status/1343676490366390272). Note that some of these aren't quite network science related but interesting nonetheless! This isn't an exhaustive list so feel free to email me any other suggestions to add!
+This is a list of network science books curated by some fine folks on Twitter. Note that some of these aren't quite network science related but interesting nonetheless! This isn't an exhaustive list so feel free to email me any other suggestions to add!
 
 * [*Networks, Crowds, and Markets*](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Kleinberg and Easley
 * [*Understanding Social Networks: Theories, Concepts, and Findings*](https://global.oup.com/academic/product/understanding-social-networks-9780195379471?cc=us&lang=en&) by Kadushin
@@ -35,3 +35,6 @@ This is a list of network science books curated by some fine folks on [Twitter](
 * [*Six Degrees: The Science of a Connected Age*](https://www.amazon.com/Six-Degrees-Science-Connected-Age/dp/0393325423) by Watts
 * [*Small Worlds: The Dynamics of Networks between Order and Randomness*](https://press.princeton.edu/books/paperback/9780691117041/small-worlds) by Watts
 * [*Gathering Social Network Data*](https://us.sagepub.com/en-us/nam/gathering-social-network-data/book260973) by adams
+
+Here are some additional resources that should be mentioned:
+* Heather Zinn Brooks and Phil Chodrow's [network science notes](https://network-science-notes.github.io/).
