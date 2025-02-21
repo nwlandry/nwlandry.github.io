@@ -39,4 +39,4 @@ This is a list of network science books curated by some fine folks on Twitter. N
 Here are some additional resources that should be mentioned:
 
 * Heather Zinn Brooks and Phil Chodrow's [network science notes](https://network-science-notes.github.io/).
-* Katherine Ognyanova [network science tutorials](https://kateto.net/tutorials/)
+* Katherine Ognyanova's [network science tutorials](https://kateto.net/tutorials/).
