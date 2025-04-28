@@ -42,9 +42,10 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 ## Recent News
 
 * **May 2025**: I will be teaching ["A Practical Guide to Modeling with Higher-order Networks"](https://www.siam.org/conferences-events/siam-conferences/ds25/program/minitutorials/) with [Laurent Hébert-Dufresne](https://laurenthebertdufresne.github.io/) as a minitutorial at the [SIAM Conference on Applications of Dynamical Systems (DS25)](https://www.siam.org/conferences-events/siam-conferences/ds25/) in Denver, CO! I will also be giving a talk on "Opinion disparity in hypergraphs with community structure: theory and practice".
-* **March 2025**: I will be at the APS Global Physics Summit in Anaheim, CA presenting our paper "Governance as a complex, networked, democratic, satisfiability problem".
-* **March 2025**: I will be giving a talk at the Bryn Mawr [Bi-Co Math Colloquium](https://www.brynmawr.edu/inside/academic-information/departments-programs/mathematics/seminars-colloquia-conferences/bi-co-math-colloquium).
-* **February 2025**: I will be giving the UVA Statistics Colloquium talk about network reconstruction from data.
+* **April 2025**: I was an invited panelist at the [Social Contagions, Artificial Intelligence, and Democracy Workshop](https://contagion-science.virginia.edu/social-contagions-artificial-intelligence-and-democracy-workshop) at UVA.
+* **March 2025**: I presented our paper "Governance as a complex, networked, democratic, satisfiability problem" at the APS Global Physics Summit in Anaheim, CA.
+* **March 2025**: I gave a talk at the Bryn Mawr [Bi-Co Math Colloquium](https://www.brynmawr.edu/inside/academic-information/departments-programs/mathematics/seminars-colloquia-conferences/bi-co-math-colloquium).
+* **February 2025**: I gave the UVA Statistics Colloquium talk about network reconstruction from data.
 * **January 2024**: I became a [courtesy faculty member](https://datascience.virginia.edu/people/nicholas-landry) in the School of Data Science! This will foster many exciting cross-school collaborations.
 * **December 2024**: New [preprint](https://arxiv.org/abs/2412.03421) on the structure of effective governance is now posted!
 * **November 2024**: I gave a talk in the Statistics Department at Grinnell College.
@@ -56,11 +57,5 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **July 2024**: I moved from Burlington, VT to Charlottesville, VA!
 * **June 2024**: I was at [NetSci](https://netsci2024.com) in Quebec City and talked about my [recent work](https://arxiv.org/abs/2405.00129) on network reconstruction and about [XGI](https://xgi.readthedocs.io) at the Software Tools for Network Science [satellite](https://netsci.nascol.net/). My talk on network reconstruction won the [Zachary's Karate Club Trophy](https://networkkarate.tumblr.com/). Here are photos of [my talk](assets/images/zkc_presentation.jpeg) referencing the ZKC network and of the [trophy presentation](assets/images/zkc_award.jpg).
 * **May 2024**: Yifei (Bell) Luo, an undergraduate at Middlebury College, co-mentored by [Phil Chodrow](https://www.philchodrow.prof/) and me, presented his undergraduate thesis titled "Efficient sampling of configuration model random hypergraphs"! Very proud of him!
-* **April 2024**: I accepted an offer as an Assistant Professor in the [Department of Biology](https://bio.as.virginia.edu/) at the [University of Virginia](https://www.virginia.edu/), as an interdisciplinary hire through the [Contagion Science program](https://contagion-science.virginia.edu/)! I will start in August 2024 and will be looking for a postdoc and several PhD students, so stay tuned!
-* **April 2024**: Joint work with [Will Thompson](https://www.willhwthompson.com/), [Laurent Hébert-Dufresne](https://laurenthebertdufresne.github.io/), and [Jean-Gabriel Young](https://www.jgyoung.ca/) titled "Reconstructing networks from simple and complex contagions" is now on [ArXiv](https://arxiv.org/abs/2405.00129)!
-* **April 2024**: I was an invited speaker at the [WINQ Program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/) workshop in Stockholm, Sweden!
-* **April 2024**: I gave a [talk](https://www.youtube.com/watch?v=aK0mFG6WOb4&list=PLBwjIeu8oJrbEhY0zbJq3PKFdcNlj7JKj) at the Interaction Data Lab at LPI Paris on the limitations of models and measures for capturing higher-order structure.
-* **March 2024**: Joint work with [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) and [Jean-Gabriel Young](https://www.jgyoung.ca/) titled ["The simpliciality of higher-order networks"](/assets/docs/publications/2024_EPJDataSci_simpliciality.pdf) was published in [EPJ Data Science](https://doi.org/10.1140/epjds/s13688-024-00458-1)!
-* **March 2024**: I taught a [GNSP topic course](https://march.aps.org/events/higher-order-network-science) on networks with higher-order interactions at the APS March Meeting, along with Ginestra Bianconi and Baruch Barzel. The materials are located on [Github](https://github.com/nwlandry/software-demos/tree/main/marchmeeting2024).
 
 [Older news](news.qmd)
