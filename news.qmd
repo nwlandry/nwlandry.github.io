@@ -2,6 +2,7 @@
 title: "Older news"
 ---
 
+* **May 2024**: Yifei (Bell) Luo, an undergraduate at Middlebury College, co-mentored by [Phil Chodrow](https://www.philchodrow.prof/) and me, presented his undergraduate thesis titled "Efficient sampling of configuration model random hypergraphs"! Very proud of him!
 * **April 2024**: I accepted an offer as an Assistant Professor in the [Department of Biology](https://bio.as.virginia.edu/) at the [University of Virginia](https://www.virginia.edu/), as an interdisciplinary hire through the [Contagion Science program](https://contagion-science.virginia.edu/)! I will start in August 2024 and will be looking for a postdoc and several PhD students, so stay tuned!
 * **April 2024**: Joint work with [Will Thompson](https://www.willhwthompson.com/), [Laurent Hébert-Dufresne](https://laurenthebertdufresne.github.io/), and [Jean-Gabriel Young](https://www.jgyoung.ca/) titled "Reconstructing networks from simple and complex contagions" is now on [ArXiv](https://arxiv.org/abs/2405.00129)!
 * **April 2024**: I was an invited speaker at the [WINQ Program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/) workshop in Stockholm, Sweden!
