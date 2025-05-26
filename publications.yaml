@@ -1,3 +1,15 @@
+smith_blue_2025:
+  title: "A Blue Start: A large-scale pairwise and higher-order social network dataset"
+  authors:
+    - Alyssa Smith
+    - Ilya Amburg
+    - Sagar Kumar
+    - Brooke Foucault Welles
+    - me
+  year: 2025
+  preprint: https://arxiv.org/abs/2505.11608
+  code: https://github.com/nwlandry/a-blue-start
+
 hebert-dufresne_governance_2025:
   title: "Governance as a complex, networked, democratic, satisfiability problem"
   authors:
