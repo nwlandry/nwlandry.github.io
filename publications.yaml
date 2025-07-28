@@ -1,3 +1,14 @@
+landry_correction_2025:
+  title: "The simpliciality of higher-order networks"
+  authors:
+    - me
+    - Jean-Gabriel Young
+    - Nicole Eikmeier
+  year: 2024
+  venue: EPJ Data Science
+  published_url: https://doi.org/10.1140/epjds/s13688-025-00557-7
+  pdf: /assets/docs/publications/2025_EPJDataSci_correction.pdf
+
 coll_hif_2025:
   title: "HIF: The hypergraph interchange format for higher-order networks"
   authors:

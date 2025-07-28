@@ -2,6 +2,7 @@
 title: "Older news"
 ---
 
+* **July 2024**: I moved from Burlington, VT to Charlottesville, VA!
 * **June 2024**: I was at [NetSci](https://netsci2024.com) in Quebec City and talked about my [recent work](https://arxiv.org/abs/2405.00129) on network reconstruction and about [XGI](https://xgi.readthedocs.io) at the Software Tools for Network Science [satellite](https://netsci.nascol.net/). My talk on network reconstruction won the [Zachary's Karate Club Trophy](https://networkkarate.tumblr.com/). Here are photos of [my talk](assets/images/zkc_presentation.jpeg) referencing the ZKC network and of the [trophy presentation](assets/images/zkc_award.jpg).
 * **May 2024**: Yifei (Bell) Luo, an undergraduate at Middlebury College, co-mentored by [Phil Chodrow](https://www.philchodrow.prof/) and me, presented his undergraduate thesis titled "Efficient sampling of configuration model random hypergraphs"! Very proud of him!
 * **April 2024**: I accepted an offer as an Assistant Professor in the [Department of Biology](https://bio.as.virginia.edu/) at the [University of Virginia](https://www.virginia.edu/), as an interdisciplinary hire through the [Contagion Science program](https://contagion-science.virginia.edu/)! I will start in August 2024 and will be looking for a postdoc and several PhD students, so stay tuned!
