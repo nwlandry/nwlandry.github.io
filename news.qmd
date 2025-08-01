@@ -2,6 +2,8 @@
 title: "Older news"
 ---
 
+* **August 2024**: Two new preprints were posted: [one](http://arxiv.org/abs/2408.09223) presenting a theoretical model of a physical reservoir computer and the [other](http://arxiv.org/abs/2408.07755) presenting a new method for efficiently and accurately simulating diffusion processes with a high degree of stochasticity.
+* **August 2024**: I [started](https://as.virginia.edu/new-faculty-2024) as an [Assistant Professor of Biology](https://bio.as.virginia.edu/people/nicholas-landry) at the University of Virginia!
 * **July 2024**: I moved from Burlington, VT to Charlottesville, VA!
 * **June 2024**: I was at [NetSci](https://netsci2024.com) in Quebec City and talked about my [recent work](https://arxiv.org/abs/2405.00129) on network reconstruction and about [XGI](https://xgi.readthedocs.io) at the Software Tools for Network Science [satellite](https://netsci.nascol.net/). My talk on network reconstruction won the [Zachary's Karate Club Trophy](https://networkkarate.tumblr.com/). Here are photos of [my talk](assets/images/zkc_presentation.jpeg) referencing the ZKC network and of the [trophy presentation](assets/images/zkc_award.jpg).
 * **May 2024**: Yifei (Bell) Luo, an undergraduate at Middlebury College, co-mentored by [Phil Chodrow](https://www.philchodrow.prof/) and me, presented his undergraduate thesis titled "Efficient sampling of configuration model random hypergraphs"! Very proud of him!
