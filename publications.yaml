@@ -1,3 +1,21 @@
+hebert-dufresne_stochastic_2024:
+  title: "Stochastic diffusion with approximate master equations with mean-field limits"
+  authors:
+    - Laurent Hébert-Dufresne
+    - Matthew M. Kling
+    - Samuel F. Rosenblatt
+    - Stephanie N. Miller
+    - P. Alexander Burnham
+    - me
+    - Nicholas J. Gotelli
+    - Brian J. McGill
+  year: 2024
+  venue: Royal Society Open Science
+  published_url: https://doi.org/10.1098/rsos.250726
+  pdf: /assets/docs/publications/2025_RSOS_stochastic.pdf
+  preprint: http://arxiv.org/abs/2408.07755
+  code: https://github.com/nwlandry/mean-FLAME
+
 landry_correction_2025:
   title: "Correction to: The simpliciality of higher-order networks"
   authors:
@@ -55,7 +73,6 @@ hebert-dufresne_governance_2025:
   preprint: https://arxiv.org/abs/2412.03421
   code: https://github.com/nwlandry/governance
 
-
 landry_theoretical_2024:
   title: "A theoretical framework for reservoir computing on networks of organic electrochemical transistors"
   authors:
@@ -67,21 +84,6 @@ landry_theoretical_2024:
   year: 2024
   preprint: http://arxiv.org/abs/2408.09223
   code: https://github.com/Signed-B/reservoir-computing-on-OECTs
-
-hebert-dufresne_stochastic_2024:
-  title: "Stochastic diffusion with approximate master equations with mean-field limits"
-  authors:
-    - Laurent Hébert-Dufresne
-    - Matthew M. Kling
-    - Samuel F. Rosenblatt
-    - Stephanie N. Miller
-    - P. Alexander Burnham
-    - me
-    - Nicholas J. Gotelli
-    - Brian J. McGill
-  year: 2024
-  preprint: http://arxiv.org/abs/2408.07755
-  code: https://github.com/nwlandry/mean-FLAME
 
 landry_reconstructing_2024:
   title: "Reconstructing networks from simple and complex contagions"
