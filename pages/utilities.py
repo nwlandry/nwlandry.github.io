@@ -24,7 +24,7 @@ def load_publication_data(path):
         title_str = data["title"]
         authors = data.get("authors", ["me"])
         authors = [
-            a if a != "me" else "<strong>Nicholas W. Landry</strong>" for a in authors
+            a if a != "NWL" else "<strong>Nicholas W. Landry</strong>" for a in authors
         ]
         author_str = readable_list(authors)
         year_str = data["year"]

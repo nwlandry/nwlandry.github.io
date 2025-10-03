@@ -7,3 +7,4 @@ _freeze
 __pycache__
 *.md
 site_libs
+.vscode

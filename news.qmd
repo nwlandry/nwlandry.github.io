@@ -2,6 +2,9 @@
 title: "Older news"
 ---
 
+* **October 2024**: I chatted with the [Quantum Photonics Club](https://www.facebook.com/qpclub1) on Clubhouse about my work on "Reconstructing networks from simple and complex contagions". Listen to it [here](https://www.youtube.com/watch?v=2NLksRqe2Kw).
+* **October 2024**: I gave a talk at the "Spreading on social networks – theory and applications" workshop at Rutgers University. Here are photos of [my talk](assets/images/dimacs_talk.jpeg) and the [group photo](assets/images/dimacs_group_photo.jpeg).
+* **October 2024**: "Reconstructing networks from simple and complex contagions" has been published as a letter in [Physical Review E](https://doi.org/10.1103/PhysRevE.110.L042301)!
 * **August 2024**: Two new preprints were posted: [one](http://arxiv.org/abs/2408.09223) presenting a theoretical model of a physical reservoir computer and the [other](http://arxiv.org/abs/2408.07755) presenting a new method for efficiently and accurately simulating diffusion processes with a high degree of stochasticity.
 * **August 2024**: I [started](https://as.virginia.edu/new-faculty-2024) as an [Assistant Professor of Biology](https://bio.as.virginia.edu/people/nicholas-landry) at the University of Virginia!
 * **July 2024**: I moved from Burlington, VT to Charlottesville, VA!

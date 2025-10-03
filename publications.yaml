@@ -6,7 +6,7 @@ hebert-dufresne_stochastic_2025:
     - Samuel F. Rosenblatt
     - Stephanie N. Miller
     - P. Alexander Burnham
-    - me
+    - NWL
     - Nicholas J. Gotelli
     - Brian J. McGill
   year: 2025
@@ -19,7 +19,7 @@ hebert-dufresne_stochastic_2025:
 landry_correction_2025:
   title: "Correction to: The simpliciality of higher-order networks"
   authors:
-    - me
+    - NWL
     - Jean-Gabriel Young
     - Nicole Eikmeier
   year: 2025
@@ -32,7 +32,7 @@ coll_hif_2025:
   authors:
     - Martín Coll
     - Cliff A. Joslyn
-    - me
+    - NWL
     - Quintino Francesco Lotito
     - Audun Myers
     - Joshua Pickard
@@ -49,7 +49,7 @@ smith_blue_2025:
     - Ilya Amburg
     - Sagar Kumar
     - Brooke Foucault Welles
-    - me
+    - NWL
   year: 2025
   preprint: https://arxiv.org/abs/2505.11608
   code: https://github.com/nwlandry/a-blue-start
@@ -58,7 +58,7 @@ hebert-dufresne_governance_2025:
   title: "Governance as a complex, networked, democratic, satisfiability problem"
   authors:
     - Laurent Hébert-Dufresne
-    - me
+    - NWL
     - Juniper Lovato
     - Jonathan St-Onge
     - Jean-Gabriel Young
@@ -76,7 +76,7 @@ hebert-dufresne_governance_2025:
 landry_theoretical_2024:
   title: "A theoretical framework for reservoir computing on networks of organic electrochemical transistors"
   authors:
-    - me
+    - NWL
     - Beckett R. Hyde
     - Jake C. Perez
     - Sean E. Shaheen
@@ -88,7 +88,7 @@ landry_theoretical_2024:
 landry_reconstructing_2024:
   title: "Reconstructing networks from simple and complex contagions"
   authors:
-    - me
+    - NWL
     - Will Thompson
     - Laurent Hébert-Dufresne
     - Jean-Gabriel Young
@@ -103,7 +103,7 @@ landry_reconstructing_2024:
 landry_simpliciality_2024:
   title: "The simpliciality of higher-order networks"
   authors:
-    - me
+    - NWL
     - Jean-Gabriel Young
     - Nicole Eikmeier
   year: 2024
@@ -117,7 +117,7 @@ landry_simpliciality_2024:
 landry_filtering_2024:
   title: "Filtering higher-order datasets"
   authors:
-    - me
+    - NWL
     - Ilya Amburg
     - Mirah Shi
     - Sinan G. Aksoy
@@ -132,7 +132,7 @@ landry_filtering_2024:
 landry_opinion_2023:
   title: "Opinion disparity in hypergraphs with community structure"
   authors:
-    - me
+    - NWL
     - Juan G. Restrepo
   year: 2023
   venue: Physical Review E
@@ -144,7 +144,7 @@ landry_opinion_2023:
 landry_xgi_2023:
   title: "XGI: A Python package for higher-order interaction networks"
   authors:
-    - me
+    - NWL
     - Maxime Lucas
     - Iacopo Iacopini
     - Giovanni Petri
@@ -160,7 +160,7 @@ landry_xgi_2023:
 landry_limitations_2023:
   title: "On limitations of uniplex networks for modeling multiplex contagion"
   authors:
-    - me
+    - NWL
     - jimi adams
   year: 2023
   venue: PLoS ONE
@@ -172,7 +172,7 @@ landry_limitations_2023:
 landry_hypergraph_2022:
   title: "Hypergraph assortativity: a dynamical systems perspective"
   authors:
-    - me
+    - NWL
     - Juan G. Restrepo
   year: 2022
   venue: Chaos
@@ -184,7 +184,7 @@ landry_hypergraph_2022:
 landry_effect_2021:
   title: "Effect of time-dependent infectiousness on epidemic dynamics"
   authors:
-    - me
+    - NWL
   year: 2021
   venue: Physical Review E
   published_url: https://doi.org/10.1103/PhysRevE.104.064302
@@ -195,7 +195,7 @@ landry_effect_2021:
 landry_effect_2020:
   title: "The effect of heterogeneity on hypergraph contagion models"
   authors:
-    - me
+    - NWL
     - Juan G. Restrepo
   year: 2020
   venue: Chaos
@@ -207,7 +207,7 @@ landry_effect_2020:
 landry_delineation_2015:
   title: "Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms"
   authors:
-    - me
+    - NWL
     - Marko Knezevic
   year: 2015
   venue: Materials
@@ -218,7 +218,7 @@ knezevic_procedures_2015:
   title: "Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics"
   authors:
     - Marko Knezevic
-    - me
+    - NWL
   year: 2015
   venue: Mechanics of Materials
   published_url: https://doi.org/10.1016/j.mechmat.2015.04.014
@@ -229,7 +229,7 @@ knezevic_towards_2014:
   authors:
     - Marko Knezevic
     - Daniel J. Savage
-    - me
+    - NWL
   year: 2014
   venue: Proceedings of the ASME
   published_url: https://doi.org/10.1115/MSEC2014-3984
@@ -239,7 +239,7 @@ landry_contagion_2022:
   title: "Contagion on Complex Systems: Structure and Dynamics"
   thesis: PhD
   authors:
-    - me
+    - NWL
   year: 2022
   venue: The University of Colorado at Boulder
   published_url: https://www.proquest.com/docview/2672014395
@@ -249,7 +249,7 @@ landry_computationally_2014:
   title: "Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations"
   thesis: Honors
   authors:
-    - me
+    - NWL
   year: 2014
   venue: The University of New Hampshire
   published_url: https://scholars.unh.edu/honors/370/
