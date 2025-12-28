@@ -41,6 +41,8 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
+* **December 2025**: New article published! [HIF: The hypergraph interchange format for higher-order networks](https://doi.org/10.1017/nws.2025.10018) out in Network Science!
+* **November 2025**: I gave a talk titled "A Practical Guide to Higher-Order Networks" at [Datapalooza](https://datascience.virginia.edu/pages/datapalooza)
 * **October 2025**: Laurent Hébert-Dufresne and I wrote a news article for SIAM News on doing group science with XGI. Read it [here](https://www.siam.org/publications/siam-news/articles/group-science-the-open-source-study-of-higher-order-networks-with-xgi/)!
 * **September 2025**: New article published! [Stochastic diffusion with approximate master equations with mean-field limits](https://doi.org/10.1098/rsos.250726) out in Royal Society Open Science!
 * **July 2025**: [Correction](https://doi.org/10.1140/epjds/s13688-025-00557-7) to [The simpliciality of higher-order networks](https://doi.org/10.1140/epjds/s13688-024-00458-1) posted! TL;DR: Small denominator issue kindly pointed out by François Théberge which was corrected for notational consistency, but doesn't change the conclusions of the article.
@@ -55,7 +57,5 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **March 2025**: I gave a talk at the Bryn Mawr [Bi-Co Math Colloquium](https://www.brynmawr.edu/inside/academic-information/departments-programs/mathematics/seminars-colloquia-conferences/bi-co-math-colloquium).
 * **February 2025**: I gave the UVA Statistics Colloquium talk about network reconstruction from data.
 * **January 2024**: I became a [courtesy faculty member](https://datascience.virginia.edu/people/nicholas-landry) in the School of Data Science! This will foster many exciting cross-school collaborations.
-* **December 2024**: New [preprint](https://arxiv.org/abs/2412.03421) on the structure of effective governance is now posted!
-* **November 2024**: I gave a talk in the Statistics Department at Grinnell College.
 
 [Older news](news.qmd)

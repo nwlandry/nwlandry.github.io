@@ -1,3 +1,33 @@
+coll_hif_2025:
+  title: "HIF: The hypergraph interchange format for higher-order networks"
+  authors:
+    - Martín Coll
+    - Cliff A. Joslyn
+    - NWL
+    - Quintino Francesco Lotito
+    - Audun Myers
+    - Joshua Pickard
+    - Brenda Praggastis
+    - Przemysław Szufel
+  year: 2025
+  venue: Network Science
+  published_url: https://doi.org/10.1017/nws.2025.10018
+  pdf: /assets/docs/publications/2025_NetworkScience_HIF.pdf
+  preprint: https://arxiv.org/abs/2507.11520
+  code: https://github.com/pszufe/HIF-standard
+
+landry_group_2025:
+  title: "Group Science: The Open Source Study of Higher-order Networks With XGI"
+  authors:
+    - NWL
+    - Laurent Hébert-Dufresne
+  year: 2025
+  venue: SIAM News
+  published_url: https://www.siam.org/publications/siam-news/articles/group-science-the-open-source-study-of-higher-order-networks-with-xgi/
+  pdf: /assets/docs/publications/2025_SIAMNews_group.pdf
+  code: https://github.com/nwlandry/group-science-siam-news
+
+
 hebert-dufresne_stochastic_2025:
   title: "Stochastic diffusion with approximate master equations with mean-field limits"
   authors:
@@ -26,21 +56,6 @@ landry_correction_2025:
   venue: EPJ Data Science
   published_url: https://doi.org/10.1140/epjds/s13688-025-00557-7
   pdf: /assets/docs/publications/2025_EPJDataSci_correction.pdf
-
-coll_hif_2025:
-  title: "HIF: The hypergraph interchange format for higher-order networks"
-  authors:
-    - Martín Coll
-    - Cliff A. Joslyn
-    - NWL
-    - Quintino Francesco Lotito
-    - Audun Myers
-    - Joshua Pickard
-    - Brenda Praggastis
-    - Przemysław Szufel
-  year: 2025
-  preprint: https://arxiv.org/abs/2507.11520
-  code: https://github.com/pszufe/HIF-standard
 
 smith_blue_2025:
   title: "A Blue Start: A large-scale pairwise and higher-order social network dataset"
