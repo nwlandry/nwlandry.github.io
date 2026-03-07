@@ -1,3 +1,26 @@
+zajdela_2026:
+  title: "Reconstructing networks from simple and complex contagions"
+  authors:
+    - Emma Zajdela
+    - NWL
+  year: 2026
+  preprint: https://arxiv.org/abs/2603.02571
+  code: https://github.com/nwlandry/higher-order-team-formation
+
+smith_blue_2026:
+  title: "A Blue Start: A large-scale pairwise and higher-order social network dataset"
+  authors:
+    - Alyssa Smith
+    - Ilya Amburg
+    - Sagar Kumar
+    - Brooke Foucault Welles
+    - NWL
+  year: 2026
+  venue: Scientific Data
+  published_url: https://doi.org/10.1038/s41597-026-06920-1
+  preprint: https://arxiv.org/abs/2505.11608
+  code: https://github.com/nwlandry/a-blue-start
+
 coll_hif_2025:
   title: "HIF: The hypergraph interchange format for higher-order networks"
   authors:
@@ -56,18 +79,6 @@ landry_correction_2025:
   venue: EPJ Data Science
   published_url: https://doi.org/10.1140/epjds/s13688-025-00557-7
   pdf: /assets/docs/publications/2025_EPJDataSci_correction.pdf
-
-smith_blue_2025:
-  title: "A Blue Start: A large-scale pairwise and higher-order social network dataset"
-  authors:
-    - Alyssa Smith
-    - Ilya Amburg
-    - Sagar Kumar
-    - Brooke Foucault Welles
-    - NWL
-  year: 2025
-  preprint: https://arxiv.org/abs/2505.11608
-  code: https://github.com/nwlandry/a-blue-start
 
 hebert-dufresne_governance_2025:
   title: "Governance as a complex, networked, democratic, satisfiability problem"
