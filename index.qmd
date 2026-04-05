@@ -41,6 +41,8 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
+* **May 2026**: I will be giving a talk at the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) annual retreat.
+* **March 2026**: New preprint posted! [Higher-order interactions at scientific conferences influence team formation](https://arxiv.org/abs/2603.02571) in collaboration with [Emma Zajdela](https://sites.northwestern.edu/emmazajdela/).
 * **December 2025**: New article published! [HIF: The hypergraph interchange format for higher-order networks](https://doi.org/10.1017/nws.2025.10018) out in Network Science!
 * **November 2025**: I gave a talk titled "A Practical Guide to Higher-Order Networks" at [Datapalooza](https://datascience.virginia.edu/pages/datapalooza)
 * **October 2025**: Laurent Hébert-Dufresne and I wrote a news article for SIAM News on doing group science with XGI. Read it [here](https://www.siam.org/publications/siam-news/articles/group-science-the-open-source-study-of-higher-order-networks-with-xgi/)!
@@ -52,6 +54,5 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 * **May 2025**: New preprint on the arXiv! ["A Blue Start: A large-scale pairwise and higher-order social network dataset"](https://arxiv.org/abs/2505.11608) in collaboration with [Alyssa Smith](https://asmithh.github.io/), [Ilya Amburg](https://sites.google.com/site/ilyaamburg1/home), [Sagar Kumar](https://www.sagarkumar.net/), and [Brooke Foucault Welles](https://brooke-welles.squarespace.com/)!
 * **May 2025**: I taught ["A Practical Guide to Modeling with Higher-order Networks"](https://www.siam.org/conferences-events/siam-conferences/ds25/program/minitutorials/) with [Laurent Hébert-Dufresne](https://laurenthebertdufresne.github.io/) as a minitutorial at the [SIAM Conference on Applications of Dynamical Systems (DS25)](https://www.siam.org/conferences-events/siam-conferences/ds25/) in Denver, CO! I also gave a talk on "Opinion disparity in hypergraphs with community structure: theory and practice".
 * **May 2025**: "Governance as a complex, networked, democratic, satisfiability problem" is now published in [*npj Complexity*](https://doi.org/10.1038/s44260-025-00041-3)!
-* **April 2025**: I was an invited panelist at the [Social Contagions, Artificial Intelligence, and Democracy Workshop](https://contagion-science.virginia.edu/social-contagions-artificial-intelligence-and-democracy-workshop) at UVA.
 
 [Older news](news.qmd)
