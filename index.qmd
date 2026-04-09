@@ -42,6 +42,7 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 ## Recent News
 
 * **May 2026**: I will be giving a talk at the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) annual retreat.
+* **April 2026**: ["A Blue Start: A large-scale pairwise and higher-order social network dataset"](https://doi.org/10.1038/s41597-026-06920-1) is now published in Scientific Data!
 * **March 2026**: New preprint posted! [Higher-order interactions at scientific conferences influence team formation](https://arxiv.org/abs/2603.02571) in collaboration with [Emma Zajdela](https://sites.northwestern.edu/emmazajdela/).
 * **December 2025**: New article published! [HIF: The hypergraph interchange format for higher-order networks](https://doi.org/10.1017/nws.2025.10018) out in Network Science!
 * **November 2025**: I gave a talk titled "A Practical Guide to Higher-Order Networks" at [Datapalooza](https://datascience.virginia.edu/pages/datapalooza)

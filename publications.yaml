@@ -18,6 +18,7 @@ smith_blue_2026:
   year: 2026
   venue: Scientific Data
   published_url: https://doi.org/10.1038/s41597-026-06920-1
+  pdf: /assets/docs/publications/2026_ScientificData_blue.pdf
   preprint: https://arxiv.org/abs/2505.11608
   code: https://github.com/nwlandry/a-blue-start
 
