@@ -1,4 +1,26 @@
-zajdela_2026:
+larock_nestedness_2026:
+  title: "The nestedness of higher-order networks"
+  authors:
+    - Timothy LaRock
+    - Yanting Zhang
+    - Jean-Gabriel Young
+    - Nicole Eikmeier
+    - Renaud Lambiotte
+    - NWL
+  year: 2026
+  preprint: https://arxiv.org/abs/2605.18420
+  code: https://github.com/tlarock/hypergraph-nestedness
+
+gupta_interplay_2026:
+  title: "The interplay of network structure and correlated infectious traits in epidemic models"
+  authors:
+    - Abhay Gupta
+    - NWL
+  year: 2026
+  preprint: https://arxiv.org/abs/2605.12773
+  code: https://github.com/AbhayGupta115/HeterogenousCommunities
+
+zajdela_higher-order_2026:
   title: "Higher-order interactions at scientific conferences influence team formation"
   authors:
     - Emma Zajdela
