@@ -30,16 +30,16 @@ for year in sorted(pub_strs["pubs"], reverse=True):
 
 ```{python}
 
-if len(pub_strs["wps"]) == 0:
+if len(pub_strs["preprints"]) == 0:
     display(HTML(
         "Currently no unpublished work."
     ))
 #| label: "preprint"
 #| id: "preprint"
 #| output: asis
-for year in sorted(pub_strs["wps"], reverse=True):
+for year in sorted(pub_strs["preprints"], reverse=True):
     display(HTML(
-        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["wps"][year]) + "</ul>"
+        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["preprints"][year]) + "</ul>"
     ))
 ```
 

@@ -19,7 +19,7 @@ def button(url, str, icon):
 
 def load_publication_data(path):
     yaml_data = yaml.safe_load(open(path))
-    pub_strs = {"pubs": {}, "wps": {}, "theses": {}}
+    pub_strs = {"pubs": {}, "preprints": {}, "theses": {}}
     for _, data in yaml_data.items():
         title_str = data["title"]
         authors = data.get("authors", ["me"])
@@ -57,9 +57,9 @@ def load_publication_data(path):
         pub_str += f" ({year_str})."
 
         if venue is None:
-            if year_str not in pub_strs["wps"]:
-                pub_strs["wps"][year_str] = []
-            pub_strs["wps"][year_str].append(
+            if year_str not in pub_strs["preprints"]:
+                pub_strs["preprints"][year_str] = []
+            pub_strs["preprints"][year_str].append(
                 "<li class='list-group-item border-0'>"
                 + pub_str
                 + "<br>"
