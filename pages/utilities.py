@@ -59,6 +59,7 @@ def load_publication_data(path):
         if venue is None:
             if year_str not in pub_strs["preprints"]:
                 pub_strs["preprints"][year_str] = []
+
             pub_strs["preprints"][year_str].append(
                 "<li class='list-group-item border-0'>"
                 + pub_str
@@ -70,8 +71,8 @@ def load_publication_data(path):
             if year_str not in pub_strs["theses"]:
                 pub_strs["theses"][year_str] = []
 
-            if pub_url:
-                buttons.append(button(pub_url, "Published", "ai-archive"))
+            buttons.append(button(pub_url, "Published", "ai-archive"))
+
             pub_strs["theses"][year_str].append(
                 "<li class='list-group-item border-0'>"
                 + pub_str
@@ -82,7 +83,10 @@ def load_publication_data(path):
         else:
             if year_str not in pub_strs["pubs"]:
                 pub_strs["pubs"][year_str] = []
-            buttons.append(button(pub_url, "Published", "ai-archive"))
+
+            if pub_url:
+                buttons.append(button(pub_url, "Published", "ai-archive"))
+
             pub_strs["pubs"][year_str].append(
                 "<li class='list-group-item border-0'>"
                 + pub_str
