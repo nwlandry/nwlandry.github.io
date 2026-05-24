@@ -24,22 +24,22 @@ def load_publication_data(path):
         title_str = data["title"]
         authors = data.get("authors", ["me"])
         authors = [
-            a if a != "NWL" else "<strong>Nicholas W. Landry</strong>" for a in authors
+            f"<strong>{a}</strong>" if a == "Nicholas W. Landry" else a for a in authors
         ]
         author_str = readable_list(authors)
         year_str = data["year"]
 
         buttons = []
         pdf = data.get("pdf")
-        if pdf is not None:
+        if pdf:
             buttons.append(button(pdf, "PDF", "bi-file-earmark-pdf"))
 
         preprint = data.get("preprint")
-        if preprint is not None:
+        if preprint:
             buttons.append(button(preprint, "Preprint", "ai-arxiv"))
 
         code = data.get("code")
-        if code is not None:
+        if code:
             buttons.append(button(code, "Code", "bi-github"))
 
         pub_url = data.get("published_url")
@@ -48,15 +48,15 @@ def load_publication_data(path):
 
         pub_str = f'{author_str}, "{title_str}",'
 
-        if venue is not None:
+        if venue:
             pub_str += f" <em>{venue}</em>"
 
-        if thesis_type is not None:
+        if thesis_type:
             pub_str += f", <em>{thesis_type} Thesis</em>"
 
         pub_str += f" ({year_str})."
 
-        if pub_url is None:
+        if venue is None:
             if year_str not in pub_strs["wps"]:
                 pub_strs["wps"][year_str] = []
             pub_strs["wps"][year_str].append(
@@ -66,10 +66,12 @@ def load_publication_data(path):
                 + " ".join(buttons)
                 + "</li>"
             )
-        elif thesis_type is not None:
+        elif thesis_type:
             if year_str not in pub_strs["theses"]:
                 pub_strs["theses"][year_str] = []
-            buttons.append(button(pub_url, "Published", "ai-archive"))
+
+            if pub_url:
+                buttons.append(button(pub_url, "Published", "ai-archive"))
             pub_strs["theses"][year_str].append(
                 "<li class='list-group-item border-0'>"
                 + pub_str

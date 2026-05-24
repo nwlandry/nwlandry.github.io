@@ -41,6 +41,8 @@ My [portfolio](/portfolio/) is a collection of some projects that I’ve worked 
 
 ## Recent News
 
+* **May 2026**: Paper accepted! "NotD: The network of the day" in collaboration with Abhay Gupta and Jessica Taggart is accepted at Connections!
+* **May 2026**: I was awarded a [Ralph E. Powe Junior Faculty Enhancement Award](https://www.orau.org/partnerships/grant-programs/powe/index.html) for the project "Investigating how groups shape the diffusion of content on social media platforms."
 * **May 2026**: New preprint out! [The nestedness of higher-order networks](https://arxiv.org/abs/2605.18420) in collaboration with Tim LaRock, Yanting Zhang, Jean-Gabriel Young, Nicole Eikmeier, and Renaud Lambiotte. We survey and unify different measures of higher-order inclusion structure.
 * **May 2026**: New preprint out! [The interplay of network structure and correlated infectious traits in epidemic models](https://arxiv.org/abs/2605.12773) with my grad student Abhay Gupta. Check it out!
 * **May 2026**: I gave a talk at the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) annual retreat.

@@ -1,3 +1,13 @@
+gupta_notd_2026:
+  title: "NotD: The network of the day"
+  authors:
+    - Abhay Gupta
+    - Jessica Taggart
+    - Nicholas W. Landry
+  year: 2026
+  venue: Accepted at Connections
+  code: https://github.com/landry-lab/notd
+
 larock_nestedness_2026:
   title: "The nestedness of higher-order networks"
   authors:
@@ -6,7 +16,7 @@ larock_nestedness_2026:
     - Jean-Gabriel Young
     - Nicole Eikmeier
     - Renaud Lambiotte
-    - NWL
+    - Nicholas W. Landry
   year: 2026
   preprint: https://arxiv.org/abs/2605.18420
   code: https://github.com/tlarock/hypergraph-nestedness
@@ -15,7 +25,7 @@ gupta_interplay_2026:
   title: "The interplay of network structure and correlated infectious traits in epidemic models"
   authors:
     - Abhay Gupta
-    - NWL
+    - Nicholas W. Landry
   year: 2026
   preprint: https://arxiv.org/abs/2605.12773
   code: https://github.com/AbhayGupta115/HeterogenousCommunities
@@ -24,7 +34,7 @@ zajdela_higher-order_2026:
   title: "Higher-order interactions at scientific conferences influence team formation"
   authors:
     - Emma Zajdela
-    - NWL
+    - Nicholas W. Landry
   year: 2026
   preprint: https://arxiv.org/abs/2603.02571
   code: https://github.com/nwlandry/higher-order-team-formation
@@ -36,7 +46,7 @@ smith_blue_2026:
     - Ilya Amburg
     - Sagar Kumar
     - Brooke Foucault Welles
-    - NWL
+    - Nicholas W. Landry
   year: 2026
   venue: Scientific Data
   published_url: https://doi.org/10.1038/s41597-026-06920-1
@@ -49,7 +59,7 @@ coll_hif_2025:
   authors:
     - Martín Coll
     - Cliff A. Joslyn
-    - NWL
+    - Nicholas W. Landry
     - Quintino Francesco Lotito
     - Audun Myers
     - Joshua Pickard
@@ -65,7 +75,7 @@ coll_hif_2025:
 landry_group_2025:
   title: "Group Science: The Open Source Study of Higher-order Networks With XGI"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Laurent Hébert-Dufresne
   year: 2025
   venue: SIAM News
@@ -82,7 +92,7 @@ hebert-dufresne_stochastic_2025:
     - Samuel F. Rosenblatt
     - Stephanie N. Miller
     - P. Alexander Burnham
-    - NWL
+    - Nicholas W. Landry
     - Nicholas J. Gotelli
     - Brian J. McGill
   year: 2025
@@ -95,7 +105,7 @@ hebert-dufresne_stochastic_2025:
 landry_correction_2025:
   title: "Correction to: The simpliciality of higher-order networks"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Jean-Gabriel Young
     - Nicole Eikmeier
   year: 2025
@@ -107,7 +117,7 @@ hebert-dufresne_governance_2025:
   title: "Governance as a complex, networked, democratic, satisfiability problem"
   authors:
     - Laurent Hébert-Dufresne
-    - NWL
+    - Nicholas W. Landry
     - Juniper Lovato
     - Jonathan St-Onge
     - Jean-Gabriel Young
@@ -125,7 +135,7 @@ hebert-dufresne_governance_2025:
 landry_theoretical_2024:
   title: "A theoretical framework for reservoir computing on networks of organic electrochemical transistors"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Beckett R. Hyde
     - Jake C. Perez
     - Sean E. Shaheen
@@ -137,7 +147,7 @@ landry_theoretical_2024:
 landry_reconstructing_2024:
   title: "Reconstructing networks from simple and complex contagions"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Will Thompson
     - Laurent Hébert-Dufresne
     - Jean-Gabriel Young
@@ -152,7 +162,7 @@ landry_reconstructing_2024:
 landry_simpliciality_2024:
   title: "The simpliciality of higher-order networks"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Jean-Gabriel Young
     - Nicole Eikmeier
   year: 2024
@@ -166,7 +176,7 @@ landry_simpliciality_2024:
 landry_filtering_2024:
   title: "Filtering higher-order datasets"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Ilya Amburg
     - Mirah Shi
     - Sinan G. Aksoy
@@ -181,7 +191,7 @@ landry_filtering_2024:
 landry_opinion_2023:
   title: "Opinion disparity in hypergraphs with community structure"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Juan G. Restrepo
   year: 2023
   venue: Physical Review E
@@ -193,7 +203,7 @@ landry_opinion_2023:
 landry_xgi_2023:
   title: "XGI: A Python package for higher-order interaction networks"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Maxime Lucas
     - Iacopo Iacopini
     - Giovanni Petri
@@ -209,7 +219,7 @@ landry_xgi_2023:
 landry_limitations_2023:
   title: "On limitations of uniplex networks for modeling multiplex contagion"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - jimi adams
   year: 2023
   venue: PLoS ONE
@@ -221,7 +231,7 @@ landry_limitations_2023:
 landry_hypergraph_2022:
   title: "Hypergraph assortativity: a dynamical systems perspective"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Juan G. Restrepo
   year: 2022
   venue: Chaos
@@ -233,7 +243,7 @@ landry_hypergraph_2022:
 landry_effect_2021:
   title: "Effect of time-dependent infectiousness on epidemic dynamics"
   authors:
-    - NWL
+    - Nicholas W. Landry
   year: 2021
   venue: Physical Review E
   published_url: https://doi.org/10.1103/PhysRevE.104.064302
@@ -244,7 +254,7 @@ landry_effect_2021:
 landry_effect_2020:
   title: "The effect of heterogeneity on hypergraph contagion models"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Juan G. Restrepo
   year: 2020
   venue: Chaos
@@ -256,7 +266,7 @@ landry_effect_2020:
 landry_delineation_2015:
   title: "Delineation of First-Order Elastic Property Closures for Hexagonal Metals Using Fast Fourier Transforms"
   authors:
-    - NWL
+    - Nicholas W. Landry
     - Marko Knezevic
   year: 2015
   venue: Materials
@@ -267,7 +277,7 @@ knezevic_procedures_2015:
   title: "Procedures for reducing large datasets of crystal orientations using generalized spherical harmonics"
   authors:
     - Marko Knezevic
-    - NWL
+    - Nicholas W. Landry
   year: 2015
   venue: Mechanics of Materials
   published_url: https://doi.org/10.1016/j.mechmat.2015.04.014
@@ -278,7 +288,7 @@ knezevic_towards_2014:
   authors:
     - Marko Knezevic
     - Daniel J. Savage
-    - NWL
+    - Nicholas W. Landry
   year: 2014
   venue: Proceedings of the ASME
   published_url: https://doi.org/10.1115/MSEC2014-3984
@@ -288,7 +298,7 @@ landry_contagion_2022:
   title: "Contagion on Complex Systems: Structure and Dynamics"
   thesis: PhD
   authors:
-    - NWL
+    - Nicholas W. Landry
   year: 2022
   venue: The University of Colorado at Boulder
   published_url: https://www.proquest.com/docview/2672014395
@@ -298,7 +308,7 @@ landry_computationally_2014:
   title: "Computationally Efficient Representation of Statistically Described Material Microstructure for Tractable Forming Simulations"
   thesis: Honors
   authors:
-    - NWL
+    - Nicholas W. Landry
   year: 2014
   venue: The University of New Hampshire
   published_url: https://scholars.unh.edu/honors/370/
