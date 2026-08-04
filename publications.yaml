@@ -1,3 +1,16 @@
+tang_emergent_2026:
+  title: "Emergent contagion complexity: Disentangling mechanistic complexity from correlated heterogeneity"
+  authors:
+    - Katerina Tang
+    - Daniel Kaiser
+    - Will Thompson
+    - Jean-Gabriel Young
+    - Laurent Hébert-Dufresne
+    - Nicholas W. Landry
+  year: 2026
+  preprint: https://arxiv.org/abs/2607.25139
+  code: https://github.com/kaiser-dan/heterogeneous-infection-kernels
+
 gupta_notd_2026:
   title: "NotD: The network of the day"
   authors:
