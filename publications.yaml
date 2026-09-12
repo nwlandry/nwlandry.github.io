@@ -18,7 +18,9 @@ gupta_notd_2026:
     - Jessica Taggart
     - Nicholas W. Landry
   year: 2026
-  venue: Accepted at Connections
+  venue: Connections
+  published_url: https://doi.org/10.2478/connections-2026-0005
+  pdf: /assets/docs/publications/2026_Connections_NotD.pdf
   code: https://github.com/landry-lab/notd
 
 larock_nestedness_2026:
@@ -49,6 +51,7 @@ zajdela_higher-order_2026:
     - Emma Zajdela
     - Nicholas W. Landry
   year: 2026
+  pdf: /assets/docs/publications/2026_NIU_higher-order.pdf
   preprint: https://arxiv.org/abs/2603.02571
   code: https://github.com/nwlandry/higher-order-team-formation
 
