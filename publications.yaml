@@ -1,15 +1,14 @@
-tang_emergent_2026:
-  title: "Emergent contagion complexity: Disentangling mechanistic complexity from correlated heterogeneity"
+kumar_finding_2026:
+  title: "Finding Common Ground: Graded Communal Knowledge in Bluesky Starter Packs"
   authors:
-    - Katerina Tang
-    - Daniel Kaiser
-    - Will Thompson
-    - Jean-Gabriel Young
-    - Laurent Hébert-Dufresne
+    - Sagar Kumar
+    - Lawrence Swaminathan Xavier Prince
+    - Julia Mendelsohn
+    - Brooke Foucault Welles
     - Nicholas W. Landry
   year: 2026
-  preprint: https://arxiv.org/abs/2607.25139
-  code: https://github.com/kaiser-dan/heterogeneous-infection-kernels
+  preprint: https://arxiv.org/abs/2609.19549
+  code: https://github.com/sagarkumar16/bsky_common_ground
 
 gupta_notd_2026:
   title: "NotD: The network of the day"
@@ -22,6 +21,19 @@ gupta_notd_2026:
   published_url: https://doi.org/10.2478/connections-2026-0005
   pdf: /assets/docs/publications/2026_Connections_NotD.pdf
   code: https://github.com/landry-lab/notd
+
+tang_emergent_2026:
+  title: "Emergent contagion complexity: Disentangling mechanistic complexity from correlated heterogeneity"
+  authors:
+    - Katerina Tang
+    - Daniel Kaiser
+    - Will Thompson
+    - Jean-Gabriel Young
+    - Laurent Hébert-Dufresne
+    - Nicholas W. Landry
+  year: 2026
+  preprint: https://arxiv.org/abs/2607.25139
+  code: https://github.com/kaiser-dan/heterogeneous-infection-kernels
 
 larock_nestedness_2026:
   title: "The nestedness of higher-order networks"
